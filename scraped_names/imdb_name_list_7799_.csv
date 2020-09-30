@@ -1,0 +1,4784 @@
+,name_id,name
+0,nm0405374,Hyung-rae Shim
+1,nm3436850,Syamsul Yusof
+2,nm0001774,Ben Stiller
+3,nm0057842,Olivier Baroux
+4,nm0000852,Jean-Marc Barr
+5,nm0079013,Toni Bestard
+6,nm0514852,Renata Litvinova
+7,nm2900728,Uwe Anders
+8,nm0149134,Sinan Çetin
+9,nm1427149,Andrew Rossi
+10,nm0011470,Andrew Adamson
+11,nm0945282,Yôji Yamada
+12,nm1033668,Ariel Winograd
+13,nm1741731,Aytaç Agirlar
+14,nm1429436,Andrzej Saramonowicz
+15,nm0059509,Gabriel Barylli
+16,nm3070614,Dmitry Povolotsky
+17,nm2202443,József Sipos
+18,nm1145183,Valentín Javier Diment
+19,nm0916406,Mark Webber
+20,nm2910706,Alberto Rodriguez
+21,nm1486025,Alejandro Brugués
+22,nm2134474,Vikas Bahl
+23,nm2303069,Mikael Buch
+24,nm0751577,Anthony Russo
+25,nm0442887,Hirotsugu Kawasaki
+26,nm4363509,Ryan M. Kennedy
+27,nm1119880,Colin Trevorrow
+28,nm1349821,José Pepe Bojórquez
+29,nm0678786,J.T. Petty
+30,nm1033032,Hideki Takeuchi
+31,nm0404485,James Huth
+32,nm4393347,Onur Kulakoglu
+33,nm0572562,Greg McLean
+34,nm1519353,Tom Six
+35,nm1559043,Chris Martinez
+36,nm1637806,Sôichi Masui
+37,nm0723172,Carlos Alberto Riccelli
+38,nm0553379,Renzo Martinelli
+39,nm2260801,Saratswadee Wongsomphet
+40,nm1109353,Grigoriy Gyardushyan
+41,nm4436892,Ruhi Karadag
+42,nm1145655,Shirish Kunder
+43,nm0268999,Philippe Faucon
+44,nm0660371,Martin Papazian
+45,nm0912334,Alex van Warmerdam
+46,nm0000431,Taylor Hackford
+47,nm1068905,Namrata Singh Gujral
+48,nm1115144,Anja Salomonowitz
+49,nm1234345,Takashi Shimizu
+50,nm0918326,Hans Weingartner
+51,nm2421181,Danny Mooney
+52,nm0900527,Ivan Vladimirov
+53,nm1840944,Robert Thalheim
+54,nm3289246,Gok Kim
+55,nm3628980,Asad Shan
+56,nm0151733,Jin Jang
+57,nm3213872,Serkan Acar
+58,nm1553775,Crispian Mills
+59,nm1324710,Martin Zandvliet
+60,nm1170855,J.C. Chandor
+61,nm0626090,Jack Neo
+62,nm0337773,David Gordon Green
+63,nm3370930,Takashi Kubota
+64,nm1240647,Nicolás López
+65,nm0014694,Karim Aïnouz
+66,nm3866538,Aron Lehmann
+67,nm0439178,Michael Karen
+68,nm1634378,Takayuki Hamana
+69,nm1620212,Joel Allen Schroeder
+70,nm1245382,Sandra Nashaat
+71,nm0266255,Jun Falkenstein
+72,nm1490123,James Wan
+73,nm0774221,Gregor Schnitzler
+74,nm0001438,Neil LaBute
+75,nm0210487,Marcelo Fernandes De Moura
+76,nm0679031,Brad Peyton
+77,nm1438245,Anna van der Heide
+78,nm0419494,Jose Javier Reyes
+79,nm0015359,Fatih Akin
+80,nm0531817,Kevin Macdonald
+81,nm4917974,Ali Adnan Özgür
+82,nm0661345,Neri Parenti
+83,nm1868917,Alessandro Carloni
+84,nm4792824,Stefan Immler
+85,nm1032974,Santiago Svirsky
+86,nm0593610,Mike Mitchell
+87,nm1841063,Richard Somes
+88,nm3311094,Keishi Ohtomo
+89,nm0828970,John Stevenson
+90,nm3522076,Aharon Keshales
+91,nm4962293,Panjapong Kongkanoy
+92,nm1957706,Claude Barras
+93,nm1502159,Mike Marzuk
+94,nm2612347,Jamal Shoorje
+95,nm1069826,Gautham Menon
+96,nm1589591,Tony Kern
+97,nm0323758,Andy Goddard
+98,nm0948596,Sang-Hyo Yook
+99,nm1497931,Mark Penney
+100,nm0000965,Danny Boyle
+101,nm0586837,Riccardo Milani
+102,nm0782355,Dena Seidel
+103,nm0917405,Apichatpong Weerasethakul
+104,nm1616394,Nabil Ben Yadir
+105,nm1762961,Jeff Tomsic
+106,nm5639913,Ho Hong
+107,nm1349376,Francis Lawrence
+108,nm5650556,R.S. Durai Senthilkumar
+109,nm2050760,Ben Blaine
+110,nm1331264,Sonia Sebastián
+111,nm0069166,Marco Bellocchio
+112,nm0833627,Charlie Stratton
+113,nm2497546,David F. Sandberg
+114,nm0523276,Declan Lowney
+115,nm0715636,Peyton Reed
+116,nm1009277,Dax Shepard
+117,nm0294825,Ron Fricke
+118,nm1201875,Géla Babluani
+119,nm0243233,Mark Duplass
+120,nm0000513,William H. Macy
+121,nm1556116,Kevin Kölsch
+122,nm6576432,Baimei Yu
+123,nm3422245,Feng Zu
+124,nm0050988,Thomas Balmès
+125,nm8877778,Kazuya Kamihoriuchi
+126,nm1191481,Leigh Whannell
+127,nm0532509,Sérgio Machado
+128,nm0655683,José Padilha
+129,nm0973105,Tono Errando
+130,nm1391924,Gustavo Taretto
+131,nm0312881,Toby Genkel
+132,nm0345615,Christian Gudegast
+133,nm1264059,Xavier Ribera
+134,nm0082450,Paul Feig
+135,nm0694946,Manuel Pradal
+136,nm3160408,E. Raymond Brown
+137,nm0149446,Gurinder Chadha
+138,nm0363857,Frank Harper
+139,nm1637768,Jim Field Smith
+140,nm2022197,Tom Sanchez
+141,nm0000631,Ridley Scott
+142,nm0660266,Rocco Papaleo
+143,nm1028596,Eduardo Chapero-Jackson
+144,nm0578757,Christopher Menaul
+145,nm2482088,Tommy Wirkola
+146,nm3686331,Aaron Schock
+147,nm1064077,Mamoru Hoshi
+148,nm0102887,David Bradbury
+149,nm0694249,Nick Powell
+150,nm0023859,Keita Amemiya
+151,nm0233027,Martin Donovan
+152,nm0275277,Shana Feste
+153,nm0839268,Kjell Sundvall
+154,nm2514999,Francisco Javier Padilla
+155,nm0382956,Scott Hicks
+156,nm0969427,Semih Kaplanoglu
+157,nm1385560,Leandro Ipiña
+158,nm0620363,Tetsuya Nakashima
+159,nm2543774,Emilis Velyvis
+160,nm2120491,Sérgio Graciano
+161,nm0259930,Kagan Erturan
+162,nm0957505,Craig Zobel
+163,nm1455688,Julie Anne Robinson
+164,nm0842955,Stefanie Sycholt
+165,nm0736623,Andi Rogenhagen
+166,nm2941797,Maria Lindberg
+167,nm0292211,Paul Fraser
+168,nm2565292,Tanwarin Sukkhapisit
+169,nm2054189,Fredrik Boklund
+170,nm0069818,Hernán Belón
+171,nm0249998,Gale Edwards
+172,nm0880928,Ümit Ünal
+173,nm3832292,Masaaki Taniguchi
+174,nm3847994,Anario Mamedov
+175,nm0438228,Diego Kaplan
+176,nm1896275,Ryûichi Honda
+177,nm1318617,Sergio Constantino
+178,nm1175724,Noboru Iguchi
+179,nm0300168,Radu Gabrea
+180,nm2706882,Luc Côté
+181,nm0470323,Ron Krauss
+182,nm0001348,Werner Herzog
+183,nm1112548,Johannes Naber
+184,nm0129842,David Calek
+185,nm0671210,Mark Pellington
+186,nm0348640,Andrew Gurland
+187,nm0037708,Miguel Arteta
+188,nm0031992,Stephan Apelgren
+189,nm0875072,Filippos Tsitos
+190,nm0554139,Ícaro Martins
+191,nm4021775,Yuriy Bykov
+192,nm0151167,Wing-Chiu Chan
+193,nm0617407,Aleksi Mäkelä
+194,nm0409791,Indra Kumar
+195,nm0875672,Dinko Tucakovic
+196,nm4092503,Pascal Serieis
+197,nm2955107,Raj Kumar Gupta
+198,nm1553755,Alexandra McGuinness
+199,nm1258686,Joachim Trier
+200,nm0323303,José Glusman
+201,nm4114638,Victor D. Ponten
+202,nm1641315,Ezna Sands
+203,nm2165066,Carles Torrens
+204,nm1741105,Steve Taylor
+205,nm2800579,Matthew Bate
+206,nm1212489,Sebastián Bednarik
+207,nm2120994,Zübeyr Sasmaz
+208,nm0521803,Aku Louhimies
+209,nm0005366,Jay Roach
+210,nm0200380,Brian Dannelly
+211,nm0173684,Cristian Comeaga
+212,nm3954268,Anna-Katharina Wohlgenannt
+213,nm2182866,Julien Leclercq
+214,nm0644309,Paula van der Oest
+215,nm1754484,Murat Saraçoglu
+216,nm4025732,Leyla Yilmaz
+217,nm0407067,Álex de la Iglesia
+218,nm0921264,Piotr Weresniak
+219,nm1717924,Jan Komasa
+220,nm1235483,John Shank
+221,nm4271511,Vl. Kitt
+222,nm0728149,Arturo Ripstein
+223,nm0284369,Ari Folman
+224,nm1782844,Amr Salama
+225,nm4290547,Hyuk-Sang Lee
+226,nm3153222,Mark Hall
+227,nm1012523,Laya Yourgou
+228,nm2286540,Maryanne Zéhil
+229,nm0735134,João Pedro Rodrigues
+230,nm0055348,Nicola Barnaba
+231,nm0645657,Hiroyuki Okiura
+232,nm0970382,Piotr Trzaskalski
+233,nm0221611,Arnaud Desplechin
+234,nm1897437,Anita Barbosa
+235,nm4161077,Biyi Bandele
+236,nm0314863,Peter Gersina
+237,nm0418450,Agnès Jaoui
+238,nm1639277,Michael Tiddes
+239,nm0563243,Dan Mazer
+240,nm4577722,Wilson Chin
+241,nm1936347,Dong-won Kim
+242,nm1886112,Gonzalo Tobal
+243,nm0117741,BT
+244,nm1509613,Jorge R. Gutiérrez
+245,nm1846132,Joe Swanberg
+246,nm5160418,Meliksah Altuntas
+247,nm1493163,Alex Karpovsky
+248,nm0949210,Michaël Youn
+249,nm0308260,Tim Garrick
+250,nm0469273,Søren Kragh-Jacobsen
+251,nm0670990,Lucio Pellegrini
+252,nm0686060,Enrico Pitzianti
+253,nm0844444,János Szász
+254,nm0524461,Anthony Lucero
+255,nm4995226,Gianluca Mingotto
+256,nm3590210,Baljit Singh Deo
+257,nm1559043,Chris Martinez
+258,nm1050097,Isaki Lacuesta
+259,nm0609236,Jonathan Mostow
+260,nm1805430,Ahishor Solomon
+261,nm0504267,Jalil Lespert
+262,nm0415245,Benoît Jacquot
+263,nm0673051,Nelson Pereira dos Santos
+264,nm3057599,Dheeraj Rattan
+265,nm2366012,Matt Bettinelli-Olpin
+266,nm0000278,Pernilla August
+267,nm2133921,Hasan Karacadag
+268,nm1283069,Cathy Garcia-Molina
+269,nm0415245,Benoît Jacquot
+270,nm0005366,Jay Roach
+271,nm0262635,Chris Evans
+272,nm0328515,Víctor González
+273,nm0002653,Joe Johnston
+274,nm0114226,Matt Brown
+275,nm0001060,Chris Columbus
+276,nm0551076,Neil Marshall
+277,nm0751102,David O. Russell
+278,nm0275698,Andy Fickman
+279,nm0108132,Craig Brewer
+280,nm0609549,Greg Mottola
+281,nm0506613,Shawn Levy
+282,nm0526819,Tomás Lunák
+283,nm0240797,Dennis Dugan
+284,nm0936482,Len Wiseman
+285,nm1338655,Diego Corsini
+286,nm0001081,Cameron Crowe
+287,nm0322248,Mitch Glazer
+288,nm0305405,Risa Bramon Garcia
+289,nm3346049,Mariana Cengel-Solcanská
+290,nm0865573,Ricky Tognazzi
+291,nm1327703,Yoshihiro Nakamura
+292,nm0003557,Richard J. Lewis
+293,nm0666685,Peter Patzak
+294,nm0502412,Edoardo Leo
+295,nm0439397,Pekka Karjalainen
+296,nm3464822,Michael Henry
+297,nm0002120,Lasse Hallström
+298,nm0191147,Michael Cuesta
+299,nm0236226,Michael Dowse
+300,nm0228542,Christian Ditter
+301,nm0180428,Joe Cornish
+302,nm0269542,Nat Faxon
+303,nm0000217,Martin Scorsese
+304,nm4126766,Yu-Lin Wang
+305,nm0049326,Aleksey Balabanov
+306,nm0691953,Gilles Porte
+307,nm0415245,Benoît Jacquot
+308,nm1403892,Yibai Zhang
+309,nm0779433,Ken Scott
+310,nm4146008,Paolo Conti
+311,nm2434762,Juan Baldana
+312,nm1482109,Frank Piasecki Poulsen
+313,nm4159157,Serkan Ok
+314,nm0847545,Noboru Takemoto
+315,nm1186589,Chi-Man Wan
+316,nm1153907,Mike Fleiss
+317,nm1296554,Ben Wheatley
+318,nm1076635,Gustavo Giannini
+319,nm0598855,Giuliano Montaldo
+320,nm4474332,Mounir Maasri
+321,nm1242062,Arie Posin
+322,nm1169526,Patrick Wang
+323,nm0594769,Lars Mjøen
+324,nm1300166,Kyung-jung Joo
+325,nm3206815,Hyeok-jae Kwon
+326,nm3071876,Yukiyo Teramoto
+327,nm2365361,Phil Dorling
+328,nm0659380,Danny Pang
+329,nm0698228,Irina Probost
+330,nm2782976,Ian Cheney
+331,nm4371472,Pin-Chuan Kao
+332,nm1424878,Ed Gass-Donnelly
+333,nm0005077,James Keach
+334,nm0002191,Jacques Audiard
+335,nm1572674,Bartosz Konopka
+336,nm0179697,Ericson Core
+337,nm3863558,Pol Aregall
+338,nm1242054,James Ponsoldt
+339,nm2260751,Sally El Hosaini
+340,nm2035480,André Schäfer
+341,nm1142177,Jesús Monllaó
+342,nm0839397,Masayuki Suo
+343,nm1269402,Ari Matikainen
+344,nm0305563,Adrián García Bogliano
+345,nm1892220,Josh C. Waller
+346,nm0489344,Philippe Larue
+347,nm0271815,Xiaogang Feng
+348,nm1324266,Jeremy Xido
+349,nm3416326,M. Tayfur Aydin
+350,nm0960025,Kentarô Ohtani
+351,nm0781842,Peter Segal
+352,nm1388428,Nicolas Bary
+353,nm0801243,Tony Simpson
+354,nm2032664,Kôbun Shizuno
+355,nm3960638,Oliver Rodger
+356,nm0004689,Frédéric Forestier
+357,nm1377658,Steven Sheil
+358,nm1996918,Dito Montiel
+359,nm1445276,Daniela De Carlo
+360,nm1903006,Gauri Shinde
+361,nm1067862,Phil Grabsky
+362,nm1436693,A.R. Murugadoss
+363,nm0724938,Jean-François Richet
+364,nm2524803,Stanislav Donchev
+365,nm0284011,Clarence Yiu-leung Fok
+366,nm1902132,Károly Ujj Mészáros
+367,nm4129426,Shunsuke Kariyama
+368,nm0000853,Bruno Barreto
+369,nm1191315,Walter Tournier
+370,nm0106620,Barbara Bredero
+371,nm1717961,Froukje Tan
+372,nm1375074,Rossana Foglia
+373,nm2320658,Don Hall
+374,nm1667629,Marie Jamora
+375,nm2208579,Chih-Hsiang Ma
+376,nm0423646,Roland Joffé
+377,nm1218281,Jon Watts
+378,nm0504980,Patrick Leung
+379,nm2504839,Katharine Round
+380,nm0670262,Ravindra Peepat
+381,nm5152514,Mark Elliott
+382,nm1310723,Marie-Castille Mention-Schaar
+383,nm3550361,Sarik Andreasyan
+384,nm0802679,Yuthlert Sippapak
+385,nm3628658,Kye Soo Jeon
+386,nm1190947,Øyvind Sandberg
+387,nm0398185,Peter Howitt
+388,nm2341549,Hong-seon Kim
+389,nm1922296,Max Pugh
+390,nm4689260,Pieter-Jan De Pue
+391,nm0580793,Fernando Merinero
+392,nm0398575,Jan Hrebejk
+393,nm1257352,Julia Hart
+394,nm0612720,Marc Munden
+395,nm2450986,Stuart Cameron
+396,nm2383584,Sandro Ventura
+397,nm0405578,Marion Hänsel
+398,nm1732806,Joanna Kos-Krauze
+399,nm0633106,Eeshwar Nivas
+400,nm1732946,Hélène Cattet
+401,nm4146491,Salmon de Jager
+402,nm0646444,Margreth Olin
+403,nm0907835,Jeffrey Walker
+404,nm0639021,Arne Lindtner Næss
+405,nm4992708,Lucas Larriera
+406,nm0870313,Toshiaki Toyoda
+407,nm3205834,Tim French
+408,nm0726954,Eran Riklis
+409,nm3408503,Flora Lau
+410,nm2347678,Yael Reuveny
+411,nm3607564,Taisiya Igumentseva
+412,nm0000876,Noah Baumbach
+413,nm1440144,Dana Brown
+414,nm0534442,Belén Macías
+415,nm0784061,Dominic Sena
+416,nm1698419,Michael Gleissner
+417,nm1512910,Duncan Jones
+418,nm2242451,Mika Ninagawa
+419,nm0393394,Christophe Honoré
+420,nm0263009,Marc Evans
+421,nm0423646,Roland Joffé
+422,nm0000217,Martin Scorsese
+423,nm0777881,Robert Schwentke
+424,nm2161247,Paco Cabezas
+425,nm0000185,Dolph Lundgren
+426,nm1089011,Jon Artigo
+427,nm3810122,Mathew Cullen
+428,nm0659950,Wolfgang Panzer
+429,nm0407992,Sang-soo Im
+430,nm3223973,João Nuno Pinto
+431,nm0670670,Robert-Adrian Pejo
+432,nm0634240,Christopher Nolan
+433,nm0393799,Tom Hooper
+434,nm0001752,Steven Soderbergh
+435,nm0442454,Aki Kaurismäki
+436,nm0524516,Daniele Luchetti
+437,nm0295003,Louise Friedberg
+438,nm0374959,Sophie Heldman
+439,nm0765761,Tamás Sas
+440,nm0400850,Patrick Hughes
+441,nm0757081,Junji Sakamoto
+442,nm1905588,Christian Fry
+443,nm1558799,Makoto Nakamura
+444,nm0931095,Tod Williams
+445,nm3669732,Michael Rowe
+446,nm0000965,Danny Boyle
+447,nm0767022,Carlos Saura
+448,nm3307068,Yaroslav Chevazhevskiy
+449,nm0729514,Christian Rivers
+450,nm0686375,Michele Placido
+451,nm1048540,Tae-gyun Kim
+452,nm0816090,Barnaby Southcombe
+453,nm0897065,Grégoire Vigneron
+454,nm1922887,Tim Greene
+455,nm0851724,Bertrand Tavernier
+456,nm2568708,Klim Shipenko
+457,nm1492075,Ruslan Baltzer
+458,nm1049433,Lenny Abrahamson
+459,nm1302591,Michael Sucsy
+460,nm0452221,Jan Kidawa-Blonski
+461,nm2990632,Myroslav Slaboshpytskyi
+462,nm4137350,Cindy Meehl
+463,nm1196161,Carlos Reygadas
+464,nm0742230,Jacob Rosenberg
+465,nm0007439,Douglas Aarniokoski
+466,nm4160501,Boyd Hicklin
+467,nm1413364,Ariel Schulman
+468,nm1218281,Jon Watts
+469,nm4204662,Dylan Mohan Gray
+470,nm0000647,Alan Smithee
+471,nm2573954,Miguel Gonçalves Mendes
+472,nm0007071,Dennis Bots
+473,nm0094253,Elena Bonelli
+474,nm1460159,Rohit Shetty
+475,nm3740108,Peter Gerdehag
+476,nm1384721,Özcan Deniz
+477,nm0019341,Daniel Algrant
+478,nm3363032,Ryan Coogler
+479,nm0325960,Marina Goldovskaya
+480,nm1228541,Guido Pappadà
+481,nm0012137,Duane Adler
+482,nm1069989,Olatunde Osunsanmi
+483,nm0952077,Dervis Zaim
+484,nm0815044,Carlos Sorin
+485,nm0917405,Apichatpong Weerasethakul
+486,nm0893872,Carlo Verdone
+487,nm0315842,Bahman Ghobadi
+488,nm0601337,Jason Moore
+489,nm1729121,Eiichirô Hasumi
+490,nm1455707,Marcus H. Rosenmüller
+491,nm0506802,Ben Lewin
+492,nm0889402,Carlo Vanzina
+493,nm0660707,Gilles Paquet-Brenner
+494,nm4386173,Arturo Dueñas
+495,nm1584093,Patricia Arriaga-Jordán
+496,nm2222215,Lijun Sun
+497,nm1671980,Paolo Franchi
+498,nm0911075,Xiaoshuai Wang
+499,nm0623025,Tino Navarro
+500,nm0868441,Jorge Torregrossa
+501,nm0220774,Arnaud des Pallières
+502,nm0408646,Fiorella Infascelli
+503,nm4667522,Sibylle Righetti
+504,nm4678690,Perry Bhandal
+505,nm1555894,Alberto Aranda
+506,nm0250625,Omiros Efstratiadis
+507,nm0506518,Lorraine Lévy
+508,nm1637767,Edwin
+509,nm1374747,Yung Chang
+510,nm2117748,Tomoki Sano
+511,nm2284472,Jason Tippet
+512,nm3656010,Said El Marouk
+513,nm1773597,Hervé Mimran
+514,nm4236974,Fritz Ofner
+515,nm0613582,Lúcia Murat
+516,nm0182891,Ivan Cotroneo
+517,nm1550373,Jonathan Lisecki
+518,nm0079578,Antoinette Beumer
+519,nm2596818,Jun Shishido
+520,nm1857245,Hilla Medalia
+521,nm1823227,Rachel Grady
+522,nm0436382,Kamal
+523,nm0633729,Nobuhiro Yamashita
+524,nm3828653,Edna Luise Biesold
+525,nm3275942,Rebecca Thomas
+526,nm0582650,Peter Mettler
+527,nm0000142,Clint Eastwood
+528,nm1077724,Christopher Dillon Quinn
+529,nm1359664,Ben Gregor
+530,nm1778465,Masato Hijikata
+531,nm0352032,Kamal Haasan
+532,nm1203789,Geeta V. Patel
+533,nm1799233,Nancy Buirski
+534,nm1011835,Kelly Nyks
+535,nm0749599,Maite Ruiz de Austri
+536,nm0006854,Roger Spottiswoode
+537,nm1294961,Michael Spierig
+538,nm0092632,Carlos Bolado
+539,nm0209629,Louis-Do de Lencquesaing
+540,nm0660245,Christopher Papakaliatis
+541,nm1940197,Joel Franka
+542,nm5059353,Cheng Ding An
+543,nm2317803,Bodo Kox
+544,nm4019396,Matteo Vicino
+545,nm0499946,Juha Lehtola
+546,nm3158271,Fernando Guzzoni
+547,nm4305424,Tom Dolby
+548,nm1548476,Luigi Cecinelli
+549,nm0465932,Barbara Kopple
+550,nm1933648,Dome Karukoski
+551,nm0813786,Ben Sombogaart
+552,nm5395166,André Luiz Oliveira
+553,nm0449489,Peter Kern
+554,nm5383531,Emrah Erdogan
+555,nm0426059,Rian Johnson
+556,nm2473813,Henry Nicholson
+557,nm1153627,Sam Friedlander
+558,nm0435091,Kenneth Kainz
+559,nm0184027,Peter Cousens
+560,nm3774632,Robin Pront
+561,nm0801543,Osman Sinav
+562,nm0890394,Pedro Vasconcelos
+563,nm1378015,Subhash Kapoor
+564,nm4219902,Hoon-jung Park
+565,nm3809735,Chaiporn Panichrutiwong
+566,nm1840064,Michael Noer
+567,nm1499344,Andrea Herrera Catalá
+568,nm0038295,Yûzô Asahara
+569,nm1140275,Steven Knight
+570,nm0156828,Timothy A. Chey
+571,nm0560277,Erik Matti
+572,nm1079776,George Nolfi
+573,nm3735491,Chris Miller
+574,nm0005367,Brian Robbins
+575,nm0007082,John Stockwell
+576,nm0278181,Will Finn
+577,nm5698993,Jesus Garces Lambert
+578,nm2420471,Karen Oganesyan
+579,nm0060505,Charles E. Bastien
+580,nm0002077,Dexter Fletcher
+581,nm0002657,Gary Ross
+582,nm0192984,Paul Currie
+583,nm0451326,Sohail Khan
+584,nm0424103,Karan Johar
+585,nm0580351,Stephen Merchant
+586,nm0875793,Anand Tucker
+587,nm0831557,Nicholas Stoller
+588,nm0006960,John Madden
+589,nm0000727,Percy Adlon
+590,nm0230696,Lola Doillon
+591,nm0607831,Koen Mortier
+592,nm0711807,George Ratliff
+593,nm0054862,David Barker
+594,nm0172877,Laurie Collyer
+595,nm1150657,Filip Remunda
+596,nm0610831,Gabriele Muccino
+597,nm2965282,Brian Welsh
+598,nm1066739,Yukihiko Tsutsumi
+599,nm0002252,David A. Armstrong
+600,nm0068587,William Brent Bell
+601,nm0240797,Dennis Dugan
+602,nm0280133,Rob Fitz
+603,nm1485793,Marcus Baldini
+604,nm1403225,Alexei Popogrebsky
+605,nm2947826,Scud
+606,nm0665022,Carlos Pastor
+607,nm1969831,Paul Gordon
+608,nm0000095,Woody Allen
+609,nm1131933,Satyajit Bhatkal
+610,nm0493441,Richard Laxton
+611,nm0859707,Harry Thomason
+612,nm3817360,Kazuaki Ue
+613,nm0386312,Hideyuki Hirayama
+614,nm0476417,Kôzô Kusuba
+615,nm0825842,Hans Steinbichler
+616,nm0681852,Robbie Pickering
+617,nm0281508,Ruben Fleischer
+618,nm1731937,Alex Kendrick
+619,nm4131982,Grant Skellenger
+620,nm0002120,Lasse Hallström
+621,nm0436780,Makoto Kamiya
+622,nm2316087,Kenneth Olaf Hjellum
+623,nm0920635,Markus Welter
+624,nm2103171,Gaukur Úlfarsson
+625,nm0774990,Sophie Schoukens
+626,nm0679154,Chema de la Peña
+627,nm0031976,Judd Apatow
+628,nm4162804,Nick Wells
+629,nm0000953,Peter Bogdanovich
+630,nm4165588,João Rodrigo Mattos
+631,nm1016428,James Marsh
+632,nm0642823,Thaddeus O'Sullivan
+633,nm1381767,Mikael Syrén
+634,nm1589673,Felipe Joffily
+635,nm1147588,Faruk Aksoy
+636,nm0632808,Hiroshi Nishitani
+637,nm0538558,Sergey Makhovikov
+638,nm0746162,Jean-Paul Rouve
+639,nm0893111,Massimo Venier
+640,nm0170043,Isabel Coixet
+641,nm1231757,Noah Buschel
+642,nm0802168,Manmohan Singh
+643,nm1030526,Sang Man Kim
+644,nm0066430,Kaat Beels
+645,nm1852072,Genevieve Bailey
+646,nm0437747,Nirattisai Kaljareuk
+647,nm0343547,Nina Grosse
+648,nm1979682,Alejandro González Padilla
+649,nm4341403,Claudia del Campo
+650,nm1777967,A.L. Vijay
+651,nm2024795,Rodolfo Carnevale
+652,nm3760126,Mez Tharatorn
+653,nm0946092,Yun-ho Yang
+654,nm0465551,Martin Koolhoven
+655,nm1740890,Eduardo Mendoza de Echave
+656,nm3338574,Christoph Mayr
+657,nm0477041,Kyung-taek Kwak
+658,nm0638434,Juraj Nvota
+659,nm4675381,Joel Leang
+660,nm2011631,Peter Getzels
+661,nm0084819,Claus Bjerre
+662,nm1547925,Poj Arnon
+663,nm0520749,Robert Lorenz
+664,nm3572639,Juraj Krasnohorsky
+665,nm4729613,Malika Zouhali-Worrall
+666,nm4744716,Daniel McCabe
+667,nm3935975,Carlos Daniel Malavé
+668,nm0340840,Greg Gricus
+669,nm2399862,Aanand L. Rai
+670,nm0537339,João Maia
+671,nm0429517,Ate de Jong
+672,nm3233092,Gor Kirakosian
+673,nm0002645,Paolo Genovese
+674,nm2252464,Daniela Seggiaro
+675,nm1094036,James Napier Robertson
+676,nm0356875,Jari Halonen
+677,nm0619851,Marek Najbrt
+678,nm0282425,Peter Flinth
+679,nm1147848,Frédéric Berthe
+680,nm0426333,Tim Johnson
+681,nm5123449,N. Shankar Dayal
+682,nm3009133,Massoud Bakhshi
+683,nm3873210,Andrew Steggall
+684,nm2943912,Hee-chan Ra
+685,nm0408195,Markus Imhoof
+686,nm0396075,Masahiro Hosoda
+687,nm0442207,Lloyd Kaufman
+688,nm0440458,Jake Kasdan
+689,nm2039220,Chang-min Choo
+690,nm1128572,Lake Bell
+691,nm3202310,Katie Graham
+692,nm0342970,Dave Grohl
+693,nm0032795,Emilio Aragón
+694,nm1460159,Rohit Shetty
+695,nm0304521,Christophe Gans
+696,nm4577722,Wilson Chin
+697,nm1150656,Remo D'Souza
+698,nm1117731,Gotham Chopra
+699,nm1943695,Omar Forero
+700,nm2197777,Tom Harper
+701,nm1836724,Femi Oyeniran
+702,nm0356867,Arto Halonen
+703,nm0941811,Sönke Wortmann
+704,nm3283023,Anuchit Muanprom
+705,nm0815044,Carlos Sorin
+706,nm1503387,Salvatore Mereu
+707,nm1414579,Víctor García
+708,nm2926263,James Griffiths
+709,nm2011696,Dee Rees
+710,nm0220019,Raymond Depardon
+711,nm2475544,Rezo Gigineishvili
+712,nm4876393,Fabianne Balvedi
+713,nm0031639,Jorge António
+714,nm1302411,Rasmus A. Sivertsen
+715,nm1088762,Jim Bruce
+716,nm3208867,Rodrigo Aragão
+717,nm1403892,Yibai Zhang
+718,nm0758933,Jean-Paul Salomé
+719,nm3803184,Ksshitij Chaudhary
+720,nm0290544,Francisco Franco Alba
+721,nm0754817,Gabriel Sabloff
+722,nm5627015,Mohamed Hamidi
+723,nm1424282,Rowan Athale
+724,nm0000095,Woody Allen
+725,nm0319659,Dan Gilroy
+726,nm0614682,Ryan Murphy
+727,nm1353543,Adam Sherman
+728,nm0405632,Mikael Håfström
+729,nm1729121,Eiichirô Hasumi
+730,nm3115689,Caroline du Potet
+731,nm0945282,Yôji Yamada
+732,nm1835052,Jacob Hatley
+733,nm2928920,John Doyle
+734,nm0710490,Mari Rantasila
+735,nm0631590,Johan Nijenhuis
+736,nm0047047,Jo Baier
+737,nm0150802,Benny Chan
+738,nm0281508,Ruben Fleischer
+739,nm0942331,Dean Wright
+740,nm1814880,Martin Lund
+741,nm1013671,Lucy Walker
+742,nm0515101,Zülfü Livaneli
+743,nm1429471,Jaume Collet-Serra
+744,nm0169621,Michaël Cohen
+745,nm2979103,Dmitriy Dyachenko
+746,nm0004307,Shane Salerno
+747,nm0524519,Laura Luchetti
+748,nm1224330,Darko Lungulov
+749,nm0138620,Joe Carnahan
+750,nm0299002,Jonathan Furmanski
+751,nm0644688,Naoko Ogigami
+752,nm0667734,Pawel Pawlikowski
+753,nm0653056,Mike Ott
+754,nm0073888,Rudolf van den Berg
+755,nm1069826,Gautham Menon
+756,nm0067457,Timur Bekmambetov
+757,nm0939147,Jing Wong
+758,nm0252135,Breck Eisner
+759,nm0316795,Alex Gibney
+760,nm1767178,Farid Kamil
+761,nm0586281,Takashi Miike
+762,nm1629105,Joel Novoa
+763,nm1622258,Alejandro Landes
+764,nm0933604,Jim Wilson
+765,nm1311405,Caco Souza
+766,nm1126474,Yusry Abd Halim
+767,nm1347153,Tyler Perry
+768,nm2692858,Fernando González Molina
+769,nm0994402,Roberto Pérez Toledo
+770,nm4238438,Jung-bum Park
+771,nm1274163,Jade Castro
+772,nm1367479,Manikandan
+773,nm0327273,Michel Gondry
+774,nm2549243,Yasuhiro Kawamura
+775,nm0826259,Lionel Steketee
+776,nm0053502,Eduardo Barberena
+777,nm4272919,Zuzana Liová
+778,nm0613996,Wolfgang Murnberger
+779,nm0375691,Veit Helmer
+780,nm1992380,Benjamin Cantu
+781,nm4295627,Antón Terni
+782,nm0041775,Yuliya Aug
+783,nm0326740,Srdan Golubovic
+784,nm2398093,Gianluca De Serio
+785,nm1662773,Aleksei Kolmogorov
+786,nm0027271,Paul W.S. Anderson
+787,nm1493388,Kung-Lok Lee
+788,nm0542638,Alex Craig Mann
+789,nm3892733,Chayanop Boonprakob
+790,nm0232504,Tung-Shing Yee
+791,nm0948107,Bill Yip
+792,nm1041991,Diego Yaker
+793,nm1197318,Ted Koland
+794,nm1405022,Heather Lenz
+795,nm0223664,Saverio Di Biagio
+796,nm0835727,Jazmín Stuart
+797,nm0349702,Bill Guttentag
+798,nm0308498,Sean Garrity
+799,nm0667650,Frank Pavich
+800,nm0648036,Claes Olsson
+801,nm0697014,Lonny Price
+802,nm0440604,Anurag Kashyap
+803,nm3309755,Petrus Cariry
+804,nm0112374,Nick Broomfield
+805,nm1081521,Lars Jessen
+806,nm7238520,Kazuyuki Inoue
+807,nm0812307,Peter Sohn
+808,nm0838499,Martin Sulík
+809,nm1415801,Jerusha Hess
+810,nm0023207,José Alvarenga Jr.
+811,nm0868650,Gabe Torres
+812,nm4577642,Ali Vatansever
+813,nm0939147,Jing Wong
+814,nm4557079,Bess Kargman
+815,nm1562901,Jeremy Frindel
+816,nm0348181,James Gunn
+817,nm3468658,Cinzia Bomoll
+818,nm1436684,Milagros Mumenthaler
+819,nm0615592,Andy Muschietti
+820,nm2971253,Dong Shen
+821,nm0950506,Jessica Yu
+822,nm1135423,Darren Lynn Bousman
+823,nm0777050,Günter Schwaiger
+824,nm3425760,Chuck Powers
+825,nm3334627,Gordan Matic
+826,nm4698030,Imanol Rayo
+827,nm0299998,Edoardo Gabbriellini
+828,nm0362566,Catherine Hardwicke
+829,nm0745199,Thilo Rothkirch
+830,nm0290725,Belisario Franca
+831,nm0343706,Roberta Grossman
+832,nm0465617,Will Koopman
+833,nm1804518,Donovan Marsh
+834,nm0444244,Abdellatif Kechiche
+835,nm0299603,Claudio Fäh
+836,nm1836315,Marc Meyers
+837,nm4942485,Britta Mischer
+838,nm0802679,Yuthlert Sippapak
+839,nm3537413,Belmin Söylemez
+840,nm0299175,Yasuo Furuhata
+841,nm1104118,Ki-duk Kim
+842,nm2709569,Milos Pusic
+843,nm0939147,Jing Wong
+844,nm0726136,Kilian Riedhof
+845,nm0814271,Il-gon Song
+846,nm0764367,Roberto Santucci
+847,nm0516360,Ken Loach
+848,nm1210360,Alejandro Montiel
+849,nm0190389,Mae Czarina Cruz
+850,nm1699688,Ersoy Güler
+851,nm0530865,Joe Ma
+852,nm0249334,Rafael Edholm
+853,nm0845964,Santiago Tabernero
+854,nm2843043,Jacob Roebuck
+855,nm1547925,Poj Arnon
+856,nm0946995,Patrick Kong
+857,nm0158557,Jirí Chlumský
+858,nm0451126,Rustam Khamdamov
+859,nm1919975,Tadeu Jungle
+860,nm0015295,Zoya Akhtar
+861,nm0829537,Jon Stewart
+862,nm5559177,Wirat Hengkongdee
+863,nm3808308,Marcelo Mesquita
+864,nm2289860,Juliano Dornelles
+865,nm0659023,Pan Nalin
+866,nm1302411,Rasmus A. Sivertsen
+867,nm3930122,David Baute
+868,nm4082438,Samuel Rondière
+869,nm2630323,Justine Triet
+870,nm1661334,Amat Escalante
+871,nm1882062,Yu Gu
+872,nm0709182,Jorge Ramírez Suárez
+873,nm2021547,Anthony Chen
+874,nm0797213,Harald Siepermann
+875,nm0518644,Richard Loncraine
+876,nm0180652,Henry Corra
+877,nm2287741,Joon-Hwan Jang
+878,nm0082526,Peter Billingsley
+879,nm3870994,Pankaj Batra
+880,nm1317262,Jim O'Hanlon
+881,nm0695629,Doug Pray
+882,nm2414786,Frasco Mortiz
+883,nm4681362,Nareubadee Wetchakam
+884,nm1283069,Cathy Garcia-Molina
+885,nm0770883,Feo Aladag
+886,nm0625080,Alice Nellis
+887,nm0298807,Antoine Fuqua
+888,nm5662493,Doga Can Anafarta
+889,nm1349376,Francis Lawrence
+890,nm0005222,Sam Mendes
+891,nm1064048,Nikolaj Arcel
+892,nm0228542,Christian Ditter
+893,nm0505934,Richard Levine
+894,nm1349522,Jonathan Levine
+895,nm0398555,Ágnes Hranitzky
+896,nm1012501,Rupert Wyatt
+897,nm0650702,Leland Orser
+898,nm0382956,Scott Hicks
+899,nm0000985,James L. Brooks
+900,nm0742814,Phil Rosenthal
+901,nm0032795,Emilio Aragón
+902,nm0399630,Menhaj Huda
+903,nm0506071,Mark Levinson
+904,nm0285683,Howard J. Ford
+905,nm0899520,Alexa Visarion
+906,nm2151661,Jorge Luquín
+907,nm0000881,Michael Bay
+908,nm3393440,Carl Tibbetts
+909,nm0680846,Todd Phillips
+910,nm0462029,Masahiro Kobayashi
+911,nm1424878,Ed Gass-Donnelly
+912,nm3439064,Tonislav Hristov
+913,nm0322242,Jonathan Glazer
+914,nm0065449,Jean Becker
+915,nm0490487,Andrew Lau
+916,nm0280396,Thom Fitzgerald
+917,nm1387784,Oliver Ussing
+918,nm1139761,Paul Morrell
+919,nm4816401,Adil El Arbi
+920,nm0375494,Monte Hellman
+921,nm0208343,Raymond De Felitta
+922,nm0894787,Giovanni Veronesi
+923,nm0880297,Andrei Ujica
+924,nm0462413,Susan Koch
+925,nm0521601,Ye Lou
+926,nm0182815,Juan Manuel Cotelo
+927,nm0813164,Peter Sollett
+928,nm0805449,Josh Slates
+929,nm1956394,Brad Leong
+930,nm3933643,Lonzo Nzekwe
+931,nm1695278,Vicente Villanueva
+932,nm3952634,Takayuki Shibasaki
+933,nm2553474,Patrick McGrady
+934,nm0601680,Nick Moore
+935,nm0952583,Benito Zambrano
+936,nm1212770,Wenn V. Deramas
+937,nm4003301,Richard De Aragues
+938,nm4025285,Anmol Arora
+939,nm0063357,Anees Bazmee
+940,nm0894787,Giovanni Veronesi
+941,nm0735705,Alberto Rodríguez
+942,nm0393254,Sang-soo Hong
+943,nm1098493,Rawson Marshall Thurber
+944,nm2257147,Stevan Riley
+945,nm0598355,Alexandre Monnier
+946,nm0129450,Oswaldo Caldeira
+947,nm4287134,Hakki Görgülü
+948,nm0469694,Wayne Kramer
+949,nm0702518,Julian Pölsler
+950,nm4138471,Rosendo Ruíz
+951,nm2581482,Oskari Sipola
+952,nm1868749,Tarkan Özel
+953,nm1171418,Patrick Morris
+954,nm2280670,Martha Holmes
+955,nm0004541,David Blair
+956,nm1503405,Beck Cole
+957,nm3322414,Alastair Siddons
+958,nm2718478,Firat Gursoy
+959,nm0864775,Johnnie To
+960,nm0305017,Liz Garbus
+961,nm4455487,Joel Heath
+962,nm4456505,Yago Leonard
+963,nm0003400,Joram Lürsen
+964,nm0284524,Naomi Foner
+965,nm0720168,Richard Rericha
+966,nm0490487,Andrew Lau
+967,nm1537157,Ji-hoon Kim
+968,nm0807070,Dunya Smirnova
+969,nm0835294,Teona Strugar Mitevska
+970,nm2026219,Alfredo Soderguit
+971,nm2513598,Jelena Bajic Jocic
+972,nm0001355,Michael Hoffman
+973,nm0601337,Jason Moore
+974,nm0764783,Tedi Sarafian
+975,nm0072329,Carlos Benpar
+976,nm4577722,Wilson Chin
+977,nm3566258,Yee-Wei Chai
+978,nm0068674,Alejandro Bellame Palacios
+979,nm0900154,Stephen Vittoria
+980,nm2120452,Yu-Hsien Lin
+981,nm1758280,Emilio Portes
+982,nm4577722,Wilson Chin
+983,nm3254695,Deepu Karunakaran
+984,nm1270318,Rik Swartzwelder
+985,nm0233078,Brett Donowho
+986,nm0150906,Gordon Chan
+987,nm1978110,Gabrielle Provaas
+988,nm4696905,Rudolf Havlik
+989,nm2530692,Macario De Souza
+990,nm4701430,Vincas Sruoginis
+991,nm4047350,Masaya Fujimori
+992,nm1046377,Manny Palo
+993,nm5151261,Shamin Desai
+994,nm1326535,Sundar C.
+995,nm5157066,Triluck Makmeongpad
+996,nm1001051,Ho-Cheung Pang
+997,nm2545999,Ben Peyser
+998,nm3734458,Rupert Goold
+999,nm1823283,Kôji Shiraishi
+1000,nm0154819,Jeremiah S. Chechik
+1001,nm0182450,Leonardo di Costanzo
+1002,nm0001392,Peter Jackson
+1003,nm0810862,Milos Smídmajer
+1004,nm1939777,Kevin Miller
+1005,nm1893182,Emilio Ruiz Barrachina
+1006,nm5213589,Georgi D. Kostov
+1007,nm0457503,Eriko Kitagawa
+1008,nm0466153,Hirokazu Koreeda
+1009,nm4982827,Hitoshi Takekiyo
+1010,nm2391575,David Michôd
+1011,nm0902290,Katja von Garnier
+1012,nm0132362,Darrel Campbell
+1013,nm2633637,Michel Tikhomiroff
+1014,nm0065449,Jean Becker
+1015,nm2916636,Seán Ó Cualáin
+1016,nm2964327,Christine Cynn
+1017,nm1362698,Alfonso Sánchez
+1018,nm0122741,Ken Burns
+1019,nm5267822,Adel Serhan
+1020,nm0609549,Greg Mottola
+1021,nm2361914,Lourens Blok
+1022,nm5042877,Rajan Kumar Patel
+1023,nm0664667,Uberto Pasolini
+1024,nm0923736,Joss Whedon
+1025,nm0678857,Christian Petzold
+1026,nm2693746,Sergi Pérez
+1027,nm3814074,Tomasz Wasilewski
+1028,nm1802294,Banjong Pisanthanakun
+1029,nm0333705,Dominik Graf
+1030,nm2130235,Mona Achache
+1031,nm2043935,Alejandro Rath
+1032,nm5588574,Ersin Kana
+1033,nm5591142,Mustafa Delaz
+1034,nm1387177,Atul Sabharwal
+1035,nm4196169,Tolga Bas
+1036,nm2014242,Jorge Gil Munarriz
+1037,nm0586123,Radu Mihaileanu
+1038,nm0905343,Andrucha Waddington
+1039,nm0001392,Peter Jackson
+1040,nm1989536,Marc Webb
+1041,nm0797455,Floria Sigismondi
+1042,nm0793944,Takehiko Shinjo
+1043,nm0371755,Jimmy Hayward
+1044,nm1360908,Philipp Stennert
+1045,nm1088868,Gary Wheeler
+1046,nm0160157,Christian E. Christiansen
+1047,nm0870841,Anh Hung Tran
+1048,nm3086049,Vladimir Kott
+1049,nm0948572,Christine Yoo
+1050,nm1292685,Ben Hickernell
+1051,nm0331259,Leonid Gorovets
+1052,nm0161152,Oxide Chun Pang
+1053,nm0342748,Rajko Grlic
+1054,nm0892264,Diego Velasco
+1055,nm0134396,Hans Canosa
+1056,nm0427037,Antti Jokinen
+1057,nm0711745,Mani Ratnam
+1058,nm0243231,Jay Duplass
+1059,nm0000118,John Carpenter
+1060,nm0864775,Johnnie To
+1061,nm0771673,Rob Schiller
+1062,nm2480587,Charles Ferguson
+1063,nm3889354,Gustavo Hernández
+1064,nm0104973,Michael Brandt
+1065,nm0009190,J.J. Abrams
+1066,nm0905592,Jeff Wadlow
+1067,nm1035649,Jeong-ho Lee
+1068,nm0284308,Sheree Folkson
+1069,nm2277869,Marjane Satrapi
+1070,nm1353543,Adam Sherman
+1071,nm0868219,Guillermo del Toro
+1072,nm0839268,Kjell Sundvall
+1073,nm3946793,Shlomi Eldar
+1074,nm2389985,Nini Bull Robsahm
+1075,nm0265856,Francesco Falaschi
+1076,nm0342786,Sebastian Grobler
+1077,nm1202276,Tina Gordon
+1078,nm0938777,Femke Wolting
+1079,nm1484768,David L.G. Hughes
+1080,nm0133067,Paul Campion
+1081,nm0445084,Patrick Keiller
+1082,nm1061623,Philippe Claudel
+1083,nm0117389,Ryszard Brylski
+1084,nm0637835,Rashid Nugmanov
+1085,nm2874601,Wayne Holloway
+1086,nm0284677,José Henrique Fonseca
+1087,nm3032410,Nicholas Smith
+1088,nm0293822,Craig Freimond
+1089,nm3286588,Tomás Rehorek
+1090,nm1135265,Olias Barco
+1091,nm0049592,Marius Balchunas
+1092,nm2913746,Edry Abdul Halim
+1093,nm0456426,Sakari Kirjavainen
+1094,nm4047350,Masaya Fujimori
+1095,nm1119645,Lynn Shelton
+1096,nm1329170,Martin Valente
+1097,nm3490418,Pasha Roberts
+1098,nm0606835,Nick Morris
+1099,nm0057106,David Barrett
+1100,nm0951698,Justin Zackham
+1101,nm1840943,Peter Templeman
+1102,nm2420471,Karen Oganesyan
+1103,nm0610938,Andrew Mudge
+1104,nm0496046,Christian Lerch
+1105,nm3867801,Burak Arliel
+1106,nm1502159,Mike Marzuk
+1107,nm1390830,Kaspar Munk
+1108,nm2034166,Brad Bernstein
+1109,nm2318190,Elia Petridis
+1110,nm0586281,Takashi Miike
+1111,nm1525794,Matthew A. Cherry
+1112,nm2756180,George D. Escobar
+1113,nm0757084,Koichi Sakamoto
+1114,nm0718671,Edgar Reitz
+1115,nm0806492,Leslie Small
+1116,nm0687427,Gregory Plotkin
+1117,nm1216004,Andrew Bujalski
+1118,nm2619779,Hafsteinn Gunnar Sigurðsson
+1119,nm0813851,Ilse Somers
+1120,nm3776123,David Roitberg
+1121,nm0741262,Bernard Rose
+1122,nm0692770,Vlasta Pospísilová
+1123,nm3803184,Ksshitij Chaudhary
+1124,nm0062879,Ruel S. Bayani
+1125,nm0001384,Ice-T
+1126,nm0889943,Ömer Vargi
+1127,nm4263820,Emre Yalgin
+1128,nm0548648,Goran Markovic
+1129,nm1033693,Sarunyu Wongkrachang
+1130,nm0161152,Oxide Chun Pang
+1131,nm1012385,Roar Uthaug
+1132,nm0728270,Claudio Risi
+1133,nm0888634,Wim Vandekeybus
+1134,nm2598734,Bruno Irizarry
+1135,nm0511404,Staffan Lindberg
+1136,nm1730895,Cullen Hoback
+1137,nm0196860,Olivier Dahan
+1138,nm1284414,Aleksey Sidorov
+1139,nm4900471,Thor Klein
+1140,nm1908380,Klaartje Quirijns
+1141,nm0173101,Fernando Colomo
+1142,nm0080235,Vishal Bhardwaj
+1143,nm1576034,Pablo Sofovich
+1144,nm0305054,José Luis Garci
+1145,nm1950921,François Pirot
+1146,nm1855405,Volga Sorgu
+1147,nm1376035,Tolga Örnek
+1148,nm3478750,Jason Osder
+1149,nm0213191,Doug Dearth
+1150,nm0000247,John Woo
+1151,nm0476123,Diane Kurys
+1152,nm4851216,Joël Karekezi
+1153,nm0772691,Hans-Christian Schmid
+1154,nm0218621,James DeMonaco
+1155,nm0702330,Pedro Pérez Rosado
+1156,nm0896459,Frédéric Videau
+1157,nm5326250,Anurag Singh
+1158,nm1165032,Per Hanefjord
+1159,nm1890752,Gary Alazraki
+1160,nm0025538,Patxi Amezcua
+1161,nm0561813,Ron Maxwell
+1162,nm0106924,Catherine Breillat
+1163,nm1905770,Zheng Xu
+1164,nm4591651,Pablo Vara
+1165,nm2119697,April Wright
+1166,nm2414670,Ádám Császi
+1167,nm0002077,Dexter Fletcher
+1168,nm2905562,Daniel Barber
+1169,nm2310282,Greg 'Freddy' Camalier
+1170,nm1006796,Cris D'Amato
+1171,nm0803350,Sangeeth Sivan
+1172,nm0447476,Aviva Kempner
+1173,nm2830839,Ivan Kavanagh
+1174,nm0190389,Mae Czarina Cruz
+1175,nm3761088,Martti Helde
+1176,nm5306723,Douglas Soares
+1177,nm0004152,Roel Reiné
+1178,nm1224574,Gabriel Ochoa
+1179,nm0080456,Kenneth Bi
+1180,nm0492408,Wing-Cheong Law
+1181,nm0533284,David Mackenzie
+1182,nm1506786,Seree Phongnithi
+1183,nm0991532,Bin Bunluerit
+1184,nm4021775,Yuriy Bykov
+1185,nm2326632,Daniel Yee Heng Chan
+1186,nm1299690,Hu Guan
+1187,nm4154470,M.L. Pundhevanop Dhewakul
+1188,nm1470984,Doug Hamilton
+1189,nm0506613,Shawn Levy
+1190,nm2495566,Ho-Young Kwon
+1191,nm0144511,Rigoberto Castañeda
+1192,nm0506290,Kristian Levring
+1193,nm1527117,Jukka Schmidt
+1194,nm0154385,Philippe de Chauveron
+1195,nm0659182,Olivier Panchot
+1196,nm1232679,Thomas Heinemann
+1197,nm1122650,Kittikorn Liasirikun
+1198,nm1108007,David Lowery
+1199,nm0756548,Yannick Saillet
+1200,nm0467492,Iliya Kostov
+1201,nm0014960,Alexandre Aja
+1202,nm0158984,Sylvain Chomet
+1203,nm10623918,Sasha Lidagovsky
+1204,nm1148550,Ava DuVernay
+1205,nm1224299,Rob Letterman
+1206,nm2677924,Joann Sfar
+1207,nm0727754,Carl Rinsch
+1208,nm2549243,Yasuhiro Kawamura
+1209,nm0536251,Franck Magnier
+1210,nm1200194,Marteinn Thorsson
+1211,nm3049622,Dominga Sotomayor
+1212,nm0335131,Denys Granier-Deferre
+1213,nm0782430,Ulrich Seidl
+1214,nm1282993,Ignacio Ferreras
+1215,nm0366004,Mary Harron
+1216,nm0001806,John Turturro
+1217,nm0719320,Kimble Rendall
+1218,nm0179221,Anton Corbijn
+1219,nm1699934,Sean Durkin
+1220,nm0000389,Emilio Estevez
+1221,nm2884816,Rebecca Daly
+1222,nm0353673,Paul Haggis
+1223,nm0607275,Phil Morrison
+1224,nm1663638,David N. Donihue
+1225,nm3561140,Jeremy Morris-Burke
+1226,nm2206944,Mikkel Munch-Fals
+1227,nm0602616,Guillem Morales
+1228,nm0319885,Xavi Giménez
+1229,nm0844333,Malgorzata Szumowska
+1230,nm2102632,Tony Jopia
+1231,nm0804592,Jerzy Skolimowski
+1232,nm0204934,Kate Davis
+1233,nm3743230,Bogachan Dündar
+1234,nm0506374,Dani Levy
+1235,nm0881372,Sven Unterwaldt Jr.
+1236,nm3764560,Chineze Anyaene
+1237,nm1160962,Henry Joost
+1238,nm0453518,Jee-woon Kim
+1239,nm1315567,Andres Puustusmaa
+1240,nm0223731,Franco di Chiera
+1241,nm0101461,Kenneth Bowser
+1242,nm0005190,Garry Marshall
+1243,nm2282587,Johnny Daukes
+1244,nm0754328,Olli Saarela
+1245,nm0492408,Wing-Cheong Law
+1246,nm0631151,Raimo O. Niemi
+1247,nm0411405,Itsumichi Isomura
+1248,nm3834811,Jan Rahbek
+1249,nm1391682,Rohan Sippy
+1250,nm1883257,Pablo Larraín
+1251,nm1802395,Jirí Vejdelek
+1252,nm0759777,Yasemin Samdereli
+1253,nm0013828,Lawrence Ah Mon
+1254,nm1271353,Ahmet Boyacioglu
+1255,nm2639032,Jason Eisener
+1256,nm1564550,Cheol-soo Jang
+1257,nm1580395,Katell Quillévéré
+1258,nm0855035,Andy Tennant
+1259,nm0054504,Kasper Barfoed
+1260,nm2395887,Edoardo De Angelis
+1261,nm0782381,Arthur Allan Seidelman
+1262,nm0383688,Shinji Higuchi
+1263,nm0300174,Levan Gabriadze
+1264,nm1847876,Mart Kivastik
+1265,nm0148987,Scott Cervine
+1266,nm0796504,Siddique
+1267,nm1742427,Michaël R. Roskam
+1268,nm0503259,Peter Lepeniotis
+1269,nm0945724,Takashi Yamazaki
+1270,nm0684336,Steve Pink
+1271,nm1583171,R. Kannan
+1272,nm2132286,Lisa Aschan
+1273,nm0076081,Joyce Bernal
+1274,nm0906710,Setsurô Wakamatsu
+1275,nm1785660,Yoon-ki Lee
+1276,nm3105295,Gô Shichitaka
+1277,nm0246903,Doris Dörrie
+1278,nm0183984,Miguel Courtois
+1279,nm0554880,Emilio Martínez Lázaro
+1280,nm0496227,Kadija Leclere
+1281,nm1015050,Kari Juusonen
+1282,nm0915838,David Weaver
+1283,nm1495389,Aleksandr Sukharev
+1284,nm0639033,Petter Næss
+1285,nm2609807,Kelly Fremon Craig
+1286,nm1959340,Halder Gomes
+1287,nm0215003,Sebastian Dehnhardt
+1288,nm0887473,Olivier van Malderghem
+1289,nm0146760,Alain Cavalier
+1290,nm3973064,Hitoshi Ône
+1291,nm0027271,Paul W.S. Anderson
+1292,nm0927718,Tomy Wigand
+1293,nm2102093,Jaroslaw Szmidt
+1294,nm0195754,Francisco D'Intino
+1295,nm0336695,James Gray
+1296,nm2301412,Justin Martinez
+1297,nm1047180,William Winckler
+1298,nm4792457,Vitor Graize
+1299,nm3745191,Dylan Southern
+1300,nm0070594,Malik Bendjelloul
+1301,nm0625080,Alice Nellis
+1302,nm0316139,Tom Gianas
+1303,nm5047867,Bilal Kalyoncu
+1304,nm1310723,Marie-Castille Mention-Schaar
+1305,nm1351706,Olallo Rubio
+1306,nm0491572,Carl Lauten
+1307,nm1346713,Paco León
+1308,nm0851752,Paolo Taviani
+1309,nm0371890,Michel Hazanavicius
+1310,nm2155554,Spiros Stathoulopoulos
+1311,nm0626754,Cãlin Peter Netzer
+1312,nm0240797,Dennis Dugan
+1313,nm1614415,Matt Wolf
+1314,nm0464526,Stephan Komandarev
+1315,nm1283069,Cathy Garcia-Molina
+1316,nm0950834,Isao Yukisada
+1317,nm0482452,MJ Lallo
+1318,nm1406740,Florian Habicht
+1319,nm0317488,Claude Giffel
+1320,nm0998110,Daniel Sánchez Arévalo
+1321,nm0001806,John Turturro
+1322,nm0000399,David Fincher
+1323,nm1777967,A.L. Vijay
+1324,nm2141257,Tom Geens
+1325,nm0105169,Ash Brannon
+1326,nm0244561,Rodolfo Durán
+1327,nm2294243,Rebecca Zlotowski
+1328,nm0243355,Albert Dupontel
+1329,nm6348823,Noelle Benvenuti
+1330,nm5673123,Yuthakorn Sukmuktapha
+1331,nm1515266,Jean-Baptiste Léonetti
+1332,nm1085510,Benjamin Guedj
+1333,nm1254338,Robert May
+1334,nm5684416,Mun-heum Kim
+1335,nm1033529,Pongpat Wachirabunjong
+1336,nm0531595,Adam MacDonald
+1337,nm0631590,Johan Nijenhuis
+1338,nm10183578,Kittithat Tangsirikit
+1339,nm0567587,Conor McDermottroe
+1340,nm0381305,Ed Herzog
+1341,nm5721489,Geun-seop Jeong
+1342,nm1550118,Maynard Kraak
+1343,nm0482592,Dante Lam
+1344,nm0000128,Russell Crowe
+1345,nm0570082,Mary McGuckian
+1346,nm1356032,Raj Nidimoru
+1347,nm1699662,Karin Babinská
+1348,nm0016203,Alfonso Albacete
+1349,nm5790037,Russell Scott
+1350,nm2483574,Bas Devos
+1351,nm0917188,Chris Wedge
+1352,nm0516360,Ken Loach
+1353,nm0001675,Robert Rodriguez
+1354,nm0711840,Brett Ratner
+1355,nm0331532,Raja Gosnell
+1356,nm0001716,Tony Scott
+1357,nm0000778,Alfonso Arau
+1358,nm2873161,Monia Chokri
+1359,nm0898306,Thierry Villeneuve
+1360,nm0000487,Ang Lee
+1361,nm0829820,Scott Stewart
+1362,nm2504581,Checco Zalone
+1363,nm0175916,Paddy Considine
+1364,nm0090386,James Bobin
+1365,nm0384825,John Hillcoat
+1366,nm0178997,Frank Coraci
+1367,nm0103187,Dan Bradley
+1368,nm1465130,Safy Nebbou
+1369,nm0415382,Sam Jaeger
+1370,nm0891216,Matthew Vaughn
+1371,nm0309382,Leon Gast
+1372,nm0941708,Michael Worth
+1373,nm1174251,Daniel Espinosa
+1374,nm0563760,Laura Mañá
+1375,nm0005077,James Keach
+1376,nm0000217,Martin Scorsese
+1377,nm0812553,Jo Sol
+1378,nm1476105,Eyad Zahra
+1379,nm2391575,David Michôd
+1380,nm0759368,Gabriele Salvatores
+1381,nm0604335,Nanni Moretti
+1382,nm0006487,Jim Sheridan
+1383,nm0001429,Takeshi Kitano
+1384,nm3575443,Cory King
+1385,nm2038376,Erik Sharkey
+1386,nm1082560,Vasilis Tselemegos
+1387,nm1312575,Olivia Wilde
+1388,nm1532195,Miguel Ángel Lamata
+1389,nm0825407,Björn Stein
+1390,nm1369800,Aaron Katz
+1391,nm0927413,Ute Wieland
+1392,nm0049592,Marius Balchunas
+1393,nm0007066,Nanouk Leopold
+1394,nm0320306,Ugo Fabrizio Giordani
+1395,nm0012541,Nikkhil Advani
+1396,nm0765228,Ritu Sarin
+1397,nm0294878,Daniel Fridell
+1398,nm3693704,Bud Clayman
+1399,nm0785498,Antonio Serrano
+1400,nm0233339,Antonio Dorado
+1401,nm0000759,Paul Thomas Anderson
+1402,nm2760467,Craig Frank
+1403,nm0548474,Stratos Markidis
+1404,nm1300606,Asger Leth
+1405,nm2567155,Giuseppe Gagliardi
+1406,nm1000820,Stefan Faldbakken
+1407,nm0002120,Lasse Hallström
+1408,nm0096375,Sebastián Borensztein
+1409,nm0873608,Zdenek Troska
+1410,nm1332844,Amy Berg
+1411,nm0015497,John Akomfrah
+1412,nm2275000,Christian Schwochow
+1413,nm3143581,Olga Subbotina
+1414,nm0906709,Kôji Wakamatsu
+1415,nm2782185,Rupert Sanders
+1416,nm0509409,Robert Lieberman
+1417,nm1391027,Liliana Paolinelli
+1418,nm0814469,Sion Sono
+1419,nm0397927,Annie J. Howell
+1420,nm0551630,Massimo Martelli
+1421,nm0631791,Petr Nikolaev
+1422,nm4142062,Daniel Joseph
+1423,nm0575726,Juan Carlos Medina
+1424,nm0631473,Neil Nightingale
+1425,nm4158331,Danny O'Connor
+1426,nm1437277,Panna Rittikrai
+1427,nm4441916,Sirippakorn Wongchariyawat
+1428,nm3162559,Saphia Azzeddine
+1429,nm1458971,Arkadiusz Jakubik
+1430,nm1184336,Paco Arango
+1431,nm0235719,John Erick Dowdle
+1432,nm0411002,Katsuhito Ishii
+1433,nm0000876,Noah Baumbach
+1434,nm3286588,Tomás Rehorek
+1435,nm0944937,Shinobu Yaguchi
+1436,nm0464953,Janusz Kondratiuk
+1437,nm2098745,Lukasz Palkowski
+1438,nm0215887,Ernesto Del Río
+1439,nm0256103,Gert Embrechts
+1440,nm2271931,David Foenkinos
+1441,nm0436156,Nikos Kalogeropoulos
+1442,nm0468089,Nikos Koutelidakis
+1443,nm0225109,Nicholas DiBella
+1444,nm0701876,Dácil Pérez de Guzmán
+1445,nm1091764,Masatoshi Yamaguchi
+1446,nm0886976,Felix van Groeningen
+1447,nm2588606,Steve McQueen
+1448,nm1633043,Alexandre Moors
+1449,nm4623970,Ling Dong
+1450,nm2475544,Rezo Gigineishvili
+1451,nm0245677,Christian Dyekjær
+1452,nm0150916,Hing-Ka Chan
+1453,nm3105764,Mark Christopher Covino
+1454,nm0994484,Bill Morrison
+1455,nm0794057,Cory Shiozaki
+1456,nm0325606,Arnon Goldfinger
+1457,nm0383688,Shinji Higuchi
+1458,nm1128830,Matthew Akers
+1459,nm4704895,Alessandro Comodin
+1460,nm0960230,Muzaffer Özdemir
+1461,nm1462495,Rémi Bezançon
+1462,nm3440937,Conor Allyn
+1463,nm1133652,Miguel Ferrari
+1464,nm1212968,Aldo Garay
+1465,nm2200449,Maurice Sparks
+1466,nm0872281,Helena Trestíková
+1467,nm0847889,Bob Talbot
+1468,nm2351889,Raz de la Torre
+1469,nm2063500,Aleksander Nordaas
+1470,nm0052993,Aleksandr Baranov
+1471,nm0474233,Pieter Kuijpers
+1472,nm1509905,Elmar Fischer
+1473,nm1085908,Hwan-kyung Lee
+1474,nm3460651,Pauli Janik
+1475,nm1595297,Paul Lacoste
+1476,nm0099841,Gilles Bourdos
+1477,nm4742840,Nadir Medina
+1478,nm0889402,Carlo Vanzina
+1479,nm0890254,Taavi Vartia
+1480,nm0386382,Ryuichi Hiroki
+1481,nm0037597,Diego Arsuaga
+1482,nm0290556,James Franco
+1483,nm1234893,Sylvain White
+1484,nm1189376,Sanjay Gadhvi
+1485,nm0000420,Valeria Golino
+1486,nm2955744,Dave LaMattina
+1487,nm0600546,Lukas Moodysson
+1488,nm0007071,Dennis Bots
+1489,nm4069612,Wuershan
+1490,nm1538324,Christian Bisceglia
+1491,nm2308774,Destin Daniel Cretton
+1492,nm0054504,Kasper Barfoed
+1493,nm0745131,Marc Rothemund
+1494,nm1892800,Satoshi Miki
+1495,nm0837485,Gisaburô Sugii
+1496,nm0585011,Roger Michell
+1497,nm4212303,Matthew Jones
+1498,nm5127102,David Campbell
+1499,nm0691354,Stole Popov
+1500,nm0741262,Bernard Rose
+1501,nm2164028,Valentí Figueres
+1502,nm1568319,Kannan Iyer
+1503,nm1027519,Javier Ruiz Caldera
+1504,nm1229124,Derek Tsang
+1505,nm2270180,Koratala Siva
+1506,nm0613582,Lúcia Murat
+1507,nm0505741,Victor Levin
+1508,nm0233393,Olivier Doran
+1509,nm0138620,Joe Carnahan
+1510,nm2013191,Claudia Llosa
+1511,nm0946875,Herman Yau
+1512,nm1713913,Ryan White
+1513,nm0579954,Jirí Menzel
+1514,nm0603628,Pierre Morel
+1515,nm0887511,Hilde Van Mieghem
+1516,nm1699163,Soxy Topacio
+1517,nm1436693,A.R. Murugadoss
+1518,nm0327944,Alejandro G. Iñárritu
+1519,nm0002739,Daniel Geller
+1520,nm2639459,Thomas Dirnhofer
+1521,nm0511460,Leif Lindblom
+1522,nm0765384,Valeria Sarmiento
+1523,nm0000229,Steven Spielberg
+1524,nm0393799,Tom Hooper
+1525,nm0482595,David Lam
+1526,nm10644579,Aleksey Barykin
+1527,nm2035216,Alexandre Courtès
+1528,nm0855035,Andy Tennant
+1529,nm1366499,Lucas Blanco
+1530,nm0570912,Adam McKay
+1531,nm2011696,Dee Rees
+1532,nm3035239,Evan Glodell
+1533,nm1642870,Carlos Brooks
+1534,nm0898288,Denis Villeneuve
+1535,nm0000416,Terry Gilliam
+1536,nm0000230,Sylvester Stallone
+1537,nm0464123,Srdjan Koljevic
+1538,nm0174374,Bill Condon
+1539,nm0738796,Mark Romanek
+1540,nm0804408,Erik Skjoldbjærg
+1541,nm0824882,Burr Steers
+1542,nm0280416,Ian Fitzgibbon
+1543,nm0596407,Hans Petter Moland
+1544,nm1142073,Colm McCarthy
+1545,nm1061993,Christoffer Boe
+1546,nm0001756,Barry Sonnenfeld
+1547,nm0275698,Andy Fickman
+1548,nm0859985,Christopher Thompson
+1549,nm2315216,Paula Ortiz
+1550,nm1893855,Josh Appignanesi
+1551,nm2105585,Tobias Lindholm
+1552,nm3470556,Anusha Rizvi
+1553,nm2813683,José Manuel Carrasco
+1554,nm0536632,Sharon Maguire
+1555,nm1077332,Hidetomo Matsuda
+1556,nm1632439,Simon Yin
+1557,nm2238722,Tom Fernández
+1558,nm4114199,Jose Luis Guridi
+1559,nm0951197,Kunihiko Yuyama
+1560,nm4139472,Afonso Poyart
+1561,nm1215055,Ping Jiang
+1562,nm0000329,Jackie Chan
+1563,nm1557594,Dan Fogelman
+1564,nm1283069,Cathy Garcia-Molina
+1565,nm0442324,Judith Kaufmann
+1566,nm2481948,Sini Anderson
+1567,nm0458562,Isabel Kleefeld
+1568,nm0693903,Pascale Pouzadoux
+1569,nm0225871,Oliver Dieckmann
+1570,nm0825406,Birgit Stein
+1571,nm0203749,Howard Davies
+1572,nm0344319,David Grubin
+1573,nm4227690,Cho Owen
+1574,nm0298807,Antoine Fuqua
+1575,nm0131969,Brandon Camp
+1576,nm2279885,Katie Dellamaggiore
+1577,nm0868649,Fredy Torres
+1578,nm0160208,Mogens Hagedorn
+1579,nm4251415,Annamaria Panzera
+1580,nm4301161,Rajesh M. Selva
+1581,nm0814716,Ömer Faruk Sorak
+1582,nm0638115,Gennaro Nunziante
+1583,nm0679310,Berengar Pfahl
+1584,nm3145366,Jon Fitzgerald
+1585,nm2933027,Paolo Bertola
+1586,nm1099979,Jan Schomburg
+1587,nm0749439,Christophe Ruggia
+1588,nm4259286,Min-ho Woo
+1589,nm1699895,Mustafa Ugur Yagcioglu
+1590,nm1015339,Jeremy Newberger
+1591,nm0904192,Victor Vu
+1592,nm1715502,Vijay Krishna Acharya
+1593,nm0418982,Julian Jarrold
+1594,nm4311975,Tomás Bascopé
+1595,nm0000425,Peter Greenaway
+1596,nm1417392,Adam Wingard
+1597,nm0934684,Kathrine Windfeld
+1598,nm0129310,Philippe Caland
+1599,nm1164861,Seth Gordon
+1600,nm1966139,Sachin Yardi
+1601,nm0434806,Cédric Kahn
+1602,nm0343980,Mark Steven Grove
+1603,nm0023070,Asier Altuna
+1604,nm0494504,Anne Le Ny
+1605,nm0130714,Daniel Calparsoro
+1606,nm4691959,Craig Scott Rosebraugh
+1607,nm0879513,Lauri Törhönen
+1608,nm0889402,Carlo Vanzina
+1609,nm1618225,Peter A. Dowling
+1610,nm0521730,Robin Lough
+1611,nm2508188,Claudia Lehmann
+1612,nm0878763,Morten Tyldum
+1613,nm0013049,Nika Agiashvili
+1614,nm1097974,Tony Krawitz
+1615,nm0096539,António Borges Correia
+1616,nm1460159,Rohit Shetty
+1617,nm0120987,Ray Burdis
+1618,nm2172605,Levan Akin
+1619,nm0155940,Denis Chernov
+1620,nm3174584,Armando Bo
+1621,nm0571098,Dave McKean
+1622,nm1359360,Dharani
+1623,nm3255587,Shûichi Okita
+1624,nm4832054,Ana Rieper
+1625,nm3626546,Andrew Wessels
+1626,nm2325744,Terry Miles
+1627,nm5222391,Makinov
+1628,nm0798888,Brad J. Silverman
+1629,nm0528454,Shola Lynch
+1630,nm0793997,Tetsuo Shinohara
+1631,nm0463316,Kunal Kohli
+1632,nm0815204,Paolo Sorrentino
+1633,nm0456080,Erden Kiral
+1634,nm1228287,Nicolas Mercier
+1635,nm0429517,Ate de Jong
+1636,nm0000500,Richard Linklater
+1637,nm3936368,Hyeong-Joon Kim
+1638,nm0804408,Erik Skjoldbjærg
+1639,nm0369326,Dag Johan Haugerud
+1640,nm1758280,Emilio Portes
+1641,nm3176551,Riad Sattouf
+1642,nm2413729,Goran Vojnovic
+1643,nm1070014,Cheol-kwan Park
+1644,nm3279125,R. Scott Leisk
+1645,nm1093039,Mike Flanagan
+1646,nm0482893,Olivia M. Lamasan
+1647,nm0054005,Philippe Barcinski
+1648,nm1988881,Tomas Portella
+1649,nm1287094,Kosta Djordjevic
+1650,nm0687913,Bruno Podalydès
+1651,nm0002044,Roger Donaldson
+1652,nm3635493,Masahide Ichii
+1653,nm3464186,Timo Tjahjanto
+1654,nm0429634,Jens Jonsson
+1655,nm0643130,Agnès Obadia
+1656,nm0201061,Kieran Darcy-Smith
+1657,nm1339604,Susanna Nicchiarelli
+1658,nm0951975,S. Craig Zahler
+1659,nm3628670,Zachary Donohue
+1660,nm0474203,Rob Kuhns
+1661,nm0492909,Marc Lawrence
+1662,nm2309735,Tze Chun
+1663,nm2811093,Megumi Sasaki
+1664,nm0793944,Takehiko Shinjo
+1665,nm1825897,Daniel Hoesl
+1666,nm0004234,Alfonso Gomez-Rejon
+1667,nm0218289,Gabrielle Demeestere
+1668,nm0014203,Byeong-ki Ahn
+1669,nm2329795,Mark Verkerk
+1670,nm0063769,Charlie Bean
+1671,nm1002207,Petchtai Wongkamlao
+1672,nm0494504,Anne Le Ny
+1673,nm0002194,Pupi Avati
+1674,nm0378660,Michael Herbig
+1675,nm0001774,Ben Stiller
+1676,nm0889410,Toni Vanzolini
+1677,nm0001661,Rob Reiner
+1678,nm0923736,Joss Whedon
+1679,nm5893763,Alaa Eddine Aljem
+1680,nm0939147,Jing Wong
+1681,nm0223939,Michael Di Jiacomo
+1682,nm1641310,Manfred Oldenburg
+1683,nm0080120,Thomas Bezucha
+1684,nm1194496,Stevan Filipovic
+1685,nm0327944,Alejandro G. Iñárritu
+1686,nm0893659,Gore Verbinski
+1687,nm1184258,William Monahan
+1688,nm0002044,Roger Donaldson
+1689,nm0153740,David Chase
+1690,nm0953740,Antonio Zavala Kugler
+1691,nm0456239,Robert Kirbyson
+1692,nm0519594,Andrew Loo
+1693,nm0038875,John Asher
+1694,nm0955443,Yimou Zhang
+1695,nm0000329,Jackie Chan
+1696,nm0227992,Luc Dionne
+1697,nm0796361,Harald Sicheritz
+1698,nm0003506,James Mangold
+1699,nm0000163,Dustin Hoffman
+1700,nm0214320,Andy De Emmony
+1701,nm0752244,Paul Ruven
+1702,nm3397365,Juanita Wilson
+1703,nm1928500,Hao Ning
+1704,nm0925870,John Whitesell
+1705,nm0077149,Steven Bernstein
+1706,nm1330998,Izuru Narushima
+1707,nm0037708,Miguel Arteta
+1708,nm0684842,Emanuela Piovano
+1709,nm3841967,Carlota Nelson
+1710,nm3508781,Abhinav Kashyap
+1711,nm0702797,Steven Quale
+1712,nm0596668,Christian Molina
+1713,nm3886858,Gust Van den Berghe
+1714,nm0952083,Rosihan Zain
+1715,nm0021506,Lee Alliston
+1716,nm3205815,Anne Sewitsky
+1717,nm1207847,Sung-Yup Yoo
+1718,nm0000110,Kenneth Branagh
+1719,nm1007525,Álvaro Longoria
+1720,nm0781842,Peter Segal
+1721,nm1150656,Remo D'Souza
+1722,nm0091313,Pieter Walther Boer
+1723,nm0300944,Alain Gagnol
+1724,nm0847585,Kimi Takesue
+1725,nm1420315,Geir Greni
+1726,nm1465005,Mher Mkrtchyan
+1727,nm2123102,Eran Creevy
+1728,nm3979458,Toby Perl Freilich
+1729,nm2568271,Lise I. Osvoll
+1730,nm1839743,André Erkau
+1731,nm0902741,Ute von Münchow-Pohl
+1732,nm0465894,Lena Koppel
+1733,nm1656175,Duane Barnhart
+1734,nm0028196,Mario Andreacchio
+1735,nm1135423,Darren Lynn Bousman
+1736,nm0000464,Jim Jarmusch
+1737,nm1956691,Jamie Linden
+1738,nm4071637,Bo Gao
+1739,nm0155280,Kaige Chen
+1740,nm0271246,Jean-Loup Felicioli
+1741,nm4399063,Puttipong Pormsaka Na-Sakonnakorn
+1742,nm0002159,Alejandro Agresti
+1743,nm0200500,Pepe Danquart
+1744,nm0135576,Eugenio Cappuccio
+1745,nm0216459,Youssef Delara
+1746,nm1177494,David Wnendt
+1747,nm1735543,Ry Russo-Young
+1748,nm0971239,Simon J. Smith
+1749,nm1887138,Mohit Suri
+1750,nm3564996,Oliver Hermanus
+1751,nm0339004,Luke Greenfield
+1752,nm0569166,Scott McGehee
+1753,nm3407375,Tom Green
+1754,nm0255615,Sean Else
+1755,nm0513371,Philippe Lioret
+1756,nm0670995,Matteo Pellegrini
+1757,nm1864230,Susana Guardiola
+1758,nm1802688,Andres Maimik
+1759,nm2056836,Giorgio Diritti
+1760,nm1056425,Rajpal Yadav
+1761,nm4516817,Marcial Renato
+1762,nm1110313,Ansgar Niebuhr
+1763,nm0015091,Serdar Akar
+1764,nm3592235,Ritesh Batra
+1765,nm0854620,Ronnie Temoche
+1766,nm0388473,Vegar Hoel
+1767,nm5240687,Jan Tengeler
+1768,nm2936819,Rodolfo Cesatti
+1769,nm0272402,Daniel Ferguson
+1770,nm1842523,Jeff Barnaby
+1771,nm1206631,Ezequiel Crupnicoff
+1772,nm1840848,Chookiat Sakveerakul
+1773,nm3601988,Ramin Matin
+1774,nm0000169,Tommy Lee Jones
+1775,nm1995070,Richard Raymond
+1776,nm0730000,David Roach
+1777,nm6946444,Jing-Ting Weng
+1778,nm2378257,Jeremy Seifert
+1779,nm1597669,Kathrine Haugen
+1780,nm5390018,Carlo Fenizi
+1781,nm2838692,Toshio Lee
+1782,nm5365309,Gay Dillingham
+1783,nm0626090,Jack Neo
+1784,nm1880561,Harold Cronk
+1785,nm0405605,Klaus Härö
+1786,nm0034531,Don Argott
+1787,nm0951197,Kunihiko Yuyama
+1788,nm3527520,Bernard Attal
+1789,nm2985661,Enrico Lando
+1790,nm0187834,Lodewijk Crijns
+1791,nm0824414,Eric Steel
+1792,nm1644500,Martin Nguyen
+1793,nm0686375,Michele Placido
+1794,nm0415245,Benoît Jacquot
+1795,nm1743370,Ahmet Sönmez
+1796,nm0227625,Sheng Ding
+1797,nm1272325,Martin Le Gall
+1798,nm0836423,Michael Sturminger
+1799,nm1777967,A.L. Vijay
+1800,nm1157609,Alberto Marini
+1801,nm0169135,Miguel Cohan
+1802,nm0638115,Gennaro Nunziante
+1803,nm0310673,Sarah Gavron
+1804,nm1421754,K. Selvaraghavan
+1805,nm1820341,Gunhild Magnor
+1806,nm2048314,Zaheer Goodman-Bhyat
+1807,nm1519249,Marc Bauder
+1808,nm0190861,Jonás Cuarón
+1809,nm1665004,Imtiaz Ali
+1810,nm0142517,Hugo Carvana
+1811,nm1978402,Jung-woo Ha
+1812,nm1287472,Hiroshi Nishikiori
+1813,nm0023355,Christian Alvart
+1814,nm0160840,Jon M. Chu
+1815,nm1618472,Pantham Thongsangl
+1816,nm0929502,Lee Wilkof
+1817,nm0689319,Patrik-Ian Polk
+1818,nm0946734,David Yates
+1819,nm3207292,Zhora Kryzhovnikov
+1820,nm0595062,Federico Moccia
+1821,nm0751080,Chuck Russell
+1822,nm2758684,Jeremy Snead
+1823,nm0270099,Alessio Maria Federici
+1824,nm6003086,Manuel Pifano
+1825,nm0001824,Ally Walker
+1826,nm0514952,Jie Liu
+1827,nm6048394,Alfonso Andrés Ayarza
+1828,nm6293294,Rojin Thomas
+1829,nm0942504,Joe Wright
+1830,nm0001570,Edward Norton
+1831,nm0001565,Mike Newell
+1832,nm0001108,Robert Davi
+1833,nm1186435,Rajnish Thakur
+1834,nm0522393,Nick Love
+1835,nm0457565,Ryûhei Kitamura
+1836,nm1481493,Gil Kenan
+1837,nm0853393,Ryuta Tasaki
+1838,nm0000318,Tim Burton
+1839,nm0001752,Steven Soderbergh
+1840,nm0311687,Anthony Geffen
+1841,nm1463009,Hattie Dalton
+1842,nm2675246,Storm Saulter
+1843,nm3476645,Aureliano Amadei
+1844,nm2005379,Bryan Ramirez
+1845,nm0422638,Wen Jiang
+1846,nm0358327,Nick Hamm
+1847,nm1303735,Peter Dodd
+1848,nm0234506,Andrew Dosunmu
+1849,nm0955443,Yimou Zhang
+1850,nm0821620,Andrea Staka
+1851,nm1770672,Tim Hetherington
+1852,nm0267812,Vera Farmiga
+1853,nm3756719,Will Lovelace
+1854,nm0052737,Amir Bar-Lev
+1855,nm0180912,Michael Corrente
+1856,nm0000399,David Fincher
+1857,nm1066739,Yukihiko Tsutsumi
+1858,nm3190380,Keizô Kusakawa
+1859,nm0139905,Joan Carr-Wiggin
+1860,nm0497565,John H. Lee
+1861,nm3779904,Alper Ozyurtlu
+1862,nm1490123,James Wan
+1863,nm1531686,Jon Garaño
+1864,nm3819852,Rocky Powell
+1865,nm0492315,Dennis Law
+1866,nm0233920,Robert Dornhelm
+1867,nm0054685,Tomás Barina
+1868,nm4153241,Salim Khassa
+1869,nm0099521,Bouli Lanners
+1870,nm0457565,Ryûhei Kitamura
+1871,nm2251718,Dan Tang
+1872,nm4174851,Thanadol Nualsuth
+1873,nm0647438,Ermanno Olmi
+1874,nm1189755,Jonathan Jakubowicz
+1875,nm1401411,Mike Wallis
+1876,nm0589168,Randall Miller
+1877,nm1683671,Bill Haney
+1878,nm2406324,Bill Weber
+1879,nm0000934,Bernardo Bertolucci
+1880,nm0543886,Borja Manso
+1881,nm4244515,Nila Madhab Panda
+1882,nm0494355,Philippe Le Guay
+1883,nm0538105,Janusz Majewski
+1884,nm0994368,Magnus Martens
+1885,nm0245747,Julia Dyer
+1886,nm0726638,Patricia Riggen
+1887,nm0323239,Will Gluck
+1888,nm2577763,Suk-Yoon Kim
+1889,nm0847690,Yôjirô Takita
+1890,nm0880134,Marité Ugas
+1891,nm4311206,Elaine Constantine
+1892,nm0206760,Jonathan Dayton
+1893,nm0308520,Matteo Garrone
+1894,nm0955270,Takahisa Zeze
+1895,nm0304065,Kwok-Leung Gan
+1896,nm0445129,Alexandra-Therese Keining
+1897,nm0190389,Mae Czarina Cruz
+1898,nm1893182,Emilio Ruiz Barrachina
+1899,nm1102140,Josh Radnor
+1900,nm2752482,Alberto Gorritiberea
+1901,nm0134811,Erik Canuel
+1902,nm0299175,Yasuo Furuhata
+1903,nm0170719,Nigel Cole
+1904,nm0649117,Niels Arden Oplev
+1905,nm1407702,Benjamin Rausseo
+1906,nm1080858,Clarissa Campolina
+1907,nm0757081,Junji Sakamoto
+1908,nm1403597,Tuomas Summanen
+1909,nm2838520,Tristan Loraine
+1910,nm1997420,T.C. Johnstone
+1911,nm0463581,Timo Koivusalo
+1912,nm0138927,Niki Caro
+1913,nm0097580,Cristiano Bortone
+1914,nm0496752,Daniel Lee
+1915,nm0078704,Éric Besnard
+1916,nm0451170,Arbaaz Khan
+1917,nm0753912,Oskar Roehler
+1918,nm2201450,Alper Mestçi
+1919,nm3777147,Pavol Barabas
+1920,nm2274197,Valeri Milev
+1921,nm1465130,Safy Nebbou
+1922,nm4805705,Hasan Tolga Pulat
+1923,nm2946194,Yusuf Pirhasan
+1924,nm5032074,Dal-Joong Kim
+1925,nm1840304,Gorka Vázquez
+1926,nm3469952,Roy Hin Yeung Chow
+1927,nm0859323,Pascal Thomas
+1928,nm0616959,Megan Mylan
+1929,nm0578757,Christopher Menaul
+1930,nm0890060,Ram Gopal Varma
+1931,nm1343477,Sameer Sharma
+1932,nm2326632,Daniel Yee Heng Chan
+1933,nm5236479,Isa Grinspum Ferraz
+1934,nm1082611,Diederik Van Rooijen
+1935,nm4234237,Ben Rivers
+1936,nm0583600,Nancy Meyers
+1937,nm0687739,Bill Plympton
+1938,nm2501199,Nick Ryan
+1939,nm0043953,Nabil Ayouch
+1940,nm1296554,Ben Wheatley
+1941,nm1530431,Philip Martin
+1942,nm4341395,Emanuele Tiziani
+1943,nm0005222,Sam Mendes
+1944,nm5030675,Vickus Strijdom
+1945,nm2988017,John Errington
+1946,nm1189197,Quentin Dupieux
+1947,nm1896833,Perarasu
+1948,nm5270814,Eva Vila
+1949,nm0107655,Vinko Bresan
+1950,nm0807070,Dunya Smirnova
+1951,nm4712381,Kate Geis
+1952,nm4486604,Silke Schranz
+1953,nm0133326,Sebastián Lelio
+1954,nm0386892,Victress Hitchcock
+1955,nm0135332,Alessandro Capone
+1956,nm2013599,July Hygreck
+1957,nm0941825,Thomas Woschitz
+1958,nm0894787,Giovanni Veronesi
+1959,nm0699764,Marco S. Puccioni
+1960,nm0920274,John Wells
+1961,nm2853792,André Badalo
+1962,nm3305928,Victor Dryere
+1963,nm1177494,David Wnendt
+1964,nm0052045,Mirra Bank
+1965,nm0868219,Guillermo del Toro
+1966,nm0215299,Steven S. DeKnight
+1967,nm0031329,Marco Antoniazzi
+1968,nm0393254,Sang-soo Hong
+1969,nm1857470,Faozan Rizal
+1970,nm1862104,Tiwa Moeithaisong
+1971,nm0526749,Daniela Amavia
+1972,nm1969131,Pornchai Hongrattanaporn
+1973,nm0759368,Gabriele Salvatores
+1974,nm5449082,Simranjit Singh Hundal
+1975,nm0001629,Kevin Pollak
+1976,nm4691188,Keng Guan Chiu
+1977,nm0001469,Barry Levinson
+1978,nm0229962,Beda Docampo Feijóo
+1979,nm1093039,Mike Flanagan
+1980,nm1547925,Poj Arnon
+1981,nm1381702,Chalart Sriwanda
+1982,nm5839802,Chip Baker
+1983,nm0365385,Thomas Allen Harris
+1984,nm3147562,Mark Craig
+1985,nm2978290,José Antonio Blanco
+1986,nm6017262,Steve Cheng
+1987,nm0725652,Jack Riccobono
+1988,nm1924282,Aleksandr Vartanov
+1989,nm0075666,Joe Berlinger
+1990,nm0442479,Satish Kaushik
+1991,nm0942504,Joe Wright
+1992,nm1213790,Roman Prygunov
+1993,nm0955270,Takahisa Zeze
+1994,nm8354173,Hasan Gökalp
+1995,nm2788363,Sngmoo Lee
+1996,nm0329755,Chris Gorak
+1997,nm0091076,Sergei Bodrov
+1998,nm2360222,Pieter Gaspersz
+1999,nm0920274,John Wells
+2000,nm0886976,Felix van Groeningen
+2001,nm0823721,Ben Stassen
+2002,nm1401857,Trent Cooper
+2003,nm2677451,Sergi Lara
+2004,nm3372147,Celine Danhier
+2005,nm0757081,Junji Sakamoto
+2006,nm0630633,Galt Niederhoffer
+2007,nm1065402,Sanaa Hamri
+2008,nm0216214,Camille Delamarre
+2009,nm0296144,Friðrik Þór Friðriksson
+2010,nm0000419,Jean-Luc Godard
+2011,nm1490123,James Wan
+2012,nm1030148,Harvey Hubbell V
+2013,nm2676052,Joseph Kosinski
+2014,nm0011470,Andrew Adamson
+2015,nm0151121,Clement Sze-Kit Cheng
+2016,nm0958766,Antonio Zurera
+2017,nm0157337,Guido Chiesa
+2018,nm3837756,Mihai Ionescu
+2019,nm0000600,Sam Raimi
+2020,nm0718646,Jason Reitman
+2021,nm2391552,Nobuhiro Doi
+2022,nm0317834,Mateo Gil
+2023,nm0630197,Sergiu Nicolaescu
+2024,nm1039140,Masayuki Suzuki
+2025,nm0319772,Daniel Gimelberg
+2026,nm1384379,Delfina Castagnino
+2027,nm2357225,Norihiro Koizumi
+2028,nm0757958,Mahamat-Saleh Haroun
+2029,nm0008332,Aktan Arym Kubat
+2030,nm3324251,Glenn Berggoetz
+2031,nm1141845,Anna Tchernakova
+2032,nm0576298,Olivier Megaton
+2033,nm3942301,John Martoccia
+2034,nm1346947,Néstor Montalbano
+2035,nm0418621,Frédéric Jardin
+2036,nm0720297,Alain Resnais
+2037,nm1922735,Aleksey Fedorchenko
+2038,nm2482152,Gereon Wetzel
+2039,nm0669704,Raoul Peck
+2040,nm0271685,Renaud Fely
+2041,nm2733360,Matteo Botrugno
+2042,nm0326558,Markus Goller
+2043,nm4056433,Adem Ugur
+2044,nm2791932,Max Giwa
+2045,nm0931251,Mark Williams
+2046,nm0405578,Marion Hänsel
+2047,nm0097517,Derrick Borte
+2048,nm2880943,Liam O'Donnell
+2049,nm1286067,Tiffany Shlain
+2050,nm1857340,Reg Traviss
+2051,nm2151723,Ron Scalpello
+2052,nm0209800,Juan Carlos de Llaca
+2053,nm0613580,Júlia Murat
+2054,nm0345174,Luca Guadagnino
+2055,nm4681321,Kulachat Jitkhachornwanich
+2056,nm4680629,Christelle Raynal
+2057,nm1099956,Sonja Schenk
+2058,nm0846590,Gabriela Tagliavini
+2059,nm2171633,Baran bo Odar
+2060,nm0223606,Tigmanshu Dhulia
+2061,nm1847640,Konstantin Ferstl
+2062,nm2101047,Thomas Reider
+2063,nm0772816,Anja Schmidt
+2064,nm0309697,Tony Gatlif
+2065,nm0757084,Koichi Sakamoto
+2066,nm0617407,Aleksi Mäkelä
+2067,nm1637785,Liza Johnson
+2068,nm1459798,Lise Birk Pedersen
+2069,nm0117929,Franziska Buch
+2070,nm0154055,Étienne Chatiliez
+2071,nm1356951,Alice Winocour
+2072,nm0752110,Chandran Rutnam
+2073,nm1305990,Kristina Nikolova
+2074,nm2840517,Gerald Igor Hauzenberger
+2075,nm1160962,Henry Joost
+2076,nm0000881,Michael Bay
+2077,nm0716739,Ricard Reguant
+2078,nm0208343,Raymond De Felitta
+2079,nm2285927,Jason Lapeyre
+2080,nm1383301,Adam Leon
+2081,nm0100078,Matthew Bourne
+2082,nm1839743,André Erkau
+2083,nm0537737,Stephen T. Maing
+2084,nm0326937,Miguel Gomes
+2085,nm0356042,Robert Hall
+2086,nm0192845,John Curran
+2087,nm1385080,Chi-Keung Fung
+2088,nm1205568,Barbara Wong Chun-Chun
+2089,nm0757858,Carlos Saldanha
+2090,nm0210193,Ivano De Matteo
+2091,nm1930582,Maiken Baird
+2092,nm1287524,Rico Maria Ilarde
+2093,nm0521803,Aku Louhimies
+2094,nm0001885,Lars von Trier
+2095,nm0631590,Johan Nijenhuis
+2096,nm2895884,Maria Sadowska
+2097,nm0000419,Jean-Luc Godard
+2098,nm2140294,Sam Fleischner
+2099,nm3507882,Saji Surendran
+2100,nm2859182,Nitin Kakkar
+2101,nm1317689,Steve Anderson
+2102,nm0804909,Wiktor Skrzynecki
+2103,nm1425860,PJ Raval
+2104,nm0005139,Mike Leigh
+2105,nm0244344,Roberta Durrant
+2106,nm0167008,Mark de Cloe
+2107,nm0159402,Élie Chouraqui
+2108,nm1231289,Hernan Aguilar
+2109,nm0528963,Nick Lyon
+2110,nm5391136,Maria Raduan
+2111,nm0223606,Tigmanshu Dhulia
+2112,nm3315387,Vishnuvardhan
+2113,nm0590855,Kyu-dong Min
+2114,nm3646431,Francesca Muci
+2115,nm3215670,Rodrigo H. Vila
+2116,nm1597722,Viktor Shamirov
+2117,nm2265536,Soumik Sen
+2118,nm0394053,Wayne Hope
+2119,nm3885065,Ramon Zürcher
+2120,nm0759270,Pierre Salvadori
+2121,nm0058713,Maurice Barthélémy
+2122,nm5442742,Petri Luukkainen
+2123,nm5464371,Nattawut Poonpiriya
+2124,nm4856396,Pat Necerato
+2125,nm5465109,Alphan Eseli
+2126,nm0786186,Dagmar Seume
+2127,nm0759536,David Salzberg
+2128,nm0498677,Bart van Leemputten
+2129,nm3311094,Keishi Ohtomo
+2130,nm0462895,David Koepp
+2131,nm1643201,Richie Adams
+2132,nm0001775,Whit Stillman
+2133,nm3113346,Andrea Segre
+2134,nm4060924,Jin-yeong Kim
+2135,nm1213790,Roman Prygunov
+2136,nm2013693,Sean Mullin
+2137,nm0812773,Helena Solberg
+2138,nm4074404,Leigh Janiak
+2139,nm0774420,Frédéric Schoendoerffer
+2140,nm0651900,Mamoru Oshii
+2141,nm1834385,Monthon Arayangkoon
+2142,nm0001880,Edward Zwick
+2143,nm2196568,Benjamin Dickinson
+2144,nm3048916,Jess Feast
+2145,nm0015091,Serdar Akar
+2146,nm0788409,Xiaoli Shao
+2147,nm0402153,Klaus Hundsbichler
+2148,nm1963886,Grímur Hákonarson
+2149,nm0453411,Dae-woo Kim
+2150,nm0441839,Ross Katz
+2151,nm0585738,Matthew Miele
+2152,nm0037867,Yann Arthus-Bertrand
+2153,nm8625898,Louis Ross
+2154,nm0915814,Blayne Weaver
+2155,nm0946734,David Yates
+2156,nm0903474,Václav Vorlícek
+2157,nm0759207,Victor Salva
+2158,nm1979875,Ross Nickson
+2159,nm0036349,Andrea Arnold
+2160,nm2414127,Mudassar Aziz
+2161,nm0005509,Jon Turteltaub
+2162,nm0878763,Morten Tyldum
+2163,nm2035215,Kevin Shulman
+2164,nm1256756,Antoine Charreyron
+2165,nm0717225,Daina Reid
+2166,nm1259604,Marcos Efron
+2167,nm1662732,Aaron James
+2168,nm1264352,Susanna White
+2169,nm0378144,Jonathan Hensleigh
+2170,nm0001068,Sofia Coppola
+2171,nm0192845,John Curran
+2172,nm1325482,Hisako Matsui
+2173,nm0923330,Tanya Wexler
+2174,nm0318916,Craig Gillespie
+2175,nm0824882,Burr Steers
+2176,nm0735083,César Rodrigues
+2177,nm0500988,Claude Lelouch
+2178,nm1328817,Kabir Sadanand
+2179,nm0937511,Wojciech Wójcik
+2180,nm2260417,Raymond Pak-Ming Wong
+2181,nm2057311,Hans Van Nuffel
+2182,nm1641324,Özgür Yildirim
+2183,nm4060924,Jin-yeong Kim
+2184,nm0527453,Milan Luthria
+2185,nm0293822,Craig Freimond
+2186,nm0451799,Eric Khoo
+2187,nm1965582,Filip Marczewski
+2188,nm0002178,Alexandre Arcady
+2189,nm0662530,Ol Parker
+2190,nm1644176,Luis Ismael
+2191,nm3151947,Marcin Glowacki
+2192,nm1671983,Ahmed Nader Galal
+2193,nm0000881,Michael Bay
+2194,nm1108177,Kenneth Taylor
+2195,nm3433382,David J. Ellison
+2196,nm1970399,Dan Turner
+2197,nm0795153,Cate Shortland
+2198,nm2610311,Jiabei Zhang
+2199,nm1496044,Masahiko Murata
+2200,nm4571174,Sai Ramani
+2201,nm0816498,Marina Spada
+2202,nm1760744,Beom-gu Cho
+2203,nm0755158,Ira Sachs
+2204,nm1543912,Hiroshi Yoshino
+2205,nm0868595,Cláudio Torres
+2206,nm1079001,Eugenio Mira
+2207,nm1500530,Wojciech Smarzowski
+2208,nm0706422,Luca Ragazzi
+2209,nm0862911,Greg Tiernan
+2210,nm0224167,Ruggero Dipaola
+2211,nm0039575,Michael Asmussen
+2212,nm0136021,Leos Carax
+2213,nm1630429,Teemu Nikki
+2214,nm0208876,Lula Buarque de Hollanda
+2215,nm2916574,Orhan Eskiköy
+2216,nm2918988,Juan Carlos Pineiro Escoriaza
+2217,nm1893665,Ali Samadi Ahadi
+2218,nm1298542,Manuel Carballo
+2219,nm0005101,Harmony Korine
+2220,nm1738698,Laís Bodanzky
+2221,nm3414974,Thomas Wangsmo
+2222,nm4770353,Orhan Öztürk Esin
+2223,nm0005618,Alex Zamm
+2224,nm0880928,Ümit Ünal
+2225,nm0000154,Mel Gibson
+2226,nm0498898,Philippe Lefebvre
+2227,nm1729447,Onur Ünlü
+2228,nm0366867,Mark Hartley
+2229,nm2123102,Eran Creevy
+2230,nm1309333,Jac Avila
+2231,nm0276400,Sophie Fiennes
+2232,nm0314068,Carlos Gerbase
+2233,nm0142766,Maurizio Casagrande
+2234,nm2320169,Mike Young
+2235,nm0054358,Aleksi Bardy
+2236,nm0075644,Roberto Berliner
+2237,nm0424103,Karan Johar
+2238,nm0788171,S. Shankar
+2239,nm5089333,Neil Dalal
+2240,nm3459788,Gaurav Trehan
+2241,nm4371472,Pin-Chuan Kao
+2242,nm2831530,Abhishek Varman
+2243,nm0038093,Alberto Arvelo
+2244,nm0928832,Ethan Wiley
+2245,nm0170043,Isabel Coixet
+2246,nm1834385,Monthon Arayangkoon
+2247,nm0000591,Roman Polanski
+2248,nm1034885,Andrew Marcus
+2249,nm3556568,Sebastián Badilla
+2250,nm2174582,Yueh-Hsun Tsai
+2251,nm4391414,Amélie van Elmbt
+2252,nm3147478,Bruce Macdonald
+2253,nm0482901,Luis Alberto Lamata
+2254,nm2857829,Noriko Takao
+2255,nm5308050,Rogério Corrêa
+2256,nm1223381,Andrés Baiz
+2257,nm0161244,Ji-yeong Jeong
+2258,nm3468066,Byung-gil Jung
+2259,nm3606346,Paulo Pastorelo
+2260,nm0687427,Gregory Plotkin
+2261,nm5156380,Luca Magi
+2262,nm1119672,León Siminiani
+2263,nm0488715,Birger Larsen
+2264,nm1500530,Wojciech Smarzowski
+2265,nm0000165,Ron Howard
+2266,nm0154716,Stephen Chbosky
+2267,nm0393234,Hong Khaou
+2268,nm0853393,Ryuta Tasaki
+2269,nm5408047,Tian-Hao Hua
+2270,nm0103785,Zach Braff
+2271,nm5423424,Hernán Cabo
+2272,nm1130275,Nicholas McCarthy
+2273,nm1413364,Ariel Schulman
+2274,nm3230428,Geyka Urdaneta
+2275,nm0244697,Simone van Dusseldorp
+2276,nm3573399,Prashant Nair
+2277,nm0013763,Mikel Aguirresarobe
+2278,nm0960025,Kentarô Ohtani
+2279,nm0625896,Charles Nemes
+2280,nm0950759,Woo-Ping Yuen
+2281,nm0077106,Molly Bernstein
+2282,nm0144881,Joseph Castelo
+2283,nm5801106,Thirukumaran
+2284,nm3576774,Arkadiy Grigoryan
+2285,nm1284464,Warren P. Sonoda
+2286,nm5856477,Stephanie Spray
+2287,nm2227497,René Marik
+2288,nm0955443,Yimou Zhang
+2289,nm5913711,Jung Huh
+2290,nm1716636,Marielle Heller
+2291,nm1856823,Kemal Uzun
+2292,nm1372499,Yoshitomo Yonetani
+2293,nm1979167,Note Chern-Yim
+2294,nm4394673,Xing Fei
+2295,nm0574625,James McTeigue
+2296,nm1350736,Andreas Johnsen
+2297,nm0453477,Hyun-seok Kim
+2298,nm0697014,Lonny Price
+2299,nm6043072,Pan Shao
+2300,nm5673791,Aekasit Sompech
+2301,nm1379772,Benni Diez
+2302,nm0003506,James Mangold
+2303,nm2350892,Siva
+2304,nm0155539,Barney Cheng
+2305,nm0766263,Shinsuke Sato
+2306,nm0714361,Javier Rebollo
+2307,nm1186703,Erik de Castro
+2308,nm0424035,Paul Johansson
+2309,nm0376006,Anthony Hemingway
+2310,nm1720364,Thomas Farone
+2311,nm0339004,Luke Greenfield
+2312,nm0234780,Ziad Doueiri
+2313,nm0149491,Justin Chadwick
+2314,nm0281396,Ryan Fleck
+2315,nm0236226,Michael Dowse
+2316,nm1637768,Jim Field Smith
+2317,nm0336486,Bradley Rust Gray
+2318,nm0333471,Angel Gracia
+2319,nm0935863,Michael Winterbottom
+2320,nm1292833,Raphaël Jacoulot
+2321,nm0847859,David E. Talbert
+2322,nm0540962,Mathias Malzieu
+2323,nm0587955,Bennett Miller
+2324,nm0000142,Clint Eastwood
+2325,nm0213354,Jamel Debbouze
+2326,nm0083348,Brad Bird
+2327,nm0588087,Christopher Miller
+2328,nm0628146,Jonathan Newman
+2329,nm0002339,Allen Coulter
+2330,nm0705535,Michael Radford
+2331,nm0073888,Rudolf van den Berg
+2332,nm1320966,Kim Chapiron
+2333,nm0653083,Fulvio Ottaviano
+2334,nm1764630,David Schalko
+2335,nm0135724,Antonio Capuano
+2336,nm1564826,David Verbeek
+2337,nm1037507,Elisabeth Scharang
+2338,nm0000247,John Woo
+2339,nm0750121,Simon Rumley
+2340,nm1768943,Luis Avilés
+2341,nm0420817,Dallas Jenkins
+2342,nm0637297,Emil Novák
+2343,nm0193010,Lavinia Currier
+2344,nm3834732,Ali Ilhan
+2345,nm3844374,Bryan O'Neil
+2346,nm1013662,Norberto López Amado
+2347,nm0000776,Michael Apted
+2348,nm0702855,Mohy Quandour
+2349,nm0633729,Nobuhiro Yamashita
+2350,nm0015328,Salim Akil
+2351,nm3902031,Francesco Manfio
+2352,nm0389591,P.J. Hogan
+2353,nm0193508,Simon Curtis
+2354,nm0404882,John Hyams
+2355,nm0494069,Maïwenn
+2356,nm3936368,Hyeong-Joon Kim
+2357,nm0327944,Alejandro G. Iñárritu
+2358,nm0877078,Yavuz Turgul
+2359,nm0798062,Karine Silla
+2360,nm0576987,Fernando Meirelles
+2361,nm0748919,Péter Rudolf
+2362,nm3996936,S. Manasvi
+2363,nm2439708,Shakun Batra
+2364,nm2346369,Taisuke Kawamura
+2365,nm1379105,Pedro Aguilera
+2366,nm1242054,James Ponsoldt
+2367,nm2113581,Paola Randi
+2368,nm0192478,Kat Coiro
+2369,nm4083526,Süleyman Nebioglu
+2370,nm0586281,Takashi Miike
+2371,nm1460159,Rohit Shetty
+2372,nm2389602,Franck Mancuso
+2373,nm2765527,Carlo Ledesma
+2374,nm0262509,Charles Evans Jr.
+2375,nm0250625,Omiros Efstratiadis
+2376,nm0925870,John Whitesell
+2377,nm0716980,Kelly Reichardt
+2378,nm1178289,Fabrice Camoin
+2379,nm0001752,Steven Soderbergh
+2380,nm3508453,Seung-jun Yi
+2381,nm0147233,Bromley Cawood
+2382,nm4696421,Daniel Baccaro
+2383,nm0222150,Prabhu Deva
+2384,nm2644707,Gastón Solnicki
+2385,nm4710366,Hong-ik Kim
+2386,nm0657965,Michael Palm
+2387,nm0411213,Debbie Isitt
+2388,nm0104312,Rustam Branaman
+2389,nm0616673,Claudia Myers
+2390,nm1457818,Przemyslaw Angerman
+2391,nm3769292,Shôjirô Nakazawa
+2392,nm1229520,Ben Falcone
+2393,nm4761394,James DeMarco
+2394,nm0837271,María Eugenia Sueiro
+2395,nm2790431,Dania Pasquini
+2396,nm1659911,Yong-ki Jeong
+2397,nm1967210,Takeshi Furusawa
+2398,nm0279448,David Fisher
+2399,nm1290014,Christophe Turpin
+2400,nm1410462,Gabriel Cowan
+2401,nm1132362,Lauren Greenfield
+2402,nm1332844,Amy Berg
+2403,nm2489573,Justin Reardon
+2404,nm0926911,Nick Wickham
+2405,nm0197234,Sibylle Dahrendorf
+2406,nm3740508,Nils Menrad
+2407,nm0367059,Christine Hartmann
+2408,nm1464376,Jennifer M. Kroot
+2409,nm2207625,Kleber Mendonça Filho
+2410,nm2272926,Lisa Langseth
+2411,nm1226774,Adán Aliaga
+2412,nm2611855,Jung-chi Chang
+2413,nm0895835,Daniele Vicari
+2414,nm0007052,Nick Quinn
+2415,nm0660266,Rocco Papaleo
+2416,nm0779433,Ken Scott
+2417,nm0000202,Ryan Phillippe
+2418,nm0752244,Paul Ruven
+2419,nm2359379,Steve Myung
+2420,nm0002645,Paolo Genovese
+2421,nm0704289,Rory B. Quintos
+2422,nm0001241,Stephen Frears
+2423,nm1202477,Emílio Domingos
+2424,nm0133075,Giacomo Campiotti
+2425,nm0950728,James Yuen
+2426,nm2538216,Katheryne Thomas
+2427,nm0620378,Hideo Nakata
+2428,nm2656048,Karl Mueller
+2429,nm0385725,Timothy Hines
+2430,nm2552646,Matty Beckerman
+2431,nm1390437,Gary Lundgren
+2432,nm0740213,Darrell Roodt
+2433,nm1980429,Pat Kiely
+2434,nm0108100,Kathy Brew
+2435,nm0496029,Alberto Lecchi
+2436,nm2012322,Ewan McNicol
+2437,nm1085908,Hwan-kyung Lee
+2438,nm0374663,Benjamin Heisenberg
+2439,nm0159900,Shawn Christensen
+2440,nm5820154,Ilya Naishuller
+2441,nm0108333,Nicolau Breyner
+2442,nm0321159,Amos Gitai
+2443,nm0199047,Audrey Dana
+2444,nm5558857,Sebastian Lindemann
+2445,nm0652541,Gennadiy Ostrovskiy
+2446,nm2147000,Amelle Chahbi
+2447,nm2051728,Morgan Matthews
+2448,nm1398746,Afia Nathaniel
+2449,nm1129214,James Lefkowitz
+2450,nm0057819,Mariano Barroso
+2451,nm2692858,Fernando González Molina
+2452,nm0002041,Dean Devlin
+2453,nm0735083,César Rodrigues
+2454,nm2345425,Rohan Spong
+2455,nm0661345,Neri Parenti
+2456,nm1233815,Kwang-woo Park
+2457,nm0735705,Alberto Rodríguez
+2458,nm2146152,Ivo Macharácek
+2459,nm0000487,Ang Lee
+2460,nm2545456,James Rasin
+2461,nm0000217,Martin Scorsese
+2462,nm0003506,James Mangold
+2463,nm0815204,Paolo Sorrentino
+2464,nm1868177,Ladj Ly
+2465,nm7745954,Fei Li
+2466,nm7971037,Dan Baron
+2467,nm0000127,Wes Craven
+2468,nm1793079,Fede Alvarez
+2469,nm3069762,Elena Trapé
+2470,nm0266622,Rick Famuyiwa
+2471,nm1045865,John Krokidas
+2472,nm0423646,Roland Joffé
+2473,nm1042371,Michael Greenspan
+2474,nm1215600,Ryan Piers Williams
+2475,nm1298542,Manuel Carballo
+2476,nm1560977,Cary Joji Fukunaga
+2477,nm0638189,Lauri Nurkse
+2478,nm2003899,Ana Fraile
+2479,nm1235145,Amir Chamdin
+2480,nm0485153,Mark Landsman
+2481,nm0773790,Elia K. Schneider
+2482,nm1618194,Mike Woolf
+2483,nm0844541,Álvaro Sáenz de Heredia
+2484,nm0169135,Miguel Cohan
+2485,nm0003939,Vikramaditya Motwane
+2486,nm3879512,Hoon Ryoo
+2487,nm1098171,Michel Leclerc
+2488,nm1506005,Michelangelo Frammartino
+2489,nm0101047,David Bowers
+2490,nm0299677,René Féret
+2491,nm0777788,Matthias Schweighöfer
+2492,nm3933875,Nur Dolay
+2493,nm0802248,Tarsem Singh
+2494,nm2532035,Matt D'Elia
+2495,nm3713658,Sebastian Dalén
+2496,nm0157345,Benoît Chieux
+2497,nm1033667,Michael Winnick
+2498,nm0667686,Radoslav Pavkovic
+2499,nm1426540,Viktor Chouchkov
+2500,nm0005197,Des McAnuff
+2501,nm0586123,Radu Mihaileanu
+2502,nm0575690,Gabriel Medina
+2503,nm0104771,James Brandon
+2504,nm4002691,Lee Sales
+2505,nm2503633,Josh Trank
+2506,nm2268763,Belma Bas
+2507,nm3795588,Ben Nott
+2508,nm3171048,Hsiao-tse Cheng
+2509,nm2815252,Kyu-maan Lee
+2510,nm0894173,Sylvie Verheyde
+2511,nm1155957,Anna Muylaert
+2512,nm1018219,Chen Jin
+2513,nm0001752,Steven Soderbergh
+2514,nm0102629,F.A. Brabec
+2515,nm0330185,Fiona Gordon
+2516,nm2022248,Naoyoshi Shiotani
+2517,nm0862312,Denis Thybaud
+2518,nm1135320,Even Benestad
+2519,nm2988155,Jordi Mariscal
+2520,nm1416190,N. Linguswamy
+2521,nm0110292,Fausto Brizzi
+2522,nm0957505,Craig Zobel
+2523,nm2587757,Arman T. Riahi
+2524,nm0950841,Chatrichalerm Yukol
+2525,nm0917669,Te-Sheng Wei
+2526,nm0506485,Joseph Levy
+2527,nm1391054,Francesco Patierno
+2528,nm0765761,Tamás Sas
+2529,nm0331532,Raja Gosnell
+2530,nm1085096,Prashant Chadha
+2531,nm0001054,Joel Coen
+2532,nm0936464,Frederick Wiseman
+2533,nm4593873,Ngoc Dang Vu
+2534,nm0956537,Ralph Ziman
+2535,nm0523607,Papick Lozano
+2536,nm0003910,Travis Fine
+2537,nm2447809,Tina von Traben
+2538,nm1746006,Ian Darling
+2539,nm1932020,Kenji Uchida
+2540,nm7395295,Shiqing Cheng
+2541,nm2468927,Carmen Losmann
+2542,nm0300795,Beth Gage
+2543,nm1215478,Han Lee
+2544,nm1666445,Jerrold Tarog
+2545,nm4761949,Vasiliy Barkhatov
+2546,nm3734897,Tony Tang
+2547,nm1625220,Emin Alper
+2548,nm2081247,Pippo Mezzapesa
+2549,nm0906667,Andrzej Wajda
+2550,nm0080689,Paolo Bianchini
+2551,nm0744834,Eli Roth
+2552,nm0554501,Julio Martí
+2553,nm0609399,Katsuyuki Motohiro
+2554,nm1269545,Ron Morales
+2555,nm0661345,Neri Parenti
+2556,nm0032714,Sharif Arafah
+2557,nm0076081,Joyce Bernal
+2558,nm4988988,Jakub Kroner
+2559,nm2104333,Tarek Abd Elmoaty
+2560,nm0321894,Matthias Glasner
+2561,nm2509269,Robert Sedlácek
+2562,nm1757777,Dave Green
+2563,nm5084863,Peio Cachenaut
+2564,nm2734866,Mark Wu
+2565,nm5249757,Sang-yoon Lim
+2566,nm5143231,Yôichi Fujita
+2567,nm3109770,Neeraj Pandey
+2568,nm1928849,Herschel Faber
+2569,nm0001554,Errol Morris
+2570,nm0203993,Terence Davies
+2571,nm0623392,Natalya Nazarova
+2572,nm0015856,Buket Alakus
+2573,nm2622274,Gianluca Ansanelli
+2574,nm0409791,Indra Kumar
+2575,nm0763634,Roberto Santiago
+2576,nm5732579,Jonathan Milott
+2577,nm0355070,S.A. Halewood
+2578,nm0116511,Massimiliano Bruno
+2579,nm1893464,Michael Berry
+2580,nm0560277,Erik Matti
+2581,nm2845464,Laron Austin
+2582,nm3692739,Frederico Machado
+2583,nm2568708,Klim Shipenko
+2584,nm3222230,Vasilis Kehagias
+2585,nm0813394,Matthew Solomon
+2586,nm1883042,Lucas Figueroa
+2587,nm5442911,Catxo
+2588,nm2400342,Christian Keller
+2589,nm0685297,John Pirozzi
+2590,nm0001403,Neil Jordan
+2591,nm3346049,Mariana Cengel-Solcanská
+2592,nm1155461,Nobuaki Izaki
+2593,nm1583171,R. Kannan
+2594,nm1976989,Asako Hyuga
+2595,nm2391053,Volker Schaner
+2596,nm0159039,Felix Chong
+2597,nm2343919,John Barker
+2598,nm2383584,Sandro Ventura
+2599,nm5899379,Drew Taylor
+2600,nm0155446,Yu-Hsun Chen
+2601,nm4544049,Shawn Rech
+2602,nm1749779,Barbara Zemljic
+2603,nm0431971,Stephen Judson
+2604,nm1001695,Pongsak Pongsuwan
+2605,nm3043248,Chris Foggin
+2606,nm1716636,Marielle Heller
+2607,nm0995978,Kongkiat Khomsiri
+2608,nm4502162,Sylvie Ohayon
+2609,nm6004953,Riba de Castro
+2610,nm3964742,Su-jin Lee
+2611,nm4069082,Alessio Liguori
+2612,nm1727396,Ahmet Hossöyler
+2613,nm0674020,Oz Perkins
+2614,nm2037005,Albert Solé
+2615,nm3937763,Jing Wang
+2616,nm0504642,Louis Leterrier
+2617,nm0646391,Jorge Olguín
+2618,nm0300210,Enrique Gabriel
+2619,nm0420941,Patty Jenkins
+2620,nm0919369,Paul Weitz
+2621,nm0751102,David O. Russell
+2622,nm0327273,Michel Gondry
+2623,nm1120092,Jasmila Zbanic
+2624,nm1118104,Vivi Friedman
+2625,nm0779265,Jake Scott
+2626,nm0196860,Olivier Dahan
+2627,nm0693561,Alan Poul
+2628,nm0768249,Geoffrey Sax
+2629,nm0378893,Stephen Herek
+2630,nm0758924,Grete Salomonsen
+2631,nm0668247,Alexander Payne
+2632,nm1916853,Amit Gupta
+2633,nm1150959,Vipul Amrutlal Shah
+2634,nm0525659,Robert Luketic
+2635,nm0276400,Sophie Fiennes
+2636,nm0999525,Daniel Noah
+2637,nm0085257,Dustin Lance Black
+2638,nm0453657,Sang-Jin Kim
+2639,nm2791932,Max Giwa
+2640,nm0188899,Harold Crooks
+2641,nm3459865,Patrick Doughtie
+2642,nm0469639,Pieter Kramer
+2643,nm1051221,Katie Aselton
+2644,nm0526019,Diego Luna
+2645,nm1786164,Olaf de Fleur Johannesson
+2646,nm0125739,Peter Byck
+2647,nm1249411,Xiaolu Xue
+2648,nm0900251,Miguel Ángel Vivas
+2649,nm1492932,Rachid Hami
+2650,nm1155501,E. Paul Edwards
+2651,nm0859853,Andy Thompson
+2652,nm2959497,Tim Fehlbaum
+2653,nm2692858,Fernando González Molina
+2654,nm0158305,Dan Chisu
+2655,nm2092442,Corey Grant
+2656,nm0943458,Gerardine Wurzburg
+2657,nm1118659,Beryl Koltz
+2658,nm0305869,José Luis García Sánchez
+2659,nm0070159,Jafar Panahi
+2660,nm0305563,Adrián García Bogliano
+2661,nm0174374,Bill Condon
+2662,nm0182499,Paolo Costella
+2663,nm0779641,Oz Scott
+2664,nm3960638,Oliver Rodger
+2665,nm0673853,Hans Perk
+2666,nm0346360,José Luis Guerín
+2667,nm0000146,Ralph Fiennes
+2668,nm0393799,Tom Hooper
+2669,nm0330347,Josh Gordon
+2670,nm1357855,Stephan Rick
+2671,nm3011138,Fernando Barreda Luna
+2672,nm0122653,Edward Burns
+2673,nm0690940,Hang-Sang Poon
+2674,nm1360810,Geun-ho Shin
+2675,nm4264958,Trevor Martin
+2676,nm1729048,Yüksel Aksu
+2677,nm0054280,Pavel Bardin
+2678,nm2796318,Keiichi Kobayashi
+2679,nm0586281,Takashi Miike
+2680,nm1356588,Stefano Sollima
+2681,nm1272773,Prachya Pinkaew
+2682,nm0895835,Daniele Vicari
+2683,nm0001885,Lars von Trier
+2684,nm0005303,Kimberly Peirce
+2685,nm2391552,Nobuhiro Doi
+2686,nm0473014,Slawomir Krynski
+2687,nm2700992,Kieron Hawkes
+2688,nm2842515,Marlon Rivera
+2689,nm4502494,Alex Ramseyer-Bache
+2690,nm0146568,Yves Caumon
+2691,nm1671993,In-mu Heo
+2692,nm0339619,Ezio Greggio
+2693,nm2688320,Gabe Ibáñez
+2694,nm0936628,Will Wissink
+2695,nm4520651,Kazuyuki Akashi
+2696,nm0192478,Kat Coiro
+2697,nm0233771,Joseph Dorman
+2698,nm2028715,Nadav Lapid
+2699,nm3160595,Richard Bates Jr.
+2700,nm0844896,Eduardo Sánchez
+2701,nm0140109,Kevin Carraway
+2702,nm2991303,Rahul Nath
+2703,nm0680846,Todd Phillips
+2704,nm0559668,Rainer Matsutani
+2705,nm0240995,Christian Duguay
+2706,nm5168545,Simone Julian Cerri Goldstein
+2707,nm3501582,Alessandro Palazzi
+2708,nm4657759,Fernando Pérez Vacchini
+2709,nm0085627,Olly Blackburn
+2710,nm0996433,Lukasz Barczyk
+2711,nm0526732,Pavel Lungin
+2712,nm4382297,Kari Anne Moe
+2713,nm2462311,Aleksey Mizgiryov
+2714,nm2345855,Hüseyin Karabey
+2715,nm0000108,Luc Besson
+2716,nm0207775,Sebastián De Caro
+2717,nm0700605,Marc Punt
+2718,nm0653561,Petr Oukropec
+2719,nm0527852,Noémie Lvovsky
+2720,nm0155280,Kaige Chen
+2721,nm0155280,Kaige Chen
+2722,nm4287134,Hakki Görgülü
+2723,nm4287134,Hakki Görgülü
+2724,nm2705766,Leopoldo Aguilar
+2725,nm2705766,Leopoldo Aguilar
+2726,nm1159647,Punit Malhotra
+2727,nm1159647,Punit Malhotra
+2728,nm1295651,Maciej Zak
+2729,nm1295651,Maciej Zak
+2730,nm1352003,Songyos Sugmakanan
+2731,nm1352003,Songyos Sugmakanan
+2732,nm0137228,Christian Carion
+2733,nm0137228,Christian Carion
+2734,nm4946876,Cemal Yildirim
+2735,nm4946876,Cemal Yildirim
+2736,nm2284092,Ian Thorpe
+2737,nm2284092,Ian Thorpe
+2738,nm0603466,Dror Moreh
+2739,nm0603466,Dror Moreh
+2740,nm0398619,Emil Christov
+2741,nm0398619,Emil Christov
+2742,nm0394114,Ben Hopkins
+2743,nm2981010,Jonah Bekhor
+2744,nm0726356,Ruth Rieser
+2745,nm5204466,Dustin Marcellino
+2746,nm3209872,Joe Chien
+2747,nm5205784,James E. Duff
+2748,nm0122653,Edward Burns
+2749,nm1754436,Sophie Barthes
+2750,nm5216590,Ziggy Hofmeyr
+2751,nm4371344,Pablo Levy
+2752,nm5215176,Kirati Nakintanon
+2753,nm1959340,Halder Gomes
+2754,nm0353673,Paul Haggis
+2755,nm0827750,Joshua Michael Stern
+2756,nm2349060,Bejoy Nambiar
+2757,nm2257147,Stevan Riley
+2758,nm0276634,Paulo Figueiredo
+2759,nm2247200,Albert Serra
+2760,nm0494569,Eric Le Roch
+2761,nm2344305,Edward Burtynsky
+2762,nm5870374,Fabrice Begotti
+2763,nm5880517,Ekaterina Telegina
+2764,nm1469068,Sanne Vogel
+2765,nm1887138,Mohit Suri
+2766,nm1983812,Piyapan Choopetch
+2767,nm1210360,Alejandro Montiel
+2768,nm0951197,Kunihiko Yuyama
+2769,nm1969131,Pornchai Hongrattanaporn
+2770,nm6018378,Anatoly Balchev
+2771,nm0104312,Rustam Branaman
+2772,nm3410783,Takahiro Miki
+2773,nm1079032,Michael Baumann
+2774,nm0003419,Dayyan Eng
+2775,nm6066341,Hui Liu
+2776,nm4217820,Dale Trott
+2777,nm3899646,Kazunari Hoshino
+2778,nm0782213,Santiago Segura
+2779,nm3554264,St. Vincent
+2780,nm6078543,Virginija Vareikyte
+2781,nm1794344,Oleg Assadulin
+2782,nm1100969,Guangli Wang
+2783,nm0182459,Saverio Costanzo
+2784,nm1919456,Manolo Caro
+2785,nm0179373,Javier Corcuera
+2786,nm1540978,Andoy Ranay
+2787,nm0516352,Yiu Fai Lo
+2788,nm0825039,Ivan Stefanovic
+2789,nm0257891,John Ennis
+2790,nm0259428,Andrew C. Erin
+2791,nm6182173,Ang Xu
+2792,nm0337756,Danny Green
+2793,nm1400426,Daniel Barnz
+2794,nm0463674,Vincent Kok
+2795,nm0000217,Martin Scorsese
+2796,nm0162166,Milan Cieslar
+2797,nm0699095,Martin Provost
+2798,nm1336172,Erik White
+2799,nm0001675,Robert Rodriguez
+2800,nm0343903,Jonás Trueba
+2801,nm1291267,Fleur Boonman
+2802,nm0191147,Michael Cuesta
+2803,nm0391996,Peggy Holmes
+2804,nm0749914,Raoul Ruiz
+2805,nm1217518,Wes Orshoski
+2806,nm1782510,Bruce Dellis
+2807,nm3174449,Radek Wegrzyn
+2808,nm0081540,Susanne Bier
+2809,nm0810252,Vaughn Juares
+2810,nm0522844,Stephen Low
+2811,nm0440269,A. Karunakaran
+2812,nm1005607,Russ Parr
+2813,nm0936464,Frederick Wiseman
+2814,nm0906476,David Wain
+2815,nm1419055,Hari
+2816,nm0771054,Lone Scherfig
+2817,nm4315078,Dominic Cooke
+2818,nm0073888,Rudolf van den Berg
+2819,nm0537361,Kenzô Maihara
+2820,nm1498570,Matías Bize
+2821,nm0865918,Éric Toledano
+2822,nm0425894,Niall Johnson
+2823,nm2753462,Kamil Aydin
+2824,nm0299923,Richard Gabai
+2825,nm1960322,Nick Murphy
+2826,nm0718125,Athina Rachel Tsangari
+2827,nm0075849,Shari Springer Berman
+2828,nm0031992,Stephan Apelgren
+2829,nm2406154,Daniel Ribeiro
+2830,nm0563473,Carlo Mazzacurati
+2831,nm4055347,Arkin Aktaç
+2832,nm1060017,Richard Parry
+2833,nm1436693,A.R. Murugadoss
+2834,nm0891114,Tom Vaughan
+2835,nm3446966,Yukiko Mishima
+2836,nm1724912,Carlos Therón
+2837,nm3036208,José Luis Alemán
+2838,nm0160157,Christian E. Christiansen
+2839,nm2545652,Karzan Kader
+2840,nm1984342,Tirso Calero
+2841,nm0573084,Terry McMahon
+2842,nm0078519,Max Bervy
+2843,nm0297934,Kenta Fukasaku
+2844,nm0720503,Leonard Retel Helmrich
+2845,nm0569790,Douglas McGrath
+2846,nm0258172,Geoffrey Enthoven
+2847,nm4148339,Erhan Kozan
+2848,nm4429579,Umur Hozatli
+2849,nm0001281,Bobcat Goldthwait
+2850,nm0500988,Claude Lelouch
+2851,nm1594248,Alexandre Astier
+2852,nm0624423,Antonio Negret
+2853,nm4478600,Anthony Baxter
+2854,nm1349376,Francis Lawrence
+2855,nm1834891,Maneesh Sharma
+2856,nm0000886,Warren Beatty
+2857,nm0503497,Jørgen Lerdam
+2858,nm1697112,Adam Green
+2859,nm3838717,David Beton
+2860,nm0056006,Neema Barnette
+2861,nm4145507,David Midell
+2862,nm1292891,Jinglei Xu
+2863,nm4577814,Gian Alfonso Pacinotti
+2864,nm0082154,Miro Bilbrough
+2865,nm4493337,Daniel Maggio
+2866,nm1777491,Mark A. Reyes
+2867,nm2976841,Yuki Otsuka
+2868,nm0745131,Marc Rothemund
+2869,nm0004033,Diego Quemada-Díez
+2870,nm1802395,Jirí Vejdelek
+2871,nm1267569,Francesco Amato
+2872,nm4681362,Nareubadee Wetchakam
+2873,nm0948159,Wilson Yip
+2874,nm0950553,Ronny Yu
+2875,nm3394358,Cesare Fragnelli
+2876,nm0005614,Stuart Urban
+2877,nm4902653,Bijan Sheibani
+2878,nm0089889,Markus Blunder
+2879,nm0038896,Rodney Ascher
+2880,nm3316287,Hye-Sun Ku
+2881,nm1428204,Huck Botko
+2882,nm1572115,George Isaac
+2883,nm0695038,Marcos Prado
+2884,nm0303309,Mariano Galperin
+2885,nm0270099,Alessio Maria Federici
+2886,nm0877617,Jann Turner
+2887,nm0379773,Felix Herngren
+2888,nm4782106,Magalí Buj
+2889,nm4788625,Luigi Russo
+2890,nm0289800,David France
+2891,nm0729086,Marialy Rivas
+2892,nm0871086,Pablo Trapero
+2893,nm0198472,Lance Daly
+2894,nm0599472,Rafael Montero
+2895,nm5029450,Ibrahim Güler
+2896,nm2623327,Florian Opitz
+2897,nm0629334,McG
+2898,nm1754943,Vasilije Nikitovic
+2899,nm0496095,Norbert Lechner
+2900,nm5101513,Jonas D'Adesky
+2901,nm3823554,Elred Kumar
+2902,nm1190799,Ingo Rasper
+2903,nm2056100,Umut Dag
+2904,nm0630112,Guillaume Nicloux
+2905,nm2784117,Manmord Sidhu
+2906,nm5062323,Frederico Pinto
+2907,nm2057169,Anwar Rasheed
+2908,nm5053973,Diederick Koopal
+2909,nm0997736,Paolo Petrucci
+2910,nm0660707,Gilles Paquet-Brenner
+2911,nm0298807,Antoine Fuqua
+2912,nm3102070,Michael Schindegger
+2913,nm0563473,Carlo Mazzacurati
+2914,nm5291195,Jeroen Leinders
+2915,nm0149131,Kamil Cetin
+2916,nm0739979,Alberto Rondalli
+2917,nm3241061,Chad Burns
+2918,nm2279646,Yûichi Fukuda
+2919,nm2777808,Michal Marczak
+2920,nm2853542,André Pellenz
+2921,nm0899501,Paolo Virzì
+2922,nm7420174,Hua Tan
+2923,nm0889402,Carlo Vanzina
+2924,nm0952968,Eugenio Zanetti
+2925,nm2424342,Amir Ramses
+2926,nm2876503,Paween Purikitpanya
+2927,nm0898288,Denis Villeneuve
+2928,nm1378747,Greg Francis
+2929,nm2713006,Mark Albiston
+2930,nm0509504,Riton Liebman
+2931,nm0723309,Umberto Riccioni Carteni
+2932,nm1804614,Ali Abbas Zafar
+2933,nm3227090,Damien Chazelle
+2934,nm0836708,Hannes Stöhr
+2935,nm1163050,Santi Amodeo
+2936,nm0258784,Yilmaz Erdogan
+2937,nm0067619,Stephen Belber
+2938,nm1066739,Yukihiko Tsutsumi
+2939,nm4701759,Joel Arellanes Duran
+2940,nm0278803,Pernille Fischer Christensen
+2941,nm0880521,Liv Ullmann
+2942,nm0258732,Reha Erdem
+2943,nm3546475,Hakki Kurtulus
+2944,nm5326250,Anurag Singh
+2945,nm6211307,R.T. Neason
+2946,nm5527877,Gioia Smid
+2947,nm0427896,Dean Jones
+2948,nm4877401,Valerio Ruiz
+2949,nm3005274,Kevin Flint
+2950,nm2604895,Stanislav Nazirov
+2951,nm0001206,Abel Ferrara
+2952,nm0501281,Ella Lemhagen
+2953,nm0053613,Eric Barbier
+2954,nm0764367,Roberto Santucci
+2955,nm0363652,Ricci Harnett
+2956,nm0911334,Matthew Warchus
+2957,nm1860649,Dani de la Torre
+2958,nm0328636,Goo-Bi GC
+2959,nm2565292,Tanwarin Sukkhapisit
+2960,nm0023832,Mathieu Amalric
+2961,nm0222150,Prabhu Deva
+2962,nm1145057,Alejandro Chomski
+2963,nm0001053,Ethan Coen
+2964,nm0197636,Stephen Daldry
+2965,nm1068186,M.J. Bassett
+2966,nm2280148,Justin Dec
+2967,nm10574290,Ta Huy Cuong
+2968,nm10592286,Kyle Lollis
+2969,nm0000450,Philip Seymour Hoffman
+2970,nm0323239,Will Gluck
+2971,nm1127653,Massy Tadjedin
+2972,nm1128050,Chris Addison
+2973,nm1195308,Diego Lerman
+2974,nm0821844,Daniel Stamm
+2975,nm2029797,Fernando Cortizo
+2976,nm0376655,Daniel Hendler
+2977,nm3425417,Sandra Martin
+2978,nm0143984,Jon Cassar
+2979,nm0576610,Mei Hu
+2980,nm0371684,David Hayter
+2981,nm2713730,Shahin Sean Solimon
+2982,nm0001081,Cameron Crowe
+2983,nm0810334,Whitney Smith
+2984,nm0812546,Aleksandr Sokurov
+2985,nm0533284,David Mackenzie
+2986,nm2038223,Daniel Benmayor
+2987,nm1423555,Gustavo Ron
+2988,nm1580671,Jon S. Baird
+2989,nm0314863,Peter Gersina
+2990,nm0185848,Eli Craig
+2991,nm0859323,Pascal Thomas
+2992,nm0005522,Mario Van Peebles
+2993,nm2258330,Ryan Andrews
+2994,nm0949210,Michaël Youn
+2995,nm0082450,Paul Feig
+2996,nm0545382,Gilles Marchand
+2997,nm0050287,Janko Baljak
+2998,nm1893457,Siddharth Anand
+2999,nm1843271,Mikel Rueda
+3000,nm0406267,Valerio Jalongo
+3001,nm0847294,Shinji Takamatsu
+3002,nm1294036,Nima Nourizadeh
+3003,nm0409369,Claudio Insegno
+3004,nm0005363,Guy Ritchie
+3005,nm0910966,Leehom Wang
+3006,nm2279930,Ben C. Lucas
+3007,nm1533498,Vanja d'Alcantara
+3008,nm0230859,Xavier Dolan
+3009,nm1282415,Olivier Babinet
+3010,nm0002194,Pupi Avati
+3011,nm0716814,Adam Rehmeier
+3012,nm1436933,Tadeusz Paradowicz
+3013,nm0294997,Jason Friedberg
+3014,nm1803835,Max Lemcke
+3015,nm1847738,Ari Sandel
+3016,nm0752328,Stefan Ruzowitzky
+3017,nm1600838,George Siougas
+3018,nm3007540,Lawrence Lee Wallace
+3019,nm0362136,Philip Harder
+3020,nm0443411,Tony Kaye
+3021,nm2568502,Sergio Colabona
+3022,nm2100536,Matteo Rovere
+3023,nm0393394,Christophe Honoré
+3024,nm0094435,Bong Joon Ho
+3025,nm0698184,Priyadarshan
+3026,nm0304541,Dennis Gansel
+3027,nm0384825,John Hillcoat
+3028,nm4043787,Seren Yüce
+3029,nm0576548,Deepa Mehta
+3030,nm3598892,Alastair Orr
+3031,nm1802196,Andrey Kavun
+3032,nm1118715,Avni Kütükoglu
+3033,nm1735334,Naci Çelik Berksoy
+3034,nm0992159,Federico Veiroj
+3035,nm4069612,Wuershan
+3036,nm0357584,Bent Hamer
+3037,nm0040286,Aleksandr Atanesyan
+3038,nm0423626,Rowan Joffe
+3039,nm0796504,Siddique
+3040,nm1045937,Joon-ik Lee
+3041,nm0114976,Chris Browne
+3042,nm0803203,Rob Sitch
+3043,nm1615028,Oriol Capel
+3044,nm4429340,Kayo Nakamura
+3045,nm4409181,Daigo Matsui
+3046,nm0007439,Douglas Aarniokoski
+3047,nm4438742,Eduardo Piñero
+3048,nm0672704,Nicos Perakis
+3049,nm0639021,Arne Lindtner Næss
+3050,nm2441296,Glenn Leyburn
+3051,nm1934813,Morné du Toit
+3052,nm0045873,Zsolt Bács
+3053,nm0305362,Marcio Garcia
+3054,nm0516360,Ken Loach
+3055,nm2357819,Brian A. Miller
+3056,nm2048920,Nicolás Gil Lavedra
+3057,nm4459525,Jin-mo Cho
+3058,nm1247462,Christopher Smith
+3059,nm0686375,Michele Placido
+3060,nm1460159,Rohit Shetty
+3061,nm4486562,Hatice Yakar
+3062,nm0004716,Darren Aronofsky
+3063,nm1983812,Piyapan Choopetch
+3064,nm2155757,Josh Cooley
+3065,nm0138809,John Carney
+3066,nm0124636,Roberto Busó-García
+3067,nm1462495,Rémi Bezançon
+3068,nm1045686,Tae-won Jeong
+3069,nm3410783,Takahiro Miki
+3070,nm0121437,Andrés Burgos
+3071,nm0191109,José Luis Cuerda
+3072,nm1272773,Prachya Pinkaew
+3073,nm1060997,Pedro Amorim
+3074,nm1000616,Marco Polo Constandse
+3075,nm0865573,Ricky Tognazzi
+3076,nm4665031,Patrick Daou
+3077,nm4973558,Juanra Fernández
+3078,nm3720444,Arnab Chaudhuri
+3079,nm1443023,Nacho Vigalondo
+3080,nm5303486,Joe Niemand
+3081,nm0927268,Katrine Wiedemann
+3082,nm1924579,Boris Boo
+3083,nm0178886,Gia Coppola
+3084,nm3680682,Maxim Pozdorovkin
+3085,nm1193794,Danilo Beckovic
+3086,nm2853069,Boris Kunz
+3087,nm2298653,Jack Thomas Smith
+3088,nm0000487,Ang Lee
+3089,nm0490774,Andrew Lauer
+3090,nm0757084,Koichi Sakamoto
+3091,nm0091335,Bobby Boermans
+3092,nm1363250,Gabriela Cowperthwaite
+3093,nm1803137,Brian Peter Falk
+3094,nm5413948,Donato Ursitti
+3095,nm5417719,Greg D. Williams
+3096,nm0886095,Rudi Van Den Bossche
+3097,nm2083706,Murat Aslan
+3098,nm1137445,Kurt Mündl
+3099,nm5467419,Abhishek Panchal
+3100,nm1645774,Chris Eska
+3101,nm0890060,Ram Gopal Varma
+3102,nm2196871,Asli Özge
+3103,nm0067457,Timur Bekmambetov
+3104,nm0755158,Ira Sachs
+3105,nm5480120,Alejandro Hidalgo
+3106,nm2233057,Karen Lam
+3107,nm0844333,Malgorzata Szumowska
+3108,nm1729126,Tatyana Ilina
+3109,nm2004165,Alex Hammond
+3110,nm4399052,Wasin Pokpong
+3111,nm0596407,Hans Petter Moland
+3112,nm5507490,Aleksander Bach
+3113,nm0658823,Jake Paltrow
+3114,nm1399659,Isabel de Ayguavives
+3115,nm5464408,Anton Sigurdsson
+3116,nm0201095,Luc Dardenne
+3117,nm0579079,Mike Mendez
+3118,nm0320387,Ugo Giorgetti
+3119,nm2227524,Marc Brummund
+3120,nm1165576,Jonathan Kesselman
+3121,nm0113960,Kasi Brown
+3122,nm0652823,Mariana Otero
+3123,nm0661867,Joong-Hoon Park
+3124,nm2361914,Lourens Blok
+3125,nm0064741,Xavier Beauvois
+3126,nm1110912,Soi Cheang
+3127,nm5975313,Layal M. Rajha
+3128,nm1098764,Mitsutoshi Tanaka
+3129,nm0573732,Sean McNamara
+3130,nm0038936,Rob Ashford
+3131,nm0826541,Kriv Stenders
+3132,nm0000631,Ridley Scott
+3133,nm4625048,Francesco Invernizzi
+3134,nm0509409,Robert Lieberman
+3135,nm0218393,Johanna Demetrakas
+3136,nm1301724,Paul Poet
+3137,nm0220600,Scott Derrickson
+3138,nm1148550,Ava DuVernay
+3139,nm1768412,Mark Linfield
+3140,nm0490927,Shannah Laumeister Stern
+3141,nm2959437,K. Lorrel Manning
+3142,nm3176141,Laure Charpentier
+3143,nm0003697,Florian Henckel von Donnersmarck
+3144,nm0000386,Roland Emmerich
+3145,nm0001901,Chantal Akerman
+3146,nm0264220,Chris Eyre
+3147,nm1362570,Joe Lynch
+3148,nm1126428,Thierry Klifa
+3149,nm1672061,Issei Shibata
+3150,nm2277869,Marjane Satrapi
+3151,nm3732361,Gleb Orlov
+3152,nm3733073,Murat Emir Eren
+3153,nm0660892,Herbert Simone Paragnani
+3154,nm1258535,Pablo Solarz
+3155,nm0812380,Frédéric Sojcher
+3156,nm1248526,Bojan Vuk Kosovcevic
+3157,nm0160840,Jon M. Chu
+3158,nm1898252,Martín Sastre
+3159,nm2758521,Florin Serban
+3160,nm1140492,James Mather
+3161,nm0482592,Dante Lam
+3162,nm3819508,Kristin Canty
+3163,nm0387828,Christoph Hochhäusler
+3164,nm0223606,Tigmanshu Dhulia
+3165,nm0710130,Terje Rangnes
+3166,nm0244697,Simone van Dusseldorp
+3167,nm5049704,Mary McDonagh Murphy
+3168,nm4204584,Mark O'Connor
+3169,nm0282425,Peter Flinth
+3170,nm1761010,Vardan Hakobyan
+3171,nm0467666,Marek Koterski
+3172,nm3142989,Vyacheslav Ross
+3173,nm1383771,Melina León
+3174,nm0653756,Caupolican Ovalles
+3175,nm1202806,Roger Gual
+3176,nm2453579,Cheol-ha Lee
+3177,nm0330984,Sotiris Goritsas
+3178,nm0002194,Pupi Avati
+3179,nm1193346,Sean Ellis
+3180,nm0908037,Michael Walker
+3181,nm2949579,Aaron Yeger
+3182,nm1633551,Karan Malhotra
+3183,nm0155642,Siu-Tung Ching
+3184,nm2445201,Takashi Otsuka
+3185,nm2716176,Shoaib Mansoor
+3186,nm4421810,Jean-Christophe Dessaint
+3187,nm1122650,Kittikorn Liasirikun
+3188,nm1983138,Rergchai Poungpetch
+3189,nm0000709,Robert Zemeckis
+3190,nm1094895,Natalia Almada
+3191,nm1297139,Jeffrey Elmont
+3192,nm0333983,Curtis Graham
+3193,nm1366960,Nacho Garassino
+3194,nm0065510,Louis Becker
+3195,nm0150894,Frankie Chan
+3196,nm0001709,Til Schweiger
+3197,nm4775043,Marten Persiel
+3198,nm0705535,Michael Radford
+3199,nm2028084,Gabriel Carrer
+3200,nm1474292,Miroslav Momcilovic
+3201,nm1589702,Hua-Tao Teng
+3202,nm2029091,Christian Biondani
+3203,nm6259925,Aditya Sood
+3204,nm0400071,Manuel Huerga
+3205,nm2418460,Filiz Alpgezmen
+3206,nm0330532,Rafael Gordon
+3207,nm1098171,Michel Leclerc
+3208,nm2226818,Philipp Manderla
+3209,nm0422638,Wen Jiang
+3210,nm0896662,Leonel Vieira
+3211,nm0001994,Michael Caton-Jones
+3212,nm1814880,Martin Lund
+3213,nm4227232,Hannah Fidell
+3214,nm3491007,Hanneke Schutte
+3215,nm0466428,Jacob Kornbluth
+3216,nm4889857,Lorenzo Garzella
+3217,nm0330687,Joseph Gordon-Levitt
+3218,nm1061623,Philippe Claudel
+3219,nm0416945,Steve James
+3220,nm0429535,Steven de Jong
+3221,nm2122478,Duke Johnson
+3222,nm1014409,Lionel Bailliu
+3223,nm1234242,Matthew Saville
+3224,nm0945724,Takashi Yamazaki
+3225,nm5282034,John Fuhrman
+3226,nm0556076,Joachim Masannek
+3227,nm0059431,Jay Baruchel
+3228,nm0320387,Ugo Giorgetti
+3229,nm0000801,Olivier Assayas
+3230,nm3578010,Yukihiro Miyamoto
+3231,nm0939147,Jing Wong
+3232,nm2307949,Josh Greenbaum
+3233,nm4349538,Adrian Teh
+3234,nm0271765,Paul Fenech
+3235,nm3164213,Jan Tománek
+3236,nm0294997,Jason Friedberg
+3237,nm5409788,Sunil Taneja
+3238,nm2415168,Keisuke Yoshida
+3239,nm5386946,Mehmet Bükülmez
+3240,nm0161834,Derek Cianfrance
+3241,nm1463198,Tracy Droz Tragos
+3242,nm0508025,Paul Leyden
+3243,nm1371044,Geun-hyun Cho
+3244,nm0989666,Di Moretti
+3245,nm5427261,Silvana Tomeo
+3246,nm1631582,Yuriy Vasilev
+3247,nm1848357,Samuel Collardey
+3248,nm1488382,Kelvin Sng
+3249,nm4249842,Linda Korsten
+3250,nm0679928,Nicolas Philibert
+3251,nm0592167,Monty Miranda
+3252,nm2361949,Andrew Mogel
+3253,nm0155528,Yarrow Cheney
+3254,nm0803020,Charlie Siskel
+3255,nm0466349,Baltasar Kormákur
+3256,nm1112548,Johannes Naber
+3257,nm2123121,Hiroshi Shinagawa
+3258,nm1830532,Dan Krauss
+3259,nm2121340,Óscar Parra de Carrizosa
+3260,nm5901690,Vladislav Radev
+3261,nm0814469,Sion Sono
+3262,nm3005627,Andrew Renzi
+3263,nm0174374,Bill Condon
+3264,nm1258346,Christina Rosendahl
+3265,nm0924429,Alan White
+3266,nm0817895,Christopher Spencer
+3267,nm4364862,Martin Makariev
+3268,nm3887727,Seong-soo Kim
+3269,nm1738966,Kivanç Baruönü
+3270,nm1417640,Brett Haley
+3271,nm2436587,Mick Partridge
+3272,nm4060462,Nina Ljeti
+3273,nm0648057,Göran Olsson
+3274,nm6038507,Mustafa Tugrul Tiryaki
+3275,nm0440797,Roger Kass
+3276,nm0320660,François Girard
+3277,nm0785684,Coline Serreau
+3278,nm6085942,Ramón J. Campo
+3279,nm2364318,Biray Dalkiran
+3280,nm1044696,Amr Arafa
+3281,nm1420990,Juan Pablo Martínez
+3282,nm6188119,Brian Perkins
+3283,nm0716257,Matt Reeves
+3284,nm0323758,Andy Goddard
+3285,nm0398903,Sherwood Hu
+3286,nm0000233,Quentin Tarantino
+3287,nm0154312,Pascal Chaumeil
+3288,nm1630273,Phyllida Lloyd
+3289,nm1852103,Donald Rice
+3290,nm0004071,Álvaro Curiel
+3291,nm1677210,Alex Stapleton
+3292,nm1026778,Brad Furman
+3293,nm0506977,Bradford Lewis
+3294,nm0098953,Rachid Bouchareb
+3295,nm2947553,Hong-jin Na
+3296,nm0684336,Steve Pink
+3297,nm3036208,José Luis Alemán
+3298,nm1226069,John Stalberg Jr.
+3299,nm1130529,Aaron Rottinghaus
+3300,nm2556572,Jeong-beom Lee
+3301,nm0001403,Neil Jordan
+3302,nm0000187,Madonna
+3303,nm0442455,Mika Kaurismäki
+3304,nm0462895,David Koepp
+3305,nm1155314,Philippe Guillard
+3306,nm3626440,Rodney Ray
+3307,nm1200832,Mani Shankar
+3308,nm0647055,Héctor Olivera
+3309,nm0334710,Fredde Granberg
+3310,nm0441178,Osamu Katayama
+3311,nm2612991,Banksy
+3312,nm0001631,Sarah Polley
+3313,nm0629334,McG
+3314,nm0361776,Renos Haralambidis
+3315,nm1399083,Hoon Ryoo
+3316,nm0071070,Ulrika Bengts
+3317,nm0535234,Ole Christian Madsen
+3318,nm0463242,Jim Kohlberg
+3319,nm0705058,Steve Race
+3320,nm1709238,Iginio Straffi
+3321,nm0371755,Jimmy Hayward
+3322,nm0494755,Frances Lea
+3323,nm0629272,Andrew Niccol
+3324,nm1119079,Tomm Moore
+3325,nm0793881,Kaneto Shindô
+3326,nm3734897,Tony Tang
+3327,nm0685333,Tayfun Pirselimoglu
+3328,nm0293920,André Freitas
+3329,nm1434345,Edgardo González Amer
+3330,nm4243505,Anna Matison
+3331,nm1376035,Tolga Örnek
+3332,nm0840932,Rosane Svartman
+3333,nm0478418,Bruce La Bruce
+3334,nm0437480,Osamu Kaneda
+3335,nm1327703,Yoshihiro Nakamura
+3336,nm2983258,Brian Lilla
+3337,nm4274355,Kari Häkkinen
+3338,nm0477823,Ulrich Köhler
+3339,nm0170043,Isabel Coixet
+3340,nm0224331,Andrea Di Stefano
+3341,nm0353870,Alexander Hahn
+3342,nm1665004,Imtiaz Ali
+3343,nm0898178,Xavier Villaverde
+3344,nm1212770,Wenn V. Deramas
+3345,nm0453676,Soo-Hyun Kim
+3346,nm0350168,Robert Guédiguian
+3347,nm0294457,Thor Freudenthal
+3348,nm0043742,David Ayer
+3349,nm0098953,Rachid Bouchareb
+3350,nm1031779,Eterio Ortega
+3351,nm0648576,David Ondrícek
+3352,nm1119079,Tomm Moore
+3353,nm3564648,Antonio Méndez Esparza
+3354,nm0015328,Salim Akil
+3355,nm1764816,Mark Raso
+3356,nm0721219,Tony Y. Reyes
+3357,nm1028083,Jes Benstock
+3358,nm0328520,William González
+3359,nm0122184,Daniel Burman
+3360,nm1671974,Wael Ihsan
+3361,nm1283651,Chuan Lu
+3362,nm0051206,Nic Balthazar
+3363,nm0879513,Lauri Törhönen
+3364,nm0578080,Selton Mello
+3365,nm0733149,Todd Robinson
+3366,nm1659741,David Soren
+3367,nm2355933,Justin Kurzel
+3368,nm0146637,Brice Cauvin
+3369,nm1350278,Patrik Eklund
+3370,nm1220697,Ficarra
+3371,nm2978815,Keith Parmer
+3372,nm1360908,Philipp Stennert
+3373,nm1548101,Aida Begic
+3374,nm1992193,Denis Côté
+3375,nm0386382,Ryuichi Hiroki
+3376,nm1450721,Yoshikazu Miyao
+3377,nm2197393,Isara Nadee
+3378,nm1223294,Homi Adajania
+3379,nm1249411,Xiaolu Xue
+3380,nm3277995,Joshua Overbay
+3381,nm2938979,Terra Shin
+3382,nm3595665,Thiru
+3383,nm0646409,Tim Oliehoek
+3384,nm1402557,Boris Khlebnikov
+3385,nm3286588,Tomás Rehorek
+3386,nm0876942,Charlotte de Turckheim
+3387,nm0536827,Brendan Maher
+3388,nm2513775,Andreas Nickel
+3389,nm1642908,Catriona McKenzie
+3390,nm0749989,Tomislav Rukavina
+3391,nm0000777,Gregg Araki
+3392,nm5136240,John Petrizzelli
+3393,nm1860790,Justin Weinstein
+3394,nm0306879,Danielle Gardner
+3395,nm0775090,Dave Schram
+3396,nm0484907,Christopher Landon
+3397,nm0158984,Sylvain Chomet
+3398,nm0595131,Freida Lee Mock
+3399,nm0009190,J.J. Abrams
+3400,nm0265235,Karin Fahlén
+3401,nm0872328,Maarten Treurniet
+3402,nm0364236,Beth Harrington
+3403,nm1167591,Shafi
+3404,nm1402202,Julian Gilbey
+3405,nm5406644,Miguel Rico Tavera
+3406,nm2339782,Murat Dündar
+3407,nm0596347,Nadir Moknèche
+3408,nm1739402,Vinnil Markan
+3409,nm1033668,Ariel Winograd
+3410,nm0222077,Gustav Deutsch
+3411,nm0532235,Seth MacFarlane
+3412,nm0510912,Justin Lin
+3413,nm3324251,Glenn Berggoetz
+3414,nm2594682,Barney Elliott
+3415,nm1237178,David Beilinson
+3416,nm0951309,Ugur Yücel
+3417,nm4536283,Ahmad Ala El-Dib
+3418,nm0174374,Bill Condon
+3419,nm1983138,Rergchai Poungpetch
+3420,nm1847106,Ekaterina Mikhaylova
+3421,nm0051907,Eun-jin Pang
+3422,nm1066739,Yukihiko Tsutsumi
+3423,nm4392114,Sylvestre Sbille
+3424,nm2043837,Samuli Valkama
+3425,nm5931771,Nicolás Silbert
+3426,nm3265321,G. Marthandan
+3427,nm0956454,Jean-Jacques Zilbermann
+3428,nm0005366,Jay Roach
+3429,nm1914992,Robert Greene
+3430,nm0943177,Tian-Ming Wu
+3431,nm4516209,Sarawut Intaraprom
+3432,nm0127198,Grethe Bøe-Waal
+3433,nm1390872,Martijn van Nellestijn
+3434,nm3855079,Karim El Sobky
+3435,nm1888121,Matt Drummond
+3436,nm6026330,Dong-Suk Kuk
+3437,nm0004988,Colin Hanks
+3438,nm0955671,Sergey Zhigunov
+3439,nm2035886,Drake Doremus
+3440,nm0639021,Arne Lindtner Næss
+3441,nm0757084,Koichi Sakamoto
+3442,nm3733101,Zeina Daccache
+3443,nm0291082,Scott Frank
+3444,nm0474955,Roger Kumble
+3445,nm0003160,Christopher McQuarrie
+3446,nm0962713,Daniel De Felippo
+3447,nm2411495,Gary Shore
+3448,nm1918538,Mike Disa
+3449,nm2372334,Sascha Hartmann
+3450,nm1653753,Paul King
+3451,nm0994323,Angel M. Huerta
+3452,nm0150534,Kenneth Chamitoff
+3453,nm0113136,Bob Brown
+3454,nm0905343,Andrucha Waddington
+3455,nm0452022,Kireet Khurana
+3456,nm0686020,Rafi Pitts
+3457,nm1618155,Rafa Lara
+3458,nm0152312,Brenda Chapman
+3459,nm0000876,Noah Baumbach
+3460,nm0812626,Juan Solanas
+3461,nm2263033,Philipp J. Pamer
+3462,nm1458527,Pablo Fendrik
+3463,nm1437189,Sriram Raghavan
+3464,nm1319990,Diego Rougier
+3465,nm0812862,Silvio Soldini
+3466,nm2098964,Sebastian Meise
+3467,nm1180915,Chava Cartas
+3468,nm0310178,Katja Gauriloff
+3469,nm3078168,Nick Ormerod
+3470,nm0496752,Daniel Lee
+3471,nm1672246,Jorma Taccone
+3472,nm0945724,Takashi Yamazaki
+3473,nm0508208,Fernando León de Aranoa
+3474,nm1102140,Josh Radnor
+3475,nm2272926,Lisa Langseth
+3476,nm0229694,David Dobkin
+3477,nm1081521,Lars Jessen
+3478,nm0844038,Antony Szeto
+3479,nm0914368,Michael W. Watkins
+3480,nm1370646,Gayle Ferraro
+3481,nm0128883,Christopher Cain
+3482,nm0002120,Lasse Hallström
+3483,nm0915394,Keoni Waxman
+3484,nm3025574,Anca Puiu
+3485,nm0278803,Pernille Fischer Christensen
+3486,nm1111045,Alejo Taube
+3487,nm1764800,Rob Meyer
+3488,nm0057284,Shirley Barrett
+3489,nm1773597,Hervé Mimran
+3490,nm1349522,Jonathan Levine
+3491,nm0998110,Daniel Sánchez Arévalo
+3492,nm1016687,Laurent Tirard
+3493,nm1265673,Barbara Eder
+3494,nm1220246,Bala
+3495,nm1455707,Marcus H. Rosenmüller
+3496,nm0593610,Mike Mitchell
+3497,nm1893182,Emilio Ruiz Barrachina
+3498,nm3846233,Tim Wolff
+3499,nm0526019,Diego Luna
+3500,nm0922520,Robert Jan Westdijk
+3501,nm1854064,José Luis Gutiérrez Arias
+3502,nm0942504,Joe Wright
+3503,nm0485819,Krzysztof Lang
+3504,nm0124112,Dan Bush
+3505,nm0290556,James Franco
+3506,nm1029961,Chad Hartigan
+3507,nm4249377,Andrew Wilmot
+3508,nm1001232,Marie Kreutzer
+3509,nm3550361,Sarik Andreasyan
+3510,nm0845957,Helena Taberna
+3511,nm1444969,Cristobal Araus Lobos
+3512,nm1633031,Marie Losier
+3513,nm4275986,Jürgen Staal
+3514,nm1410815,Asghar Farhadi
+3515,nm4299636,Andrea Goroni
+3516,nm1701278,Britta Wauer
+3517,nm0400170,Ralf Huettner
+3518,nm1701255,Radha Mohan
+3519,nm1537989,Armen Adilkhanyan
+3520,nm1523673,Shu-Kai Chung
+3521,nm4044077,Tusi Tamasese
+3522,nm0422552,Prakash Jha
+3523,nm2089231,Carles Torras
+3524,nm1450460,Tommy Wai-Tak Lor
+3525,nm0124112,Dan Bush
+3526,nm0700872,Puri Jagannadh
+3527,nm2196693,Rain Tolk
+3528,nm3601988,Ramin Matin
+3529,nm0001741,Bryan Singer
+3530,nm0994455,Wojtek Wawszczyk
+3531,nm0290556,James Franco
+3532,nm1967210,Takeshi Furusawa
+3533,nm1570098,Bevan Cullinan
+3534,nm3029976,Min-suk Kim
+3535,nm1947983,Hajime Hashimoto
+3536,nm2151439,John Poliquin
+3537,nm4252354,Helier Bissell-Thomas
+3538,nm2223783,Haifaa Al-Mansour
+3539,nm4589050,Sage O'Bryant
+3540,nm1384721,Özcan Deniz
+3541,nm0750032,Juan Carlos Rulfo
+3542,nm0904439,Johanna Vuoksenmaa
+3543,nm0526732,Pavel Lungin
+3544,nm1062463,Vincent Kesteloot
+3545,nm1975949,Alisa Khazanova
+3546,nm0116497,John Bruno
+3547,nm2716464,Elie Wajeman
+3548,nm1006992,Federico Finkielstain
+3549,nm2017649,Paulo Nascimento
+3550,nm0281598,Andrew Fleming
+3551,nm4998666,Ivan Oneka
+3552,nm1464507,Alexandra Leclère
+3553,nm0131235,Christian Camargo
+3554,nm2399862,Aanand L. Rai
+3555,nm1834233,Ahmed Saleh
+3556,nm1220140,James Watkins
+3557,nm3106449,Katarzyna Roslaniec
+3558,nm0770961,Fred Schepisi
+3559,nm3577075,Spencer McCall
+3560,nm1263350,Vikram Dhillon
+3561,nm5269807,S. Prabhakaran
+3562,nm0911011,Ping Wang
+3563,nm3873337,Orhan Tekeoglu
+3564,nm1211787,Rodolphe Lauga
+3565,nm0003726,Tallulah Hazekamp Schwab
+3566,nm3188528,Brandon Dickerson
+3567,nm0133608,Hubert Canaval
+3568,nm0216459,Youssef Delara
+3569,nm1841574,Áron Mátyássy
+3570,nm0417054,Jerry Jameson
+3571,nm0308520,Matteo Garrone
+3572,nm1463981,Çagan Irmak
+3573,nm2367198,Ken Ochiai
+3574,nm0453330,Nicole van Kilsdonk
+3575,nm2032664,Kôbun Shizuno
+3576,nm2319811,Joaquín Gutiérrez Acha
+3577,nm0922903,Wash Westmoreland
+3578,nm0029762,Cédric Anger
+3579,nm4994462,Anik Datta
+3580,nm0889402,Carlo Vanzina
+3581,nm5029050,Kirby Voss
+3582,nm4622620,Evgeniy Nevskiy
+3583,nm1823279,Eduardo Schuldt
+3584,nm6173242,Coerte Voorhees
+3585,nm2979103,Dmitriy Dyachenko
+3586,nm3024142,Mor Loushy
+3587,nm1126346,Wych Kaosayananda
+3588,nm1547925,Poj Arnon
+3589,nm1450247,Václav Kadrnka
+3590,nm2038130,Anna Kazejak
+3591,nm2758521,Florin Serban
+3592,nm0482592,Dante Lam
+3593,nm1067862,Phil Grabsky
+3594,nm0718125,Athina Rachel Tsangari
+3595,nm4162637,Wei-ling Chen
+3596,nm1977355,Nathan Greno
+3597,nm0514546,Dwight H. Little
+3598,nm0056365,Luis Barone
+3599,nm0661751,Dean Parisot
+3600,nm0800215,John Alan Simon
+3601,nm0785515,David Serrano
+3602,nm2337991,Marcelo Galvão
+3603,nm0382584,George Hickenlooper
+3604,nm0778931,Carey Scott
+3605,nm0005917,Joseph Vilsmaier
+3606,nm1662693,Ricardo de Montreuil
+3607,nm0170719,Nigel Cole
+3608,nm0003620,Kevin Smith
+3609,nm0863756,Ondi Timoner
+3610,nm0117698,Dietrich Brüggemann
+3611,nm1103162,Tim Story
+3612,nm0047028,Jennifer Baichwal
+3613,nm0597026,Jesper Møller
+3614,nm0027459,Stephen J. Anderson
+3615,nm0544337,Greg Manwaring
+3616,nm0862932,Jacob Tierney
+3617,nm1744333,Joonas Berghäll
+3618,nm1220140,James Watkins
+3619,nm0001752,Steven Soderbergh
+3620,nm0813534,Sergey Solovev
+3621,nm3578957,M. Rajesh
+3622,nm2482088,Tommy Wirkola
+3623,nm0813786,Ben Sombogaart
+3624,nm1650283,Espen Sandberg
+3625,nm0000142,Clint Eastwood
+3626,nm0398719,Jan Hryniak
+3627,nm3844307,Kanchi Wichmann
+3628,nm3847867,Jung
+3629,nm0412838,Kazuyuki Izutsu
+3630,nm0614609,Paul Murphy
+3631,nm0879960,Ekachai Uekrongtham
+3632,nm2755970,Andy Fetscher
+3633,nm0137363,Carlo Carlei
+3634,nm1064048,Nikolaj Arcel
+3635,nm0839645,Alla Surikova
+3636,nm0049371,Jaume Balagueró
+3637,nm0630112,Guillaume Nicloux
+3638,nm0213434,Sergey Debizhev
+3639,nm1960087,Kentarô Moriya
+3640,nm1950988,Tomoyuki Takimoto
+3641,nm0329670,Guy Goossens
+3642,nm1135838,Jeferson De
+3643,nm3961186,Dmitry Mamuliya
+3644,nm0002645,Paolo Genovese
+3645,nm0862911,Greg Tiernan
+3646,nm0436899,Mischa Kamp
+3647,nm0793944,Takehiko Shinjo
+3648,nm1242172,Rúnar Rúnarsson
+3649,nm0201938,John Daschbach
+3650,nm0275044,Ismaël Ferroukhi
+3651,nm0001709,Til Schweiger
+3652,nm0001348,Werner Herzog
+3653,nm1396121,Makoto Shinkai
+3654,nm4320125,Mukunda Michael Dewil
+3655,nm0911505,Donal Lardner Ward
+3656,nm1152151,Michael Caporale
+3657,nm0538320,Alan Mak
+3658,nm1928412,Pablo Yotich
+3659,nm0753820,Guillermo Ríos
+3660,nm1823550,Óskar Thór Axelsson
+3661,nm0653768,George Ovashvili
+3662,nm3867193,Dong-wook Kim
+3663,nm4389977,Shiar Abdi
+3664,nm1633080,Daniel Schechter
+3665,nm0939147,Jing Wong
+3666,nm0259847,James Erskine
+3667,nm0394756,Olivier Horlait
+3668,nm1189197,Quentin Dupieux
+3669,nm1266705,Andrea Papini
+3670,nm1982697,Adam Levins
+3671,nm0159483,Matt Chow
+3672,nm2158772,Jeff Nichols
+3673,nm2402093,Brian Savelson
+3674,nm0290556,James Franco
+3675,nm0527453,Milan Luthria
+3676,nm0711114,Steve Rash
+3677,nm1595300,Jeong-cheol Lee
+3678,nm0006476,Paul McGuigan
+3679,nm0161247,Kai-Cheung Chung
+3680,nm1984645,Pere Vilà i Barceló
+3681,nm1293403,Rafael Lewandowski
+3682,nm0147233,Bromley Cawood
+3683,nm2845464,Laron Austin
+3684,nm0637962,José María Nunes
+3685,nm3363938,Chris McCoy
+3686,nm2965829,Niki Iliev
+3687,nm0280957,Jean-Claude Flamand-Barny
+3688,nm0487436,Santiago Lapeira
+3689,nm0000123,George Clooney
+3690,nm0678857,Christian Petzold
+3691,nm1322135,Joko Anwar
+3692,nm0405849,Martin Högdahl
+3693,nm1219963,David Moreau
+3694,nm4861048,Etienne Fourie
+3695,nm0028036,Daniel Andrade
+3696,nm4050935,Paul Finelli
+3697,nm0688697,Ivan Pokorný
+3698,nm3153335,Jingwu Ning
+3699,nm0071070,Ulrika Bengts
+3700,nm0946937,Hitoshi Yazaki
+3701,nm0633080,Doze Niu
+3702,nm0183125,Pritchett Cotten
+3703,nm0369030,Christopher Hatton
+3704,nm0473549,Toshiyuki Kubooka
+3705,nm0438461,Abhishek Kapoor
+3706,nm1347153,Tyler Perry
+3707,nm0000160,Ethan Hawke
+3708,nm2387990,Noah Miller
+3709,nm0609594,Vladimir Motyl
+3710,nm0688282,John Pogue
+3711,nm0528963,Nick Lyon
+3712,nm1225187,Gastón Vizcarra
+3713,nm0000264,Pedro Almodóvar
+3714,nm0433895,K.V. Anand
+3715,nm1067862,Phil Grabsky
+3716,nm2908199,Éric Warin
+3717,nm4926025,Dorian Fernández-Moris
+3718,nm3083252,Gaël Métroz
+3719,nm2976232,Andreas Öhman
+3720,nm2270935,A.J. Edwards
+3721,nm2260731,Kunal Deshmukh
+3722,nm0151533,Ravi K. Chandran
+3723,nm1500530,Wojciech Smarzowski
+3724,nm2913918,Catherine Castel
+3725,nm0470081,Lars Kraume
+3726,nm0995978,Kongkiat Khomsiri
+3727,nm2260801,Saratswadee Wongsomphet
+3728,nm5434779,Phichai Noirod
+3729,nm0453330,Nicole van Kilsdonk
+3730,nm0651057,Moisés Ortiz Urquidi
+3731,nm0000243,Denzel Washington
+3732,nm0855300,Jonathan Teplitzky
+3733,nm0794971,Del Shores
+3734,nm1141314,Mitra Farahani
+3735,nm0170043,Isabel Coixet
+3736,nm0001437,Emir Kusturica
+3737,nm0348015,Gunasekhar
+3738,nm1227232,Brady Corbet
+3739,nm0225010,Lav Diaz
+3740,nm0463674,Vincent Kok
+3741,nm2861672,Ron Davis
+3742,nm0019242,Daniel Alfredson
+3743,nm1523673,Shu-Kai Chung
+3744,nm2612482,Bryan S. Jennings
+3745,nm0500399,Erik Leijonborg
+3746,nm0943404,Adriënne Wurpel
+3747,nm2068971,Vineeth Sreenivasan
+3748,nm1956411,Kirill Kozlov
+3749,nm0453412,Daehyun Kim
+3750,nm0191277,Jian Cui
+3751,nm0945724,Takashi Yamazaki
+3752,nm0442455,Mika Kaurismäki
+3753,nm0209435,Daniel de la Vega
+3754,nm2257999,Pau Teixidor
+3755,nm1249945,Shaad Ali
+3756,nm0001880,Edward Zwick
+3757,nm0568018,Stuart McDonald
+3758,nm0465617,Will Koopman
+3759,nm4030793,Mandeep Benipal
+3760,nm0811583,Zack Snyder
+3761,nm0931095,Tod Williams
+3762,nm0358184,Tanya Hamilton
+3763,nm0030253,Graham Annable
+3764,nm0027465,Stephen Milburn Anderson
+3765,nm2800323,Vladimir Fatyanov
+3766,nm0676577,Maria Peters
+3767,nm0405632,Mikael Håfström
+3768,nm0129997,Claudio Caligari
+3769,nm0530975,Dick Maas
+3770,nm0000264,Pedro Almodóvar
+3771,nm1378517,Michael Madsen
+3772,nm1248760,Momcilo Mrdakovic
+3773,nm0344496,Adrian Grunberg
+3774,nm0716257,Matt Reeves
+3775,nm1333798,Mabrouk El Mechri
+3776,nm0694405,Ian Power
+3777,nm1054843,Miguel Perelló
+3778,nm0718645,Ivan Reitman
+3779,nm0878638,David Twohy
+3780,nm2019607,Nicholas Dimitropoulos
+3781,nm5648841,Siddharth Malhotra
+3782,nm1783265,Tim Miller
+3783,nm1319093,Alexander Holt
+3784,nm1096524,Jacob Estes
+3785,nm0836715,Philipp Stölzl
+3786,nm2881794,Qasim Basir
+3787,nm0253899,Tom Elkins
+3788,nm0689187,Michael Polish
+3789,nm1319488,David Marqués
+3790,nm0939236,Manfred Wong
+3791,nm0620277,Kenji Nakanishi
+3792,nm0274606,Oriol Ferrer
+3793,nm1401177,Valerie Weiss
+3794,nm0088397,Bertrand Blier
+3795,nm0466349,Baltasar Kormákur
+3796,nm2165614,Rashaad Ernesto Green
+3797,nm0538977,Jacques Malaterre
+3798,nm0088955,Neill Blomkamp
+3799,nm1996918,Dito Montiel
+3800,nm0567620,John Michael McDonagh
+3801,nm0453707,Tae-yong Kim
+3802,nm0818915,Fernando Spiner
+3803,nm0501548,Arnaud Lemort
+3804,nm0827830,Ricki Stern
+3805,nm0855300,Jonathan Teplitzky
+3806,nm0000343,David Cronenberg
+3807,nm2341611,Jeff Orlowski
+3808,nm1202716,Vincent Garenq
+3809,nm0198472,Lance Daly
+3810,nm0494504,Anne Le Ny
+3811,nm1296465,Marc H. Simon
+3812,nm0570912,Adam McKay
+3813,nm0950728,James Yuen
+3814,nm2043837,Samuli Valkama
+3815,nm3823513,Justin Head
+3816,nm0932458,Scott Willis
+3817,nm2038684,Fabrizio Cattani
+3818,nm0000776,Michael Apted
+3819,nm2364318,Biray Dalkiran
+3820,nm4127624,Vladimir Marinichev
+3821,nm0089756,Lawrence Blume
+3822,nm1274194,Marek Lechki
+3823,nm3550361,Sarik Andreasyan
+3824,nm0134559,Laurent Cantet
+3825,nm0312173,David Gelb
+3826,nm2766748,Jai-hong Juhn
+3827,nm2013064,Clive Tonge
+3828,nm2196290,Juancho Cardona
+3829,nm3118719,Matthew Dyas
+3830,nm2393634,Hélène Lee
+3831,nm1481144,Xiaosong Gao
+3832,nm0023355,Christian Alvart
+3833,nm1847908,James Marquand
+3834,nm0994330,Tanit Jitnukul
+3835,nm0393394,Christophe Honoré
+3836,nm7967242,Matt Orlando
+3837,nm1213790,Roman Prygunov
+3838,nm0128883,Christopher Cain
+3839,nm3270827,Peter Strickland
+3840,nm4307147,Sung-hyun Yoon
+3841,nm0174374,Bill Condon
+3842,nm2293027,Sergi Vizcaino
+3843,nm0511924,Peter Lindholm
+3844,nm0181525,Eduard Cortés
+3845,nm1773563,Urszula Antoniak
+3846,nm1166184,Alejandra Marino
+3847,nm1823272,Eduard Radzyukevich
+3848,nm0603090,Laura Morante
+3849,nm1780037,Céline Sciamma
+3850,nm0436784,Kenji Kamiyama
+3851,nm0000095,Woody Allen
+3852,nm0483953,Mark Lamprell
+3853,nm0484073,Jun Lana
+3854,nm1375363,Dong-hyuk Hwang
+3855,nm3143252,D.W. Young
+3856,nm0920017,Peter Wellington
+3857,nm1875071,Blas Eloy Martínez
+3858,nm0483338,Mariano Lamberti
+3859,nm3957282,Alexa Karolinski
+3860,nm1390872,Martijn van Nellestijn
+3861,nm2098167,Pakphum Wongjinda
+3862,nm0027915,Srdja Andjelic
+3863,nm0923736,Joss Whedon
+3864,nm1386102,Babbu Mann
+3865,nm0716257,Matt Reeves
+3866,nm4353668,Alain Deymier
+3867,nm1349522,Jonathan Levine
+3868,nm1729100,Ashraf Fayek
+3869,nm0366867,Mark Hartley
+3870,nm0632354,Nonzee Nimibutr
+3871,nm0267403,Reginaldo Faria
+3872,nm1947983,Hajime Hashimoto
+3873,nm4832059,Lee James Thim Heng
+3874,nm1228976,Scott Speer
+3875,nm1584942,Willie Esterhuizen
+3876,nm1744293,Mevlut Akkaya
+3877,nm1628235,Rasit Çelikezer
+3878,nm1203781,Jeong-woo Park
+3879,nm0075784,Jonathan Berman
+3880,nm0305659,Manuel García Ferré
+3881,nm0576554,Hansal Mehta
+3882,nm0066534,Dan Beers
+3883,nm3384558,Vasiliy Sigarev
+3884,nm0038238,Mats Arehn
+3885,nm2023196,Anton Sivers
+3886,nm4864827,Mikhail Kozlov
+3887,nm1026778,Brad Furman
+3888,nm0398575,Jan Hrebejk
+3889,nm0332837,Alan Govenar
+3890,nm2201450,Alper Mestçi
+3891,nm0355699,Jason Hall
+3892,nm1108007,David Lowery
+3893,nm2081317,Birkan Uz
+3894,nm0015295,Zoya Akhtar
+3895,nm0616880,Toni Myers
+3896,nm1168657,Andrey Zvyagintsev
+3897,nm0818996,Michel Spinosa
+3898,nm5624036,Ricardo Maldonado
+3899,nm0258172,Geoffrey Enthoven
+3900,nm0307531,Jeff Garlin
+3901,nm0210888,Betse De Paula
+3902,nm0218621,James DeMonaco
+3903,nm0304432,Roberts Gannaway
+3904,nm2021539,Steve Sullivan
+3905,nm5754260,Jin Hyoung-Tae
+3906,nm5401557,Munsur Ali
+3907,nm1893652,Joachim Hedén
+3908,nm1977463,Mari Asato
+3909,nm4273756,Anzi Pan
+3910,nm1699679,Mustafa Sevki Dogan
+3911,nm5559388,Christopher Ian Smith
+3912,nm6219987,Leo Lee
+3913,nm0224801,Yi'nan Diao
+3914,nm0394280,Stephen Hopkins
+3915,nm0775097,Tessa Schram
+3916,nm1093053,Brian Percival
+3917,nm0348884,Harold Guskin
+3918,nm0531817,Kevin Macdonald
+3919,nm0003458,Steven R. Monroe
+3920,nm0725345,Roland Suso Richter
+3921,nm0223359,Tom Dey
+3922,nm0408642,Joseph Infantolino
+3923,nm0914134,Mark Waters
+3924,nm1347153,Tyler Perry
+3925,nm0006960,John Madden
+3926,nm0732082,Crayton Robey
+3927,nm0030735,Nimród Antal
+3928,nm1562741,Pascal Hérold
+3929,nm0332740,Everardo Gout
+3930,nm1040419,Shun Oguri
+3931,nm0023832,Mathieu Amalric
+3932,nm0393254,Sang-soo Hong
+3933,nm0190859,Alfonso Cuarón
+3934,nm0064181,Stuart Beattie
+3935,nm0146049,Gil Cates Jr.
+3936,nm1490123,James Wan
+3937,nm1008619,Michael Knowles
+3938,nm0001317,Renny Harlin
+3939,nm3413681,Richard Gray
+3940,nm1288766,Phil Traill
+3941,nm0714865,Ryan Redford
+3942,nm0197855,John Francis Daley
+3943,nm0766263,Shinsuke Sato
+3944,nm0491222,Emmanuel Laurent
+3945,nm0262693,David Mickey Evans
+3946,nm1087263,Nayan Padrai
+3947,nm2532621,David Mueller
+3948,nm0453518,Jee-woon Kim
+3949,nm0837521,Shigemichi Sugita
+3950,nm2050708,Ray Griggs
+3951,nm3724318,Jill Andresevic
+3952,nm0170888,Judith Colell
+3953,nm0001747,Charles Martin Smith
+3954,nm0731253,John Roberts
+3955,nm2574897,Craig Johnson
+3956,nm0118345,Detlev Buck
+3957,nm0007134,Farah Khan
+3958,nm0310614,Julie Gavras
+3959,nm1963675,Román Parrado
+3960,nm0344038,Ricky Grover
+3961,nm2123121,Hiroshi Shinagawa
+3962,nm0018132,Lisa Azuelos
+3963,nm1166759,Inés de Oliveira Cézar
+3964,nm0001880,Edward Zwick
+3965,nm0777029,Reinhard Schwabenitzky
+3966,nm0069260,Nicola Bellucci
+3967,nm1571412,Yann Gozlan
+3968,nm3199051,Shan Nicholson
+3969,nm1141238,Sinisa Dragin
+3970,nm1194585,Tamae Garateguy
+3971,nm0218843,Mathieu Demy
+3972,nm0027572,Wes Anderson
+3973,nm0733641,Elisabetta Rocchetti
+3974,nm2097634,Gatis Smits
+3975,nm0591362,Luca Miniero
+3976,nm0019841,Houchang Allahyari
+3977,nm0170739,Randall Cole
+3978,nm0758242,Ghassan Salhab
+3979,nm0001700,Nancy Savoca
+3980,nm2152283,Leonardo Gudel
+3981,nm0994244,Noriyuki Abe
+3982,nm1461392,Joachim Rønning
+3983,nm3134012,Jeremy Power Regimbal
+3984,nm0668640,Cezary Pazura
+3985,nm3230448,Tom Gormican
+3986,nm1495909,Marcela Balza
+3987,nm1136776,Matti Kinnunen
+3988,nm0271815,Xiaogang Feng
+3989,nm0444328,Dorota Kedzierzawska
+3990,nm0867210,Kelvin Tong
+3991,nm0747689,Chito S. Roño
+3992,nm0776650,Michelle Schumacher
+3993,nm4287208,You-Jeong Jang
+3994,nm0948027,Soon-rye Yim
+3995,nm0223522,David Dhawan
+3996,nm1583697,Gilles Penso
+3997,nm3052903,Alison Klayman
+3998,nm4341096,Gavin Lin
+3999,nm0887452,Erik Van Looy
+4000,nm2792857,Robert Bellsolà
+4001,nm4122269,Hiroshi Kurosaki
+4002,nm2561079,Axel Breuer
+4003,nm0961755,Hugo de Sousa
+4004,nm0946875,Herman Yau
+4005,nm2321778,Jozua Malherbe
+4006,nm1061993,Christoffer Boe
+4007,nm1318602,Massimo Coglitore
+4008,nm2056306,Alexandre Coffre
+4009,nm0348123,Ismail Günes
+4010,nm1852476,Tomas Leach
+4011,nm0052442,Steve Bannon
+4012,nm1399714,Scott Beck
+4013,nm1167412,Aleksi Salmenperä
+4014,nm0184308,Andrés Couturier
+4015,nm1625338,Dinesh D'Souza
+4016,nm4917767,Ersan Arsever
+4017,nm0027572,Wes Anderson
+4018,nm1618147,Hayato Date
+4019,nm0578436,Jamie Meltzer
+4020,nm0340436,Kevin Greutert
+4021,nm1163237,Clio Barnard
+4022,nm0456275,Manfred Kirchheimer
+4023,nm4438656,Natalie Bible'
+4024,nm0853374,Sam Taylor-Johnson
+4025,nm2040537,Kim Farrant
+4026,nm2151374,Eliza Hittman
+4027,nm0851544,Viktor Taus
+4028,nm0386246,Rajkumar Hirani
+4029,nm1481618,Peter Landesman
+4030,nm0498212,Sang-il Lee
+4031,nm0001631,Sarah Polley
+4032,nm0667734,Pawel Pawlikowski
+4033,nm2812567,Harald Friedl
+4034,nm3359718,Ravinder Ravi
+4035,nm1926208,Sakchai Deenan
+4036,nm0219136,Claire Denis
+4037,nm2482088,Tommy Wirkola
+4038,nm2978744,Juri Rechinsky
+4039,nm0422605,Zhangke Jia
+4040,nm1703597,Vladlen Barbe
+4041,nm4193380,Mélissa Drigeard
+4042,nm0408153,Markus Imboden
+4043,nm0470554,Dan Krech
+4044,nm5694018,Levent Akçay
+4045,nm1979074,Jaturong Mokjok
+4046,nm0572865,Sandy McLeod
+4047,nm0412824,Akiyoshi Kimata
+4048,nm0777788,Matthias Schweighöfer
+4049,nm0561149,Manuel González Mauricio
+4050,nm0769703,Eric Schaeffer
+4051,nm1167933,Damián Szifron
+4052,nm0000386,Roland Emmerich
+4053,nm5234736,Phillip Baribeau
+4054,nm1415190,Alexandre Castagnetti
+4055,nm3114621,Alice Rohrwacher
+4056,nm0170043,Isabel Coixet
+4057,nm0619073,Akira Nagai
+4058,nm2538739,Hanung Bramantyo
+4059,nm0259574,Benedikt Erlingsson
+4060,nm1100276,Olga Spátová
+4061,nm0001814,Gus Van Sant
+4062,nm0812546,Aleksandr Sokurov
+4063,nm0994499,Greg Barker
+4064,nm0001064,Jason Connery
+4065,nm1699659,Hakan Algül
+4066,nm2031561,J.Q. Lee
+4067,nm0001880,Edward Zwick
+4068,nm3248608,Roberto De Feo
+4069,nm0573732,Sean McNamara
+4070,nm1738698,Laís Bodanzky
+4071,nm0592573,Dan Mirvish
+4072,nm2794693,Miroslav Petkovic
+4073,nm0751102,David O. Russell
+4074,nm0506613,Shawn Levy
+4075,nm1789897,Arvin Chen
+4076,nm0422552,Prakash Jha
+4077,nm1836963,Keith Bearden
+4078,nm0862343,Guy Lee Thys
+4079,nm1032521,Lorene Scafaria
+4080,nm1486426,Elijah Drenner
+4081,nm0277619,Jeffrey Fine
+4082,nm1204442,Nick Tomnay
+4083,nm1284939,Ford Austin
+4084,nm1026778,Brad Furman
+4085,nm1128037,Ruben Östlund
+4086,nm1351706,Olallo Rubio
+4087,nm0829518,Joey Stewart
+4088,nm0576298,Olivier Megaton
+4089,nm0335138,Debra Granik
+4090,nm3410783,Takahiro Miki
+4091,nm2482088,Tommy Wirkola
+4092,nm1444479,Kiran Rao
+4093,nm0099797,Pascal Bourdiaux
+4094,nm0000631,Ridley Scott
+4095,nm0850958,Nadia Tass
+4096,nm0637176,Oleg Novkovic
+4097,nm0796361,Harald Sicheritz
+4098,nm1768202,Teddy Lussi-Modeste
+4099,nm1060986,Luis Prieto
+4100,nm0735257,Boris Rodriguez
+4101,nm1798333,Wayne Thornley
+4102,nm0763634,Roberto Santiago
+4103,nm0000940,Bigas Luna
+4104,nm0819613,Jill Sprecher
+4105,nm0177896,Bradley Cooper
+4106,nm0326020,John Goldschmidt
+4107,nm2305431,Oren Peli
+4108,nm1159387,Hideyuki Katsuki
+4109,nm0610960,Kornél Mundruczó
+4110,nm2275041,Matthew Porterfield
+4111,nm2001121,Nathan Christ
+4112,nm0872281,Helena Trestíková
+4113,nm0152466,Matthew Chapman
+4114,nm1732975,Niall MacCormick
+4115,nm2088500,Paul Lovelace
+4116,nm0442455,Mika Kaurismäki
+4117,nm1623464,Robin Hessman
+4118,nm0766220,Jun'ya Satô
+4119,nm1126058,Barbara Gräftner
+4120,nm0960025,Kentarô Ohtani
+4121,nm0520875,Nicanor Loreti
+4122,nm1768187,Ryûichi Inomata
+4123,nm0450646,Kwok-Man Keung
+4124,nm0411746,Shun'ya Itô
+4125,nm1226129,Lawrence Silverstein
+4126,nm0679928,Nicolas Philibert
+4127,nm0554532,Manuel Martín Cuenca
+4128,nm0569469,Don McGlynn
+4129,nm0509633,Jens Lien
+4130,nm1276394,Andrew Librizzi
+4131,nm1834891,Maneesh Sharma
+4132,nm0227047,P.J. Dillon
+4133,nm1702145,Dave Wilson
+4134,nm2047699,Oliver Ziegenbalg
+4135,nm1958098,Alexi Tan
+4136,nm4154537,Cheol-han Kim
+4137,nm2559996,Mohamed Diab
+4138,nm0456509,Lee Kirk
+4139,nm4174626,Vignesh Shivan
+4140,nm2673025,Boudewijn Koole
+4141,nm1240647,Nicolás López
+4142,nm0778144,Pierre Schoeller
+4143,nm0436316,Igor Kalyonov
+4144,nm1857283,Reinhard Radke
+4145,nm1453714,Chris Armstrong
+4146,nm0453477,Hyun-seok Kim
+4147,nm0087895,Andrea Blaugrund Nevins
+4148,nm4235612,Tadeusz Król
+4149,nm0290556,James Franco
+4150,nm0916348,Brian Webber
+4151,nm0201095,Luc Dardenne
+4152,nm0626686,Sandra Nettelbeck
+4153,nm0766112,Akan Satayev
+4154,nm4363294,Cenk Ozakinci
+4155,nm0027733,Kjell-Åke Andersson
+4156,nm3233092,Gor Kirakosian
+4157,nm1311271,Volker Sattel
+4158,nm1140275,Steven Knight
+4159,nm0510912,Justin Lin
+4160,nm0766226,Kei'ichi Sato
+4161,nm3614151,Brett Sullivan
+4162,nm0251753,Paul Eilers
+4163,nm1362432,Jérôme Salle
+4164,nm1077107,Kankurô Kudô
+4165,nm5165515,Peter Anthony
+4166,nm2120311,Alex Schmidt
+4167,nm0899501,Paolo Virzì
+4168,nm1027891,Theo Avgerinos
+4169,nm0588087,Christopher Miller
+4170,nm3183685,Humberto Hinojosa Ozcariz
+4171,nm1041597,Morgan Spurlock
+4172,nm0597516,Craig Monahan
+4173,nm1999473,Shoojit Sircar
+4174,nm4967124,Yelena Bychkova
+4175,nm0373798,Michael Hegner
+4176,nm0187091,Patrick Creadon
+4177,nm0000416,Terry Gilliam
+4178,nm0014426,Óscar Aibar
+4179,nm0915304,Scott Waugh
+4180,nm1283899,Nikolay Mutafchiev
+4181,nm3195629,Hadzi-Aleksandar Djurovic
+4182,nm1992193,Denis Côté
+4183,nm0948021,Ho Yim
+4184,nm1761524,Andrea Pallaoro
+4185,nm4680945,Stefano Capuzzi Lapietra
+4186,nm5043275,Anna Plutecka-Mesjasz
+4187,nm1339032,Pavel Göbl
+4188,nm3123035,Huayang Fu
+4189,nm0955505,Wei Zhao
+4190,nm0859432,Rob Thomas
+4191,nm3040251,Alberto Morais
+4192,nm0770811,Evelyn Schels
+4193,nm2021516,Jake Szymanski
+4194,nm3297673,Paul Dalio
+4195,nm2036500,Fernando Coimbra
+4196,nm4392056,Xu Kerr
+4197,nm0269463,Jon Favreau
+4198,nm5672919,Yuefeng Song
+4199,nm1488024,Mohammad Rasoulof
+4200,nm5674119,Paul-Julien Robert
+4201,nm0904225,Pavle Vuckovic
+4202,nm2320363,Murat Seker
+4203,nm3964043,Martin Prakkat
+4204,nm1322753,Sam Esmail
+4205,nm1893665,Ali Samadi Ahadi
+4206,nm2332999,Deon Meyer
+4207,nm3351491,Jaco Smit
+4208,nm4749189,Nobuyuki Sakuma
+4209,nm5130187,Fabrizio Conte
+4210,nm2171633,Baran bo Odar
+4211,nm1414582,Ben Palmer
+4212,nm3316323,Jason Miller
+4213,nm0111369,Jacek Bromski
+4214,nm0273208,Álvaro Fernández Armero
+4215,nm0906710,Setsurô Wakamatsu
+4216,nm1119099,Brendan Muldowney
+4217,nm1160962,Henry Joost
+4218,nm0151540,Jay Chandrasekhar
+4219,nm0330347,Josh Gordon
+4220,nm0688361,Bill Pohlad
+4221,nm0002120,Lasse Hallström
+4222,nm0527109,Rod Lurie
+4223,nm0000431,Taylor Hackford
+4224,nm0585011,Roger Michell
+4225,nm0027271,Paul W.S. Anderson
+4226,nm1615896,Johan Lundborg
+4227,nm0316795,Alex Gibney
+4228,nm0337773,David Gordon Green
+4229,nm1972793,Jamie Bradshaw
+4230,nm0000146,Ralph Fiennes
+4231,nm0922487,James Westby
+4232,nm0381228,Juraj Herz
+4233,nm0028220,Casper Andreas
+4234,nm0103744,Tom Brady
+4235,nm0384722,Tim Hill
+4236,nm1884759,Zeina Durra
+4237,nm0621168,Thomas Napper
+4238,nm1135423,Darren Lynn Bousman
+4239,nm0726041,William Riead
+4240,nm1933648,Dome Karukoski
+4241,nm0086920,Christophe Blanc
+4242,nm0899501,Paolo Virzì
+4243,nm2838692,Toshio Lee
+4244,nm2666268,Adam Rodgers
+4245,nm0337773,David Gordon Green
+4246,nm0648902,Fabien Onteniente
+4247,nm0557267,Olivier Masset-Depasse
+4248,nm1506642,Nana Neul
+4249,nm3221483,Navaniat Singh
+4250,nm0094726,Pascal Bonitzer
+4251,nm4488446,Joe Bou Eid
+4252,nm1523673,Shu-Kai Chung
+4253,nm0169300,Daniel Cohen
+4254,nm1319671,Gerardo Naranjo
+4255,nm0631315,Manolo Nieto
+4256,nm3886858,Gust Van den Berghe
+4257,nm0399655,John Huddles
+4258,nm1051221,Katie Aselton
+4259,nm4456860,Robert La Force
+4260,nm1732981,Martin McDonagh
+4261,nm1122217,Des Doyle
+4262,nm1709238,Iginio Straffi
+4263,nm2358558,Nick Weiss
+4264,nm0680846,Todd Phillips
+4265,nm0440458,Jake Kasdan
+4266,nm0065644,Ruth Beckermann
+4267,nm0602452,Andrew Morahan
+4268,nm1278058,Hiroyuki Yano
+4269,nm4523258,Andrea Biglione
+4270,nm1312731,Aurora Guerrero
+4271,nm0777788,Matthias Schweighöfer
+4272,nm3311094,Keishi Ohtomo
+4273,nm0298691,Stephen Fung
+4274,nm0512862,Caroline Link
+4275,nm2035886,Drake Doremus
+4276,nm3037814,Tadafumi Ito
+4277,nm0300168,Radu Gabrea
+4278,nm0523821,Olaf Lubaszenko
+4279,nm0497416,Hyun-seung Lee
+4280,nm0241622,Bruno Dumont
+4281,nm3218495,Valentin Thurn
+4282,nm0387683,Richard Hobert
+4283,nm1429471,Jaume Collet-Serra
+4284,nm0327273,Michel Gondry
+4285,nm0955443,Yimou Zhang
+4286,nm4584474,Erdogan Bagbakan
+4287,nm2323201,Claudia Pinto
+4288,nm0117698,Dietrich Brüggemann
+4289,nm4877278,André Marouço
+4290,nm0187834,Lodewijk Crijns
+4291,nm1705578,Barbara Bialowas
+4292,nm0560277,Erik Matti
+4293,nm2321771,Smeep Kang
+4294,nm0075261,Barry Berk
+4295,nm1834171,David Gaynes
+4296,nm0901265,Aleksandr Voytinskiy
+4297,nm4272325,Levin Peter
+4298,nm0004056,Andrew Stanton
+4299,nm2279419,Dave Boyle
+4300,nm0747689,Chito S. Roño
+4301,nm0048414,Dylan Baker
+4302,nm2128335,J Blakeson
+4303,nm0243848,Alberto Durant
+4304,nm1410208,Young-Joo Byun
+4305,nm3591467,Paul Wright
+4306,nm0467145,Arto Koskinen
+4307,nm0001528,Don McKellar
+4308,nm0458722,Dusan Klein
+4309,nm4970416,Vito Cea
+4310,nm2149099,Hüseyin Tabak
+4311,nm0181109,Pappi Corsicato
+4312,nm0701603,Marja Pyykkö
+4313,nm0617428,Taru Mäkelä
+4314,nm1246883,Mac Alejandre
+4315,nm1885641,Gregory W. Friedle
+4316,nm0095871,Gertjan Booy
+4317,nm3868633,Severin Fiala
+4318,nm1200194,Marteinn Thorsson
+4319,nm3511659,Mikkel Brænne Sandemose
+4320,nm5006565,Chu-ji Qiu
+4321,nm1637806,Sôichi Masui
+4322,nm0836557,Eric Styles
+4323,nm0222150,Prabhu Deva
+4324,nm0181117,Catherine Corsini
+4325,nm1486975,Annemarie Jacir
+4326,nm0285090,Frédéric Fonteyne
+4327,nm3821208,Fernando Fraiha
+4328,nm0782430,Ulrich Seidl
+4329,nm1852165,Guillaume Vincent
+4330,nm0094274,Bertrand Bonello
+4331,nm0827268,John Stephenson
+4332,nm0630088,Stevie Nicks
+4333,nm1906081,Kordian Piwowarski
+4334,nm0991532,Bin Bunluerit
+4335,nm3221483,Navaniat Singh
+4336,nm0693648,Jean-François Pouliot
+4337,nm1744333,Joonas Berghäll
+4338,nm0220274,Denis Dercourt
+4339,nm4486604,Silke Schranz
+4340,nm0805476,John Slattery
+4341,nm0716585,Godfrey Reggio
+4342,nm3177888,Manuel Facal
+4343,nm0193838,Dan Cutforth
+4344,nm1079050,Yong-gyun Kim
+4345,nm0882203,Zaza Urushadze
+4346,nm0728276,Marco Risi
+4347,nm2463233,Antoine Blossier
+4348,nm5796713,Danie Barnard
+4349,nm0469867,Tommy Krappweis
+4350,nm3363032,Ryan Coogler
+4351,nm2196634,David Cánovas
+4352,nm3469952,Roy Hin Yeung Chow
+4353,nm1265673,Barbara Eder
+4354,nm0552474,Jared Martin
+4355,nm0125887,Bob Byington
+4356,nm1194496,Stevan Filipovic
+4357,nm6257527,Matt Byron
+4358,nm0396284,Hsiao-Hsien Hou
+4359,nm2206678,Robert Wichrowski
+4360,nm1327418,Yeon-woo Lee
+4361,nm0269440,François Favrat
+4362,nm6357929,Bernardo Cañizares Esguerra
+4363,nm6380169,Corne van Rooyen
+4364,nm0350455,Stephen Gyllenhaal
+4365,nm0874789,Ivan Tscherkelov
+4366,nm1770760,Gary Michael Schultz
+4367,nm1447139,Todd Lincoln
+4368,nm0300174,Levan Gabriadze
+4369,nm1628249,Gonzalo Bendala
+4370,nm0248942,Uli Edel
+4371,nm1729386,Yilmaz Okumus
+4372,nm2284484,Gareth Edwards
+4373,nm0758574,Walter Salles
+4374,nm0733149,Todd Robinson
+4375,nm0005190,Garry Marshall
+4376,nm0572562,Greg McLean
+4377,nm0087904,Barry W. Blaustein
+4378,nm0000123,George Clooney
+4379,nm0000318,Tim Burton
+4380,nm0015382,Adewale Akinnuoye-Agbaje
+4381,nm1400426,Daniel Barnz
+4382,nm0843640,István Szabó
+4383,nm0831557,Nicholas Stoller
+4384,nm0000110,Kenneth Branagh
+4385,nm0276899,Daniel Filho
+4386,nm0503497,Jørgen Lerdam
+4387,nm0496969,Chang-dong Lee
+4388,nm4139472,Afonso Poyart
+4389,nm1181287,Cornel Gheorghita
+4390,nm0000916,Peter Berg
+4391,nm0133899,Guillaume Canet
+4392,nm0213100,William Dear
+4393,nm0373282,Peter Hedges
+4394,nm1071898,Dylan Kidd
+4395,nm1364086,Radu Muntean
+4396,nm0762688,Gerson Sanginitto
+4397,nm0946803,Pamela Yates
+4398,nm0078465,Julie Bertuccelli
+4399,nm0845618,Maria Sødahl
+4400,nm0327789,Shaky González
+4401,nm0861899,Jamie Thraves
+4402,nm1936947,Levan Koguashvili
+4403,nm0241622,Bruno Dumont
+4404,nm0640466,Pat O'Connor
+4405,nm1119183,Timo Novotny
+4406,nm0892000,Andres Veiel
+4407,nm0438651,Güzin Kar
+4408,nm0001348,Werner Herzog
+4409,nm1172960,Santiago Palavecino
+4410,nm1297573,Patricia Martínez de Velasco
+4411,nm0399003,Jianxin Huang
+4412,nm0203993,Terence Davies
+4413,nm0632763,Satoshi Nishimura
+4414,nm3739787,Yoshishige Miyake
+4415,nm1188723,Carles Bosch
+4416,nm0625080,Alice Nellis
+4417,nm1435120,Edouard Deluc
+4418,nm0433141,Anna Justice
+4419,nm0004217,André Øvredal
+4420,nm0423177,Zdenek Jiráský
+4421,nm3653362,Danfung Dennis
+4422,nm1271349,Sue Bourne
+4423,nm2610231,Zal Batmanglij
+4424,nm4139502,Marco Righi
+4425,nm0019247,Tomas Alfredson
+4426,nm2662079,Daniel Lusko
+4427,nm0231596,Andrew Dominik
+4428,nm0601781,Rich Moore
+4429,nm1856823,Kemal Uzun
+4430,nm1204790,Sacha Bennett
+4431,nm1494662,Ching-Po Wong
+4432,nm1044653,Ah-Niu
+4433,nm0701245,Tom Putnam
+4434,nm0388956,Jerzy Hoffman
+4435,nm1126474,Yusry Abd Halim
+4436,nm0766262,Shimako Sato
+4437,nm0814271,Il-gon Song
+4438,nm0241121,Jean Dujardin
+4439,nm0314995,Fredrik Gertten
+4440,nm4735241,Bahij Hojeij
+4441,nm2142624,Keith Miller
+4442,nm0649117,Niels Arden Oplev
+4443,nm0330140,Dennie Gordon
+4444,nm1337218,Paul Sen
+4445,nm0699793,Stepan Puchinyan
+4446,nm2191279,Putipong Saisikaew
+4447,nm4346625,Paulí Subirà
+4448,nm0315430,Nikolaus Geyrhalter
+4449,nm2444078,Toru Yamamoto
+4450,nm0718333,Juliana Reis
+4451,nm5048826,Hadi El Bagoury
+4452,nm4960779,Cobus Rossouw
+4453,nm0522634,Jeremy Lovering
+4454,nm1320860,Chema Rodríguez
+4455,nm3736815,Hee-kon Park
+4456,nm1542079,Dominic Zapata
+4457,nm0069166,Marco Bellocchio
+4458,nm1746009,Eddy Duran
+4459,nm0001929,Josiane Balasko
+4460,nm1852117,Jason Wise
+4461,nm0937306,Bille Woodruff
+4462,nm0437480,Osamu Kaneda
+4463,nm1138662,Treva Wurmfeld
+4464,nm1218396,Steffen Zacke
+4465,nm0290131,Dean Francis
+4466,nm2486358,Dong-oh Jo
+4467,nm0330532,Rafael Gordon
+4468,nm0458034,Kristina Kjellin
+4469,nm1805326,Mrighdeep Lamba
+4470,nm4457070,Yutaka Mizuochi
+4471,nm0041474,Frédéric Auburtin
+4472,nm3376531,Can Kilcioglu
+4473,nm1030782,Katarina Launing
+4474,nm1013665,Marco Ponti
+4475,nm0024580,Claudio Amendola
+4476,nm0312173,David Gelb
+4477,nm1266897,Johannes Roberts
+4478,nm0899121,Thomas Vinterberg
+4479,nm1190532,David Oelhoffen
+4480,nm1157165,Ondrej Sokol
+4481,nm1846132,Joe Swanberg
+4482,nm0648649,Kuo-Sin Ong
+4483,nm0935863,Michael Winterbottom
+4484,nm0169926,Marya Cohn
+4485,nm2032567,Tenzin Tsetan Choklay
+4486,nm0948145,Wai-Man Yip
+4487,nm1967210,Takeshi Furusawa
+4488,nm0953511,Travis Zariwny
+4489,nm1655391,Abdellah Taia
+4490,nm0269755,Csaba Fazekas
+4491,nm1120092,Jasmila Zbanic
+4492,nm2000966,Attila Till
+4493,nm1993322,Timo Vuorensola
+4494,nm0007131,Subhash Ghai
+4495,nm5796506,Jin-Pyung Lim
+4496,nm1284043,Zahari Paunov
+4497,nm5817481,Ismet Eraydin
+4498,nm1502159,Mike Marzuk
+4499,nm0227570,Isabelle Doval
+4500,nm0007082,John Stockwell
+4501,nm0001241,Stephen Frears
+4502,nm3868633,Severin Fiala
+4503,nm4209430,Carlos Vermut
+4504,nm1450964,Maciej Pieprzyca
+4505,nm3584680,Kane Senes
+4506,nm0003620,Kevin Smith
+4507,nm1802093,Brian DeCubellis
+4508,nm1362893,Petr Jákl
+4509,nm0001844,Frank Whaley
+4510,nm0602403,André Moraes
+4511,nm0065644,Ruth Beckermann
+4512,nm1244760,Amole Gupte
+4513,nm0068385,Martin Bell
+4514,nm0713864,Nick Read
+4515,nm0003535,Ken Sanzel
+4516,nm6276494,Je-Yeong Kim
+4517,nm0944594,Hsiu-Chiung Chiang
+4518,nm6283807,Boon Huat Tan
+4519,nm0872706,Iglika Triffonova
+4520,nm1942303,Gerardo Olivares
+4521,nm0776931,Ruud Schuurman
+4522,nm0518070,Kim-Ching Luk
+4523,nm0020728,Kevin Allen
+4524,nm0631590,Johan Nijenhuis
+4525,nm3053575,Laura Bispuri
+4526,nm0742941,Gianfranco Rosi
+4527,nm0160844,Kevin Chu
+4528,nm0000631,Ridley Scott
+4529,nm0240196,Michael Dudok de Wit
+4530,nm1163513,Julio Bove
+4531,nm0001338,Brian Helgeland
+4532,nm0770643,John Scheinfeld
+4533,nm1458855,Marko Mäkilaakso
+4534,nm0079578,Antoinette Beumer
+4535,nm0905592,Jeff Wadlow
+4536,nm2934741,Awi Suryadi
+4537,nm10582613,Liaoyu Chen
+4538,nm0803547,Annette Sjursen
+4539,nm10635936,Xiaogang Gu
+4540,nm6339809,Yu-sheng Tian
+4541,nm0948596,Sang-Hyo Yook
+4542,nm0505152,Brian Levant
+4543,nm2366197,Faruk Kabir
+4544,nm0004675,Phil Alden Robinson
+4545,nm0726954,Eran Riklis
+4546,nm0267497,Julian Farino
+4547,nm0000490,Spike Lee
+4548,nm1720541,David Slade
+4549,nm0191712,R.J. Cutler
+4550,nm3280977,Massimo Natale
+4551,nm0001770,Fisher Stevens
+4552,nm3307029,Diego Vega Vidal
+4553,nm1464507,Alexandra Leclère
+4554,nm0687751,Rodrigo Plá
+4555,nm1159647,Punit Malhotra
+4556,nm1240647,Nicolás López
+4557,nm1044678,Phie Ambo
+4558,nm0254120,Doug Ellin
+4559,nm3973794,Sang-Hwa Lee
+4560,nm1278058,Hiroyuki Yano
+4561,nm3834604,Regan Hall
+4562,nm0000269,Jean-Jacques Annaud
+4563,nm2147182,Oskar Tejedor
+4564,nm1455707,Marcus H. Rosenmüller
+4565,nm2574581,Jean-Charles Hue
+4566,nm1050097,Isaki Lacuesta
+4567,nm1110912,Soi Cheang
+4568,nm1334961,Pablo José Meza
+4569,nm0409699,Handan Ipekçi
+4570,nm0482901,Luis Alberto Lamata
+4571,nm1804614,Ali Abbas Zafar
+4572,nm0545356,Olivier Marchal
+4573,nm0083636,Bobbie Birleffi
+4574,nm1304669,Anthony DiBlasi
+4575,nm0488688,Sheldon Larry
+4576,nm0449489,Peter Kern
+4577,nm2329969,Ivan Mitov
+4578,nm0348558,Lyudmila Gurchenko
+4579,nm0493764,Magdalena Lazarkiewicz
+4580,nm2234233,Ilze Burkovska Jacobsen
+4581,nm3146722,Selim Evci
+4582,nm2110543,Isa Yildiz
+4583,nm0158305,Dan Chisu
+4584,nm4199426,Mysskin
+4585,nm1240647,Nicolás López
+4586,nm1330998,Izuru Narushima
+4587,nm1615927,Tae-kyeong Kim
+4588,nm1197971,Marcus Nispel
+4589,nm1283069,Cathy Garcia-Molina
+4590,nm0453330,Nicole van Kilsdonk
+4591,nm0052442,Steve Bannon
+4592,nm0654830,François Ozon
+4593,nm1887936,Soo-young Park
+4594,nm2092917,Kent Moran
+4595,nm0000165,Ron Howard
+4596,nm1045681,Yun-su Chong
+4597,nm0946875,Herman Yau
+4598,nm1787651,Todd Berger
+4599,nm0001675,Robert Rodriguez
+4600,nm4639778,Catalin Apostol
+4601,nm0294394,Alain Fresnot
+4602,nm0401176,Ann Hui
+4603,nm0594503,Hayao Miyazaki
+4604,nm1899656,Patryk Vega
+4605,nm0318916,Craig Gillespie
+4606,nm1366561,Mads Brügger
+4607,nm4189373,Raj Amit Kumar
+4608,nm0600247,Richard Montoya
+4609,nm0170896,Laura Colella
+4610,nm0344262,Jonathan Gruber
+4611,nm4684349,Vyacheslav Zlatopolskiy
+4612,nm1494662,Ching-Po Wong
+4613,nm9466432,Raphael Gasparini
+4614,nm1006056,John Mitchell
+4615,nm4922478,Riccardo Jacopino
+4616,nm0506374,Dani Levy
+4617,nm0090386,James Bobin
+4618,nm0608741,Vitaliy Moskalenko
+4619,nm0337564,Matt Green
+4620,nm0015784,Züli Aladag
+4621,nm0885249,Jean-Marc Vallée
+4622,nm3254361,Pavel Abrahám
+4623,nm1548496,Hsun-Wei David Chang
+4624,nm0275277,Shana Feste
+4625,nm0448768,Jennifer Kent
+4626,nm4970524,María Verónica Ramírez
+4627,nm0300898,Giovanna Gagliardo
+4628,nm0501548,Arnaud Lemort
+4629,nm1212770,Wenn V. Deramas
+4630,nm3728575,Yong-Joo Lee
+4631,nm1018493,Rakeysh Omprakash Mehra
+4632,nm0473549,Toshiyuki Kubooka
+4633,nm0779433,Ken Scott
+4634,nm1279773,David Ismalone
+4635,nm0352858,Joana Hadjithomas
+4636,nm0331516,Ryan Gosling
+4637,nm2308774,Destin Daniel Cretton
+4638,nm1996251,Luis Carlos Hueck
+4639,nm3462290,Michael Matthews
+4640,nm1738978,Anna Novion
+4641,nm0598173,Jayme Monjardim
+4642,nm0001331,Todd Haynes
+4643,nm0294997,Jason Friedberg
+4644,nm0001639,Alex Proyas
+4645,nm0000108,Luc Besson
+4646,nm4325201,Maria Saroja Ponnambalam
+4647,nm0463596,Takashi Koizumi
+4648,nm0493257,Josh Lawson
+4649,nm1490123,James Wan
+4650,nm1860612,Keith English
+4651,nm0009463,Hany Abu-Assad
+4652,nm0275250,Javier Fesser
+4653,nm0407648,Biket Ilhan
+4654,nm0082802,Mike Binder
+4655,nm2051359,Riley Morton
+4656,nm3258830,Atalay Tasdiken
+4657,nm2967962,Sohail Tatari
+4658,nm1059369,Yûzô Satô
+4659,nm0000500,Richard Linklater
+4660,nm0951418,Michal Zabka
+4661,nm4160160,Tomás Magnusek
+4662,nm0879783,Aleksey Uchitel
+4663,nm3358083,Jamie Chambers
+4664,nm0948027,Soon-rye Yim
+4665,nm1314800,Mano Khalil
+4666,nm0861826,Peter Thorwarth
+4667,nm0762781,Oles Sanin
+4668,nm0000196,Mike Myers
+4669,nm1389969,Sandor Jesse
+4670,nm3613566,Sang-ho Yeon
+4671,nm0076081,Joyce Bernal
+4672,nm0004805,Adam Carolla
+4673,nm3112190,Carlos Marques-Marcet
+4674,nm0864775,Johnnie To
+4675,nm2322952,Charles Henri Belleville
+4676,nm2689791,Roger Melvin
+4677,nm0510681,Mauro Lima
+4678,nm1287649,Sabir Khan
+4679,nm3092600,Pierre Morath
+4680,nm0868153,Giuseppe Tornatore
+4681,nm2125482,Chloé Zhao
+4682,nm0432631,Sebastian Junger
+4683,nm0180462,Jérôme Cornuau
+4684,nm6356513,Gastón Gallo
+4685,nm1050098,Joachim Lafosse
+4686,nm1279573,F. Javier Gutiérrez
+4687,nm2326979,Larysa Kondracki
+4688,nm2397581,Brooks Branch
+4689,nm0477129,Ken Kwapis
+4690,nm0788858,Anil Sharma
+4691,nm0680846,Todd Phillips
+4692,nm0367059,Christine Hartmann
+4693,nm0340973,Jon Gries
+4694,nm1802196,Andrey Kavun
+4695,nm0920425,Simon Wells
+4696,nm0469813,Tony Krantz
+4697,nm3164568,Carmen Marrón
+4698,nm0005008,Brian Henson
+4699,nm0235719,John Erick Dowdle
+4700,nm0248942,Uli Edel
+4701,nm0000343,David Cronenberg
+4702,nm0338372,Terry Green
+4703,nm2043473,Arild Andresen
+4704,nm0737442,Todd Rohal
+4705,nm0527261,Patrick Lussier
+4706,nm3607398,Suseenthiran
+4707,nm0688636,Laura Poitras
+4708,nm0389712,Joanna Hogg
+4709,nm0181903,Panos Cosmatos
+4710,nm2041166,Geoff Lindsey
+4711,nm1064048,Nikolaj Arcel
+4712,nm0885249,Jean-Marc Vallée
+4713,nm0048932,Simon Baker
+4714,nm1460159,Rohit Shetty
+4715,nm0736496,Koos Roets
+4716,nm0346550,Davis Guggenheim
+4717,nm0386382,Ryuichi Hiroki
+4718,nm0407067,Álex de la Iglesia
+4719,nm0877084,Su Turhan
+4720,nm2469894,Daihachi Yoshida
+4721,nm0122184,Daniel Burman
+4722,nm0128382,Israel Adrián Caetano
+4723,nm0064741,Xavier Beauvois
+4724,nm0832165,Sean Stone
+4725,nm0805760,Pål Sletaune
+4726,nm0573732,Sean McNamara
+4727,nm1969131,Pornchai Hongrattanaporn
+4728,nm0299309,Marc Fusco
+4729,nm1750316,Pierre Thoretton
+4730,nm2622478,Eldar Salavatov
+4731,nm2258268,Andy Grieve
+4732,nm1755396,Roseanne Liang
+4733,nm0132709,Martin Campbell
+4734,nm0165316,Erik Clausen
+4735,nm2445201,Takashi Otsuka
+4736,nm0081449,Dragan Bjelogrlic
+4737,nm1253446,Pablo Tesoriere
+4738,nm0000365,Julie Delpy
+4739,nm2368502,John Langridge
+4740,nm0643696,Masayuki Ochiai
+4741,nm0414728,Jannicke Systad Jacobsen
+4742,nm1362432,Jérôme Salle
+4743,nm3205815,Anne Sewitsky
+4744,nm0001775,Whit Stillman
+4745,nm2451020,Alexandru Maftei
+4746,nm2128244,Yoshihiro Fukagawa
+4747,nm0903137,Margarethe von Trotta
+4748,nm0879559,Ferenc Török
+4749,nm0542069,Giulio Manfredonia
+4750,nm1088871,Fred Andrews
+4751,nm0084819,Claus Bjerre
+4752,nm0548474,Stratos Markidis
+4753,nm8419163,Rick Barnes
+4754,nm0150802,Benny Chan
+4755,nm0431049,Dereck Joubert
+4756,nm1514261,Rosario Garcia-Montero
+4757,nm0832669,Vera Storozheva
+4758,nm2687585,Shalini Kantayya
+4759,nm0054276,Garri Bardin
+4760,nm1602570,Seon-Dong Yu
+4761,nm4014507,Francesco Henderson Pepe
+4762,nm4045057,Sylvain George
+4763,nm4056309,Özlem Akovaligil
+4764,nm0063357,Anees Bazmee
+4765,nm4072770,Paco Torres
+4766,nm4374332,William Spicer
+4767,nm2910657,Junji Shimizu
+4768,nm0847545,Noboru Takemoto
+4769,nm0231439,Francesco Maria Dominedò
+4770,nm1536498,Hae-Young Lee
+4771,nm0110300,Stéphane Brizé
+4772,nm4320125,Mukunda Michael Dewil
+4773,nm1101275,Paula de Luque
+4774,nm0745511,Christian Rouaud
+4775,nm0854697,Julien Temple
+4776,nm1362570,Joe Lynch
+4777,nm0005522,Mario Van Peebles
+4778,nm0083348,Brad Bird
+4779,nm0871428,Pete Travis
+4780,nm0718646,Jason Reitman
+4781,nm2128244,Yoshihiro Fukagawa
+4782,nm1516572,Hugo Stuven

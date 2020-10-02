@@ -26,9 +26,31 @@ As a result of our analysis we found that the number of votes/reviews mattered m
 
 ![](images/Correlation_between_profit_and_numvotes.png)
 
+When measuring return-on-investment, we identified six primary genres to focus resources on. When outlier movies were removed from the dataset, these genres displayed the highest ROI.
+
+![](images/Average ROI Per Genre.png)
+
+Lastly, we identified markets outside of the United States that may warrant further study. See "Next Steps" below for more information.  
+
 ## Conclusions
 
-Donec ligula est, dapibus et vestibulum eu, tempor et metus. Vestibulum cursus, odio a suscipit pretium, mauris odio luctus augue, in tempor urna dolor vehicula dui. Proin ipsum arcu, mollis non nulla nec, porttitor efficitur purus. Cras ornare quis diam vel molestie. Ut massa nibh, tincidunt non pulvinar et, elementum ac lectus. Suspendisse egestas tempus malesuada. Ut interdum eros eget lacus pellentesque cursus. Suspendisse potenti. Praesent varius at felis pharetra varius. Ut hendrerit velit risus, ac tempus sem cursus non. Cras quis justo non lacus egestas vehicula.
+Number of reviews can significantly impact profits, put time and energy into producing films that bring in reviews. Our findings indicate this number is more important than the average rating. Similar results have been found in this [study](https://link.springer.com/article/10.1007%2Fs11747-017-0561-6).
+ROI highest among movies with:
+
+                      - Crime
+                      - Documentary
+                      - Family
+                      - Music
+                      - Romance
+                      - Thriller
+
+The vast majority of movie spending takes place within the US, but there are less expensive places to make films and get a significant ROI. Cultural understanding and research into each region should be considered.
+
+## Next Steps
+
+Based on the cumulative ROI figures, additional analysis may yield insights into less competitive markets and more profitable audiences.
+
+![](Countries_sorted_by_cumulative_ROI.png)
 
 ### For More Information
 
@@ -39,8 +61,6 @@ For additional info, contact <brendanfrrs@gmail.com> or <david.bruce14@gmail.com
 ### Repository Structure
 <pre>
 ├── README.md
-├── __pycache__
-│   └── scripts.cpython-36.pyc
 ├── code
 ├── david_practice_visualizations.ipynb
 ├── images

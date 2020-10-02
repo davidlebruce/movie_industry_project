@@ -50,7 +50,7 @@ The vast majority of movie spending takes place within the US, but there are les
 
 Based on the cumulative ROI figures, additional analysis may yield insights into less competitive markets and more profitable audiences.
 
-![](Countries_sorted_by_cumulative_ROI.png)
+![](images/Countries_sorted_by_cumulative_ROI.png)
 
 ### For More Information
 

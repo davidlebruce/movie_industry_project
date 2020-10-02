@@ -61,7 +61,6 @@ For additional info, contact <brendanfrrs@gmail.com> or <david.bruce14@gmail.com
 ### Repository Structure
 <pre>
 ├── README.md
-├── code
 ├── data_cleaning.ipynb
 ├── david_practice_visualizations.ipynb
 ├── images

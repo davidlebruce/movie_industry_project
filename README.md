@@ -37,7 +37,7 @@ To see out full analysis, please refer to our [Jupyter Notebook](microsoft_movie
 For additional info, contact <brendanfrrs@gmail.com> or <david.bruce14@gmail.com>
 
 ### Repository Structure
-`text_with_grey_background`
+`text_with_grey_background
 ├── README.md
 ├── __pycache__
 │   └── scripts.cpython-36.pyc
@@ -80,4 +80,4 @@ For additional info, contact <brendanfrrs@gmail.com> or <david.bruce14@gmail.com
     ├── imdb.title.basics.csv.gz
     ├── imdb.title.crew.csv.gz
     ├── imdb.title.principals.csv.gz
-    └── imdb.title.ratings.csv.gz
+    └── imdb.title.ratings.csv.gz`

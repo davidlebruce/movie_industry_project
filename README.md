@@ -1,24 +1,30 @@
 # Microsoft Film Market Analysis
 
+
+
 ## Overview
 
 This project analyzes the potential opportunities for Microsoft to enter the film business. Descriptive analysis of Box Office information from [the Internet Movie Database](imdb.com).   
 
 ## Business Problem
 
-Our team has been put in charge of performing market analysis in order to explore what types of movies are doing the best at the box office. We will provide information ....
+Our team has been put in charge of performing market analysis in order to explore what types of movies are doing the best at the box office and provide insights to Microsoft decision makers who want to make a move into the film space.
 
 ## The Data
 
-Data collected from the Internet Movie Database (IMDb) from the past decade including budgets, domestic & worldwide gross, and Directors...
+Our data has been scraped from the Internet Movie Database (IMDb) from the past decade including budgets, domestic & worldwide gross, and Directors. Any movies that did not record *any* box office figures were discarded.
 
-### Methods
+In the folder [zippedData](./zippedData) are the baseline IMDb databases. Unique name and title id's from these filed were used by the scrapers found in [web_scrapers](./web_scrapers) to compile a more complete dataset which can be found in [scraped_data](./scraped_data)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla mi eros, eget facilisis libero lacinia sit amet. Aliquam sed eleifend nibh. Suspendisse suscipit fermentum augue vitae cursus. In accumsan feugiat lectus at aliquam. Sed imperdiet tempor ex, ut accumsan neque efficitur vehicula. In tincidunt ex eget est tincidunt, ac posuere mi suscipit. Praesent dui velit, finibus nec lobortis id, porta sit amet est. Maecenas pulvinar risus ligula, sed scelerisque orci fringilla quis. Donec pulvinar eu arcu nec hendrerit. Morbi volutpat eget erat non convallis. Sed quis ante vel felis consectetur interdum vitae a velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+## Methods
 
-### Results
+This project provides descriptive analysis of over 15,000 movies released in the last decade. It provides insights to stakeholders who are exploring entry into the film industry.
 
-Donec ligula est, dapibus et vestibulum eu, tempor et metus. Vestibulum cursus, odio a suscipit pretium, mauris odio luctus augue, in tempor urna dolor vehicula dui. Proin ipsum arcu, mollis non nulla nec, porttitor efficitur purus. Cras ornare quis diam vel molestie. Ut massa nibh, tincidunt non pulvinar et, elementum ac lectus. Suspendisse egestas tempus malesuada. Ut interdum eros eget lacus pellentesque cursus. Suspendisse potenti. Praesent varius at felis pharetra varius. Ut hendrerit velit risus, ac tempus sem cursus non. Cras quis justo non lacus egestas vehicula.
+## Results
+
+As a result of our analysis we found that the number of votes/reviews mattered most in relation to profits.
+
+![](./images/Correlation_between_profit_andnumvotes.png)
 
 ## Conclusions
 
@@ -26,8 +32,19 @@ Donec ligula est, dapibus et vestibulum eu, tempor et metus. Vestibulum cursus, 
 
 ### For More Information
 
-Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository.
+To see out full analysis, please refer to our [Jupyter Notebook](microsoft_movie_analysis.ipynb)
+
+For additional info, contact <brendanfrrs@gmail.com> or <david.bruce14@gmail.com>
 
 ### Repository Structure
 
-Add structure here.
+├── code                    #
+├── scraped_data            # .csv files containing scraped data.
+├── web_scrapers            # web scrapers used for name and title information.
+├── zippedData              # Initial IMDb database files
+├── imdb_data_exp.ipynb
+├── master_table.csv
+├── microsoft_movie_analysis.ipynb
+├── movie_data_visualizations.ipynb
+├── scripts.py
+└── README.md

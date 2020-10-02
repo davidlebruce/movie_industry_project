@@ -62,7 +62,6 @@ For additional info, contact <brendanfrrs@gmail.com> or <david.bruce14@gmail.com
 <pre>
 ├── README.md
 ├── data_cleaning.ipynb
-├── david_practice_visualizations.ipynb
 ├── images
 │   ├── Average_ROI_Per_Genre.png
 │   ├── Correlation_between_profit_and_numvotes.png

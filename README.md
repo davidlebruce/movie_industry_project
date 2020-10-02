@@ -62,7 +62,6 @@ For additional info, contact <brendanfrrs@gmail.com> or <david.bruce14@gmail.com
 <pre>
 ├── Countries_sorted_by_cumulative_ROI.png
 ├── README.md
-├── code
 ├── data_cleaning.ipynb
 ├── images
 │   ├── Average_ROI_Per_Genre.png

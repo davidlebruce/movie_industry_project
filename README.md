@@ -1,6 +1,6 @@
 # Microsoft Film Market Analysis
 
-
+![](images/RE2r0Th.png)
 
 ## Overview
 

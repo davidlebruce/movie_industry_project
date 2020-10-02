@@ -1,93 +1,104 @@
-# Phase 1 Project
+# Microsoft Film Market Analysis
 
-## Introduction
+![](images/RE2r0Th.png)
 
-In this lesson, we review the guidelines for the Phase 1 Project.
+## Overview
 
-## Objectives
+This project analyzes the potential opportunities for Microsoft to enter the film business. Descriptive analysis of Box Office information from [the Internet Movie Database](imdb.com).   
 
-You will be able to:
+## Business Problem
 
-* Start your Phase 1 Project
-* Check that your project meets the requirements
-* Submit your project materials in Canvas
-* Prepare for your project review
+Our team has been put in charge of performing market analysis in order to explore what types of movies are doing the best at the box office and provide insights to Microsoft decision makers who want to make a move into the film space.
 
-## Project Overview
+## The Data
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+Our data has been scraped from the Internet Movie Database (IMDb) from the past decade including ratings, online vote counts, budgets, domestic & worldwide gross, and Directors. Any movies that did not record *any* box office figures were discarded.
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
+In the folder [zippedData](./zippedData) are the baseline IMDb databases. Unique name and title id's from these files were used by the scrapers found in [web_scrapers](./web_scrapers) to compile a more complete dataset which can be found in [scraped_data](./scraped_data) Our cleaned dataset can be found [here](./master_table.csv)
 
-All that remains in Phase 1 is to put our newfound data science skills to use with a large project! This project will take an entire week to complete.
+## Methods
 
-### Business Problem
+This project provides descriptive analysis of over 15,000 movies released in the last decade. It provides insights to stakeholders who are exploring entry into the film industry.
 
-Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
-Your team is charged with exploring what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+## Results
 
-### The Data
+As a result of our analysis we found that the number of votes/reviews mattered most in relation to profits.
 
-In the folder `zippedData` are movie datasets from:
+![](images/Correlation_between_profit_and_numvotes.png)
 
-* Box Office Mojo
-* IMDB
-* Rotten Tomatoes
-* TheMovieDB.org
+When measuring return-on-investment, we identified six primary genres to focus resources on. When outlier movies were removed from the dataset, these genres displayed the highest ROI.
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+![](images/Average_ROI_Per_Genre.png)
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+Lastly, we identified markets outside of the United States that may warrant further study. See "Next Steps" below for more information.  
 
-## Deliverables
+## Conclusions
 
-There are three deliverables for this project:
+Number of reviews can significantly impact profits, put time and energy into producing films that bring in reviews. Our findings indicate this number is more important than the average rating. Similar results have been found in this [study](https://link.springer.com/article/10.1007%2Fs11747-017-0561-6).
+ROI highest among movies with:
 
-1. A **GitHub repository**
-2. A **Jupyter Notebook**
-3. A **non-technical presentation**
+                      - Crime
+                      - Documentary
+                      - Family
+                      - Music
+                      - Romance
+                      - Thriller
 
-Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
+The vast majority of movie spending takes place within the US, but there are less expensive places to make films and get a significant ROI. Cultural understanding and research into each region should be considered.
 
-We provide a few resources to help you understand what makes for good deliverables.
-- The rubric associated with this assignment
-- [A template for you to use, with an example for reference][].
+## Next Steps
 
-### GitHub Repository
+Based on the cumulative ROI figures, additional analysis may yield insights into less competitive markets and more profitable audiences.
 
-Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository.
+![](images/Countries_sorted_by_cumulative_ROI.png)
 
-### Jupyter Notebook
+### For More Information
 
-Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
+To see out full analysis, please refer to our [Jupyter Notebook](microsoft_movie_analysis.ipynb)
 
-### Non-Technical Presentation
+For additional info, contact <brendanfrrs@gmail.com> or <david.bruce14@gmail.com>
 
-Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides.
-
-## Getting Started
-
-Please start by reviewing this document. If you have any questions, please ask your instructor ASAP.
-
-We recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository][], clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review [the Phase Project Submission and Review guidance][] to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
-
-## Tips
-
-Ask for help from your peers or instructors early and often.
-
-[A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template
-[Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
-[the Phase 1 Project Repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-campus
-[the Phase Project Submission and Review guidance]: https://github.com/learn-co-curriculum/dsc-project-submissions-campus
+### Repository Structure
+<pre>
+├── Countries_sorted_by_cumulative_ROI.png
+├── README.md
+├── code
+├── data_cleaning.ipynb
+├── images
+│   ├── Average_ROI_Per_Genre.png
+│   ├── Correlation_between_profit_and_numvotes.png
+│   ├── Countries_sorted_by_cumulative_ROI.png
+│   ├── RE2r0Th.png
+│   ├── movies_per_genre.png
+│   └── votes_profit_correlation.png
+├── master_table.csv
+├── microsoft_movie_analysis.ipynb
+├── presentation.pdf
+├── scraped_data
+│   ├── imdb_monetary_data_102849_.csv
+│   ├── imdb_monetary_data_16590.csv
+│   ├── imdb_monetary_data_16591_to_25214_.csv
+│   ├── imdb_monetary_data_29214_.csv
+│   ├── imdb_monetary_data_33736_.csv
+│   ├── imdb_monetary_data_49857_.csv
+│   ├── imdb_monetary_data_65930_.csv
+│   ├── imdb_monetary_data_67456_.csv
+│   ├── imdb_monetary_data_77436_.csv
+│   ├── imdb_name_list_13173_.csv
+│   ├── imdb_name_list_202_.csv
+│   ├── imdb_name_list_2268_.csv
+│   ├── imdb_name_list_3016_.csv
+│   ├── imdb_name_list_304_.csv
+│   ├── imdb_name_list_7799_.csv
+│   └── list_of_directors.csv
+├── scripts.py
+├── web_scrapers
+│   ├── financial_data_scraper_imdb.ipynb
+│   └── name_scraper_imdb.ipynb
+└── zippedData
+    ├── imdb.name.basics.csv.gz
+    ├── imdb.title.akas.csv.gz
+    ├── imdb.title.basics.csv.gz
+    ├── imdb.title.crew.csv.gz
+    ├── imdb.title.principals.csv.gz
+    └── imdb.title.ratings.csv.gz<pre>

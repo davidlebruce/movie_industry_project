@@ -28,7 +28,7 @@ As a result of our analysis we found that the number of votes/reviews mattered m
 
 When measuring return-on-investment, we identified six primary genres to focus resources on. When outlier movies were removed from the dataset, these genres displayed the highest ROI.
 
-![](images/Average ROI Per Genre.png)
+![](images/Average_ROI_Per_Genre.png)
 
 Lastly, we identified markets outside of the United States that may warrant further study. See "Next Steps" below for more information.  
 

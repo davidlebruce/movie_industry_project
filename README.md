@@ -24,7 +24,7 @@ This project provides descriptive analysis of over 15,000 movies released in the
 
 As a result of our analysis we found that the number of votes/reviews mattered most in relation to profits.
 
-![](./images/Correlation_between_profit_andnumvotes.png)
+![](images/Correlation_between_profit_and_numvotes.png)
 
 ## Conclusions
 

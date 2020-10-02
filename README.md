@@ -69,8 +69,7 @@ For additional info, contact <brendanfrrs@gmail.com> or <david.bruce14@gmail.com
 │   ├── Correlation_between_profit_and_numvotes.png
 │   ├── Countries_sorted_by_cumulative_ROI.png
 │   ├── Number\ of\ Movies\ per\ Genre.png
-│   ├── RE2r0Th.png
-│   └── fHBA4cnnUNMz7pet6GVpSe-970-80.png
+│   └── RE2r0Th.png
 ├── master_table.csv
 ├── microsoft_movie_analysis.ipynb
 ├── scraped_data

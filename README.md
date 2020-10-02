@@ -60,16 +60,20 @@ For additional info, contact <brendanfrrs@gmail.com> or <david.bruce14@gmail.com
 
 ### Repository Structure
 <pre>
+├── Countries_sorted_by_cumulative_ROI.png
 ├── README.md
+├── code
 ├── data_cleaning.ipynb
 ├── images
 │   ├── Average_ROI_Per_Genre.png
 │   ├── Correlation_between_profit_and_numvotes.png
 │   ├── Countries_sorted_by_cumulative_ROI.png
-│   ├── Number\ of\ Movies\ per\ Genre.png
-│   └── RE2r0Th.png
+│   ├── RE2r0Th.png
+│   ├── movies_per_genre.png
+│   └── votes_profit_correlation.png
 ├── master_table.csv
 ├── microsoft_movie_analysis.ipynb
+├── presentation.pdf
 ├── scraped_data
 │   ├── imdb_monetary_data_102849_.csv
 │   ├── imdb_monetary_data_16590.csv

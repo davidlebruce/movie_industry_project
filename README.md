@@ -14,7 +14,7 @@ Our team has been put in charge of performing market analysis in order to explor
 
 Our data has been scraped from the Internet Movie Database (IMDb) from the past decade including ratings, online vote counts, budgets, domestic & worldwide gross, and Directors. Any movies that did not record *any* box office figures were discarded.
 
-In the folder [zippedData](./zippedData) are the baseline IMDb databases. Unique name and title id's from these filed were used by the scrapers found in [web_scrapers](./web_scrapers) to compile a more complete dataset which can be found in [scraped_data](./scraped_data) Our cleaned dataset can be found [here](./master_table.csv)
+In the folder [zippedData](./zippedData) are the baseline IMDb databases. Unique name and title id's from these files were used by the scrapers found in [web_scrapers](./web_scrapers) to compile a more complete dataset which can be found in [scraped_data](./scraped_data) Our cleaned dataset can be found [here](./master_table.csv)
 
 ## Methods
 
